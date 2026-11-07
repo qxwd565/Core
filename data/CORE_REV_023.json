@@ -1,0 +1,114 @@
+{
+  "schemaVersion": 1,
+  "mode": "constructed",
+  "englishName": "Demolition Renovator",
+  "card": {
+    "id": "CORE_REV_023",
+    "dbfId": 115971,
+    "name": "철거 재건축가",
+    "text": "<b>교환성</b>\n<b>전투의 함성:</b> 적 장소를 파괴합니다.",
+    "type": "MINION",
+    "cardClass": "NEUTRAL",
+    "classes": [],
+    "nativeSetId": 1637,
+    "set": "CORE",
+    "rarity": "EPIC",
+    "race": "",
+    "races": [],
+    "spellSchool": "",
+    "cost": 3,
+    "attack": 3,
+    "health": 3,
+    "armor": 0,
+    "durability": 0,
+    "collectible": true,
+    "chooseOne": false,
+    "installed": true,
+    "portrait": "HS26-093_M.tif:709190e985ad4732b77651e2936c464f",
+    "flavor": "\"참 나, 대영주님께서 좀 더 개방된 공간을 원하셨다니까.\"",
+    "nativeTags": [
+      {
+        "id": 45,
+        "name": "생명력",
+        "value": 3
+      },
+      {
+        "id": 47,
+        "name": "공격력",
+        "value": 3
+      },
+      {
+        "id": 48,
+        "name": "마나 비용",
+        "value": 3
+      },
+      {
+        "id": 199,
+        "name": "직업",
+        "value": 12
+      },
+      {
+        "id": 202,
+        "name": "카드 유형",
+        "value": 4
+      },
+      {
+        "id": 203,
+        "name": "희귀도",
+        "value": 4
+      },
+      {
+        "id": 218,
+        "name": "전투의 함성",
+        "value": 1
+      },
+      {
+        "id": 321,
+        "name": "수집 가능",
+        "value": 1
+      },
+      {
+        "id": 858,
+        "name": "게임 태그 858",
+        "value": 79990
+      },
+      {
+        "id": 1413,
+        "name": "게임 태그 1413",
+        "value": 79990
+      },
+      {
+        "id": 1720,
+        "name": "교환성",
+        "value": 1
+      },
+      {
+        "id": 1743,
+        "name": "덱 행동 비용",
+        "value": 1
+      }
+    ],
+    "nativeRawText": "<b>교환성</b>\n<b>전투의 함성:</b> 적 장소를 파괴합니다.",
+    "nativeTextBuilder": 0
+  },
+  "root": true,
+  "relatedIds": [],
+  "expansion": {
+    "id": 1637,
+    "slug": "core",
+    "name": "핵심",
+    "type": "",
+    "englishName": "Core"
+  },
+  "setOrder": 44,
+  "formats": [
+    "standard",
+    "wild"
+  ],
+  "provenance": {
+    "source": "Installed Hearthstone dbf.unity3d",
+    "gameVersion": "6000.3.11.3145967",
+    "dbfSha256": "40d9a232262d33eb670848ce3f87e58f5b4fd084632d9876216478a8b21e9456",
+    "locale": "koKR"
+  }
+}

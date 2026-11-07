@@ -1,0 +1,106 @@
+{
+  "schemaVersion": 1,
+  "mode": "constructed",
+  "englishName": "Lifedrinker",
+  "card": {
+    "id": "CORE_GIL_622",
+    "dbfId": 76320,
+    "name": "흡혈충",
+    "text": "<b>전투의 함성:</b> 적 영웅에게 피해를 3 줍니다. 내 영웅의 생명력을 #3 회복시킵니다.",
+    "type": "MINION",
+    "cardClass": "NEUTRAL",
+    "classes": [],
+    "nativeSetId": 1637,
+    "set": "CORE",
+    "rarity": "RARE",
+    "race": "야수",
+    "races": [
+      "BEAST"
+    ],
+    "spellSchool": "",
+    "cost": 4,
+    "attack": 3,
+    "health": 3,
+    "armor": 0,
+    "durability": 0,
+    "collectible": true,
+    "chooseOne": false,
+    "installed": true,
+    "portrait": "HS13-253_M.psd:21d794e7e50496a4e9b72885bbfe70ad",
+    "flavor": "성수: 제로도 즐겨 마신다고 합니다.",
+    "nativeTags": [
+      {
+        "id": 45,
+        "name": "생명력",
+        "value": 3
+      },
+      {
+        "id": 47,
+        "name": "공격력",
+        "value": 3
+      },
+      {
+        "id": 48,
+        "name": "마나 비용",
+        "value": 4
+      },
+      {
+        "id": 199,
+        "name": "직업",
+        "value": 12
+      },
+      {
+        "id": 200,
+        "name": "종족",
+        "value": 20
+      },
+      {
+        "id": 202,
+        "name": "카드 유형",
+        "value": 4
+      },
+      {
+        "id": 203,
+        "name": "희귀도",
+        "value": 3
+      },
+      {
+        "id": 218,
+        "name": "전투의 함성",
+        "value": 1
+      },
+      {
+        "id": 321,
+        "name": "수집 가능",
+        "value": 1
+      },
+      {
+        "id": 858,
+        "name": "게임 태그 858",
+        "value": 47343
+      }
+    ],
+    "nativeRawText": "<b>전투의_함성:</b> 적 영웅에게 피해를 3 줍니다. 내 영웅의 생명력을 #3 회복시킵니다.",
+    "nativeTextBuilder": 0
+  },
+  "root": true,
+  "relatedIds": [],
+  "expansion": {
+    "id": 1637,
+    "slug": "core",
+    "name": "핵심",
+    "type": "",
+    "englishName": "Core"
+  },
+  "setOrder": 44,
+  "formats": [
+    "standard",
+    "wild"
+  ],
+  "provenance": {
+    "source": "Installed Hearthstone dbf.unity3d",
+    "gameVersion": "6000.3.11.3145967",
+    "dbfSha256": "40d9a232262d33eb670848ce3f87e58f5b4fd084632d9876216478a8b21e9456",
+    "locale": "koKR"
+  }
+}

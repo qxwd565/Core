@@ -1,0 +1,136 @@
+{
+  "schemaVersion": 1,
+  "mode": "constructed",
+  "englishName": "Siamat",
+  "card": {
+    "id": "CORE_ULD_178",
+    "dbfId": 111464,
+    "name": "시아마트",
+    "text": "<b>전투의 함성:</b> <b>속공</b>, <b>도발</b>, <b>천상의 보호막</b>, <b>질풍</b> 중 2가지 능력을 얻습니다. <i>(선택 가능)</i>",
+    "type": "MINION",
+    "cardClass": "NEUTRAL",
+    "classes": [],
+    "nativeSetId": 1637,
+    "set": "CORE",
+    "rarity": "LEGENDARY",
+    "race": "정령",
+    "races": [
+      "ELEMENTAL"
+    ],
+    "spellSchool": "",
+    "cost": 7,
+    "attack": 7,
+    "health": 7,
+    "armor": 0,
+    "durability": 0,
+    "collectible": true,
+    "chooseOne": false,
+    "installed": true,
+    "portrait": "HS17-078.tif:684b012c2f2a4e46bb757dab16000450",
+    "flavor": "질풍을 두 번 선택하면 왜 광풍이 되지 않죠?",
+    "nativeTags": [
+      {
+        "id": 45,
+        "name": "생명력",
+        "value": 7
+      },
+      {
+        "id": 47,
+        "name": "공격력",
+        "value": 7
+      },
+      {
+        "id": 48,
+        "name": "마나 비용",
+        "value": 7
+      },
+      {
+        "id": 114,
+        "name": "전설 속성",
+        "value": 1
+      },
+      {
+        "id": 189,
+        "name": "질풍",
+        "value": 1
+      },
+      {
+        "id": 190,
+        "name": "도발",
+        "value": 1
+      },
+      {
+        "id": 194,
+        "name": "천상의 보호막",
+        "value": 1
+      },
+      {
+        "id": 199,
+        "name": "직업",
+        "value": 12
+      },
+      {
+        "id": 200,
+        "name": "종족",
+        "value": 18
+      },
+      {
+        "id": 202,
+        "name": "카드 유형",
+        "value": 4
+      },
+      {
+        "id": 203,
+        "name": "희귀도",
+        "value": 5
+      },
+      {
+        "id": 218,
+        "name": "전투의 함성",
+        "value": 1
+      },
+      {
+        "id": 321,
+        "name": "수집 가능",
+        "value": 1
+      },
+      {
+        "id": 791,
+        "name": "속공",
+        "value": 1
+      },
+      {
+        "id": 858,
+        "name": "게임 태그 858",
+        "value": 54148
+      }
+    ],
+    "nativeRawText": "<b>전투의 함성:</b> <b>속공</b>, <b>도발</b>, <b>천상의 보호막</b>, <b>질풍</b> 중 2가지 능력을 얻습니다. <i>(선택 가능)</i>",
+    "nativeTextBuilder": 0
+  },
+  "root": true,
+  "relatedIds": [
+    54152,
+    54151,
+    54150,
+    54149
+  ],
+  "expansion": {
+    "id": 1637,
+    "slug": "core",
+    "name": "핵심",
+    "type": "",
+    "englishName": "Core"
+  },
+  "setOrder": 44,
+  "formats": [
+    "standard",
+    "wild"
+  ],
+  "provenance": {
+    "source": "Installed Hearthstone dbf.unity3d",
+    "gameVersion": "6000.3.11.3145967",
+    "dbfSha256": "40d9a232262d33eb670848ce3f87e58f5b4fd084632d9876216478a8b21e9456",
+    "locale": "koKR"
+  }
+}

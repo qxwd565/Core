@@ -1,0 +1,94 @@
+{
+  "schemaVersion": 1,
+  "mode": "constructed",
+  "englishName": "Anti-Magic Shell",
+  "card": {
+    "id": "RLK_048",
+    "dbfId": 78342,
+    "name": "대마법 보호막",
+    "text": "내 하수인들에게 +1/+1과 <b>모면</b>을 부여합니다.",
+    "type": "SPELL",
+    "cardClass": "DEATHKNIGHT",
+    "classes": [],
+    "nativeSetId": 1637,
+    "set": "CORE",
+    "rarity": "RARE",
+    "race": "",
+    "races": [],
+    "spellSchool": "SHADOW",
+    "cost": 3,
+    "attack": 0,
+    "health": 0,
+    "armor": 0,
+    "durability": 0,
+    "collectible": true,
+    "chooseOne": false,
+    "installed": true,
+    "portrait": "W10_A173.tif:59a3bdc7b6c849638ac5e53081efee48",
+    "flavor": "마법을 막는 주문이라니. 나중에 마법을 막는 주문을 막는 마법이 나오진 않겠죠?",
+    "nativeTags": [
+      {
+        "id": 48,
+        "name": "마나 비용",
+        "value": 3
+      },
+      {
+        "id": 199,
+        "name": "직업",
+        "value": 1
+      },
+      {
+        "id": 202,
+        "name": "카드 유형",
+        "value": 5
+      },
+      {
+        "id": 203,
+        "name": "희귀도",
+        "value": 3
+      },
+      {
+        "id": 321,
+        "name": "수집 가능",
+        "value": 1
+      },
+      {
+        "id": 1211,
+        "name": "모면",
+        "value": 1
+      },
+      {
+        "id": 1635,
+        "name": "주문 속성",
+        "value": 6
+      },
+      {
+        "id": 2198,
+        "name": "부정 룬",
+        "value": 1
+      }
+    ],
+    "nativeRawText": "내 하수인들에게 +1/+1과 <b>모면</b>을 부여합니다.",
+    "nativeTextBuilder": 0
+  },
+  "root": true,
+  "relatedIds": [],
+  "expansion": {
+    "id": 1637,
+    "slug": "core",
+    "name": "핵심",
+    "type": "",
+    "englishName": "Core"
+  },
+  "setOrder": 44,
+  "formats": [
+    "standard",
+    "wild"
+  ],
+  "provenance": {
+    "source": "Installed Hearthstone dbf.unity3d",
+    "gameVersion": "6000.3.11.3145967",
+    "dbfSha256": "40d9a232262d33eb670848ce3f87e58f5b4fd084632d9876216478a8b21e9456",
+    "locale": "koKR"
+  }
+}

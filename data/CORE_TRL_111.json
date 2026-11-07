@@ -1,0 +1,99 @@
+{
+  "schemaVersion": 1,
+  "mode": "constructed",
+  "englishName": "Headhunter's Hatchet",
+  "card": {
+    "id": "CORE_TRL_111",
+    "dbfId": 69695,
+    "name": "인간사냥꾼의 손도끼",
+    "text": "<b>전투의 함성:</b>\n내 전장에 야수가 있으면, 내구도를\n+1 얻습니다.",
+    "type": "WEAPON",
+    "cardClass": "HUNTER",
+    "classes": [],
+    "nativeSetId": 1637,
+    "set": "CORE",
+    "rarity": "COMMON",
+    "race": "",
+    "races": [],
+    "spellSchool": "",
+    "cost": 2,
+    "attack": 2,
+    "health": 0,
+    "armor": 0,
+    "durability": 2,
+    "collectible": true,
+    "chooseOne": false,
+    "installed": true,
+    "portrait": "HS15-018_W.psd:b5f5bb425f0a31b459f6a21c11a63fb1",
+    "flavor": "줄진이 인간들을 고용할 때 사용하는 도구입니다.",
+    "nativeTags": [
+      {
+        "id": 45,
+        "name": "생명력",
+        "value": 2
+      },
+      {
+        "id": 47,
+        "name": "공격력",
+        "value": 2
+      },
+      {
+        "id": 48,
+        "name": "마나 비용",
+        "value": 2
+      },
+      {
+        "id": 199,
+        "name": "직업",
+        "value": 3
+      },
+      {
+        "id": 202,
+        "name": "카드 유형",
+        "value": 7
+      },
+      {
+        "id": 203,
+        "name": "희귀도",
+        "value": 1
+      },
+      {
+        "id": 218,
+        "name": "전투의 함성",
+        "value": 1
+      },
+      {
+        "id": 321,
+        "name": "수집 가능",
+        "value": 1
+      },
+      {
+        "id": 858,
+        "name": "게임 태그 858",
+        "value": 50608
+      }
+    ],
+    "nativeRawText": "<b>전투의 함성:</b>\n내 전장에 야수가 있으면, 내구도를\n+1 얻습니다.",
+    "nativeTextBuilder": 0
+  },
+  "root": true,
+  "relatedIds": [],
+  "expansion": {
+    "id": 1637,
+    "slug": "core",
+    "name": "핵심",
+    "type": "",
+    "englishName": "Core"
+  },
+  "setOrder": 44,
+  "formats": [
+    "standard",
+    "wild"
+  ],
+  "provenance": {
+    "source": "Installed Hearthstone dbf.unity3d",
+    "gameVersion": "6000.3.11.3145967",
+    "dbfSha256": "40d9a232262d33eb670848ce3f87e58f5b4fd084632d9876216478a8b21e9456",
+    "locale": "koKR"
+  }
+}
