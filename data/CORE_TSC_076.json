@@ -74,7 +74,9 @@
       }
     ],
     "nativeRawText": "<b>도발</b> 능력이 있는 4/8, 2/4, 1/2 정령을 소환합니다.",
-    "nativeTextBuilder": 0
+    "nativeTextBuilder": 0,
+    "releasedAt": "2021-03-31",
+    "releaseStatus": "estimated"
   },
   "root": true,
   "relatedIds": [

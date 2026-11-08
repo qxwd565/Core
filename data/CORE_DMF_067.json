@@ -96,7 +96,9 @@
       }
     ],
     "nativeRawText": "<b>전투의 함성과\n죽음의 메아리</b>:&\n각 플레이어가 카드를 뽑습니다.",
-    "nativeTextBuilder": 0
+    "nativeTextBuilder": 0,
+    "releasedAt": "2021-03-31",
+    "releaseStatus": "estimated"
   },
   "root": true,
   "relatedIds": [],

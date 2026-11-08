@@ -84,7 +84,9 @@
       }
     ],
     "nativeRawText": "[x]내 영웅이 피해를 받을\n때마다 내구도를 1 잃고\n그 피해를 막습니다.",
-    "nativeTextBuilder": 0
+    "nativeTextBuilder": 0,
+    "releasedAt": "2021-03-31",
+    "releaseStatus": "estimated"
   },
   "root": true,
   "relatedIds": [],

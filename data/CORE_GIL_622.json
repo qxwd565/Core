@@ -81,7 +81,9 @@
       }
     ],
     "nativeRawText": "<b>전투의_함성:</b> 적 영웅에게 피해를 3 줍니다. 내 영웅의 생명력을 #3 회복시킵니다.",
-    "nativeTextBuilder": 0
+    "nativeTextBuilder": 0,
+    "releasedAt": "2021-03-31",
+    "releaseStatus": "estimated"
   },
   "root": true,
   "relatedIds": [],

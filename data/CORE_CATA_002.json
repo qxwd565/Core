@@ -81,7 +81,9 @@
       }
     ],
     "nativeRawText": "<b>전투의 함성:</b> 이번 게임에서 죽은 비용이 가장 높은\n내 하수인을 부활시킵니다.",
-    "nativeTextBuilder": 0
+    "nativeTextBuilder": 0,
+    "releasedAt": "2021-03-31",
+    "releaseStatus": "estimated"
   },
   "root": true,
   "relatedIds": [],

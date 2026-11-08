@@ -69,7 +69,9 @@
       }
     ],
     "nativeRawText": "내 하수인들에게 +1/+1과 <b>모면</b>을 부여합니다.",
-    "nativeTextBuilder": 0
+    "nativeTextBuilder": 0,
+    "releasedAt": "2022-12-07",
+    "releaseStatus": "verified"
   },
   "root": true,
   "relatedIds": [],

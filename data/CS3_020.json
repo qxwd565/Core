@@ -81,7 +81,9 @@
       }
     ],
     "nativeRawText": "[x]<b>속공</b>, 내 영웅이 공격한\n후에, 이 하수인도\n그 대상을 공격합니다.",
-    "nativeTextBuilder": 0
+    "nativeTextBuilder": 0,
+    "releasedAt": "2021-03-31",
+    "releaseStatus": "verified"
   },
   "root": true,
   "relatedIds": [],

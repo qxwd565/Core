@@ -76,7 +76,9 @@
       }
     ],
     "nativeRawText": "<b>도발</b>\n<i><b>시체</b>를 남기지 않습니다.</i>",
-    "nativeTextBuilder": 0
+    "nativeTextBuilder": 0,
+    "releasedAt": "2022-12-07",
+    "releaseStatus": "verified"
   },
   "root": false,
   "relatedIds": [],

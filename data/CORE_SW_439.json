@@ -86,7 +86,9 @@
       }
     ],
     "nativeRawText": "[x]<b>죽음의 메아리:</b> 내 덱에\n도토리를 넷 섞어 넣습니다.\n도토리를 뽑으면, 2/1\n다람쥐를 소환합니다.",
-    "nativeTextBuilder": 0
+    "nativeTextBuilder": 0,
+    "releasedAt": "2021-03-31",
+    "releaseStatus": "estimated"
   },
   "root": true,
   "relatedIds": [

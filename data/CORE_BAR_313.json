@@ -94,7 +94,9 @@
       }
     ],
     "nativeRawText": "<b>도발</b>, <b>전투의 함성:</b> 이번 턴에 생명력을 회복했으면& +3/+3을 얻습니다.",
-    "nativeTextBuilder": 7
+    "nativeTextBuilder": 7,
+    "releasedAt": "2021-03-31",
+    "releaseStatus": "estimated"
   },
   "root": true,
   "relatedIds": [],

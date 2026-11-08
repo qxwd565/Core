@@ -96,7 +96,9 @@
       }
     ],
     "nativeRawText": "[x]<b>죽음의 메아리</b>:&\n무작위 아군 하수인에게\n이 하수인의 공격력을\n부여합니다.",
-    "nativeTextBuilder": 0
+    "nativeTextBuilder": 0,
+    "releasedAt": "2021-03-31",
+    "releaseStatus": "estimated"
   },
   "root": true,
   "relatedIds": [],

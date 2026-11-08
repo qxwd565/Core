@@ -69,7 +69,9 @@
       }
     ],
     "nativeRawText": "다른 직업의 비용이 (5) 이상인 무작위 주문 둘을 내 손으로 가져옵니다.",
-    "nativeTextBuilder": 0
+    "nativeTextBuilder": 0,
+    "releasedAt": "2021-03-31",
+    "releaseStatus": "estimated"
   },
   "root": true,
   "relatedIds": [],

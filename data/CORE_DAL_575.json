@@ -89,7 +89,9 @@
       }
     ],
     "nativeRawText": "[x]하수인을 소환하는\n내 카드들이 하수인을\n두 배로 소환합니다.",
-    "nativeTextBuilder": 0
+    "nativeTextBuilder": 0,
+    "releasedAt": "2021-03-31",
+    "releaseStatus": "estimated"
   },
   "root": true,
   "relatedIds": [],

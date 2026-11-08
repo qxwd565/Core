@@ -101,7 +101,9 @@
       }
     ],
     "nativeRawText": "<b>전투의 함성:</b> 이번 게임 동안 내 턴이 끝날 때, 적 영웅에게 피해를 3 줍니다.",
-    "nativeTextBuilder": 0
+    "nativeTextBuilder": 0,
+    "releasedAt": "2021-03-31",
+    "releaseStatus": "estimated"
   },
   "root": true,
   "relatedIds": [],

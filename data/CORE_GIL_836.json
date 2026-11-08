@@ -84,7 +84,9 @@
       }
     ],
     "nativeRawText": "[x]<b>전투의 함성</b> 하수인을\n<b>발견</b>합니다. 그 하수인의\n비용이 (1) 감소합니다.",
-    "nativeTextBuilder": 0
+    "nativeTextBuilder": 0,
+    "releasedAt": "2021-03-31",
+    "releaseStatus": "estimated"
   },
   "root": true,
   "relatedIds": [],

@@ -86,7 +86,9 @@
       }
     ],
     "nativeRawText": "내 턴이 끝날 때, 무작위 주문을 상대편의 덱 맨 위에 놓습니다.",
-    "nativeTextBuilder": 0
+    "nativeTextBuilder": 0,
+    "releasedAt": "2021-03-31",
+    "releaseStatus": "estimated"
   },
   "root": true,
   "relatedIds": [],

@@ -94,7 +94,9 @@
       }
     ],
     "nativeRawText": "<b>비밀:</b> 내 영웅이 공격받으면, 방어도를 +8 얻습니다.",
-    "nativeTextBuilder": 0
+    "nativeTextBuilder": 0,
+    "releasedAt": "2021-03-31",
+    "releaseStatus": "estimated"
   },
   "root": true,
   "relatedIds": [],

@@ -89,7 +89,9 @@
       }
     ],
     "nativeRawText": "이 하수인 또는 옆에 있는 하수인이 공격한 후에,& 번개 화살을 얻습니다.",
-    "nativeTextBuilder": 0
+    "nativeTextBuilder": 0,
+    "releasedAt": "2021-03-31",
+    "releaseStatus": "estimated"
   },
   "root": true,
   "relatedIds": [

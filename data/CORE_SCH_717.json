@@ -89,7 +89,9 @@
       }
     ],
     "nativeRawText": "상대편이 카드를 뽑을 때마다 그 카드를 복사하여 내 손으로 가져옵니다. 그 카드의 비용이 (1)이 됩니다.",
-    "nativeTextBuilder": 0
+    "nativeTextBuilder": 0,
+    "releasedAt": "2021-03-31",
+    "releaseStatus": "estimated"
   },
   "root": true,
   "relatedIds": [],

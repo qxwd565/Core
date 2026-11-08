@@ -84,7 +84,9 @@
       }
     ],
     "nativeRawText": "캐릭터에게 피해를 $3 주고 <b>빙결</b> 상태로 만듭니다.",
-    "nativeTextBuilder": 0
+    "nativeTextBuilder": 0,
+    "releasedAt": "2021-03-31",
+    "releaseStatus": "estimated"
   },
   "root": true,
   "relatedIds": [],

@@ -96,7 +96,9 @@
       }
     ],
     "nativeRawText": "<b>도발</b>, <b>죽음의 메아리:</b>& 모든 아군 캐릭터의 생명력을 #8 회복시킵니다.",
-    "nativeTextBuilder": 0
+    "nativeTextBuilder": 0,
+    "releasedAt": "2021-03-31",
+    "releaseStatus": "estimated"
   },
   "root": true,
   "relatedIds": [],

@@ -86,7 +86,9 @@
       }
     ],
     "nativeRawText": "매 턴이 시작될 때, 공격력을 +1 얻습니다.",
-    "nativeTextBuilder": 0
+    "nativeTextBuilder": 0,
+    "releasedAt": "2021-03-31",
+    "releaseStatus": "estimated"
   },
   "root": true,
   "relatedIds": [],

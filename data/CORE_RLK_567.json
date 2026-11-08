@@ -84,7 +84,9 @@
       }
     ],
     "nativeRawText": "내가 주문을 시전할 때마다 그 카드로 변신합니다.",
-    "nativeTextBuilder": 0
+    "nativeTextBuilder": 0,
+    "releasedAt": "2021-03-31",
+    "releaseStatus": "estimated"
   },
   "root": true,
   "relatedIds": [],

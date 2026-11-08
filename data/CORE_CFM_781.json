@@ -99,7 +99,9 @@
       }
     ],
     "nativeRawText": "<b>은신</b>, 이 하수인이 공격할 때마다& 다른 직업의 카드를 내 손으로 가져옵니다.",
-    "nativeTextBuilder": 0
+    "nativeTextBuilder": 0,
+    "releasedAt": "2021-03-31",
+    "releaseStatus": "estimated"
   },
   "root": true,
   "relatedIds": [],

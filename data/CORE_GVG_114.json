@@ -96,7 +96,9 @@
       }
     ],
     "nativeRawText": "<b>죽음의 메아리</b>:&\n무작위 <b>전설</b> 하수인을 소환합니다.",
-    "nativeTextBuilder": 0
+    "nativeTextBuilder": 0,
+    "releasedAt": "2021-03-31",
+    "releaseStatus": "estimated"
   },
   "root": true,
   "relatedIds": [],

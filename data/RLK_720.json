@@ -106,7 +106,9 @@
       }
     ],
     "nativeRawText": "<b>도발</b>, <b>생명력 흡수</b>, 내 턴이 끝날 때,& 생명력이 가장 낮은 적을 공격합니다.",
-    "nativeTextBuilder": 0
+    "nativeTextBuilder": 0,
+    "releasedAt": "2022-12-07",
+    "releaseStatus": "verified"
   },
   "root": true,
   "relatedIds": [],

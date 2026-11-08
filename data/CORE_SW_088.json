@@ -79,7 +79,9 @@
       }
     ],
     "nativeRawText": "피해를 $3 줍니다. <b>도발</b> 능력이 있는 1/3 공허방랑자를 둘 소환합니다.",
-    "nativeTextBuilder": 0
+    "nativeTextBuilder": 0,
+    "releasedAt": "2021-03-31",
+    "releaseStatus": "estimated"
   },
   "root": true,
   "relatedIds": [

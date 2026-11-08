@@ -81,7 +81,9 @@
       }
     ],
     "nativeRawText": "공격하는 대상 양옆의 하수인들에게도 피해를 줍니다.",
-    "nativeTextBuilder": 0
+    "nativeTextBuilder": 0,
+    "releasedAt": "2021-03-31",
+    "releaseStatus": "estimated"
   },
   "root": true,
   "relatedIds": [],

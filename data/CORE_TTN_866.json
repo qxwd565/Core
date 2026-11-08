@@ -112,7 +112,9 @@
       }
     ],
     "nativeRawText": "<b>생명력 흡수</b>, 내 턴이 끝날 때,& 모든 적 하수인이 이 하수인을 공격하게 만듭니다.",
-    "nativeTextBuilder": 0
+    "nativeTextBuilder": 0,
+    "releasedAt": "2021-03-31",
+    "releaseStatus": "estimated"
   },
   "root": true,
   "relatedIds": [],

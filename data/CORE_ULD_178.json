@@ -106,7 +106,9 @@
       }
     ],
     "nativeRawText": "<b>전투의 함성:</b> <b>속공</b>, <b>도발</b>, <b>천상의 보호막</b>, <b>질풍</b> 중 2가지 능력을 얻습니다. <i>(선택 가능)</i>",
-    "nativeTextBuilder": 0
+    "nativeTextBuilder": 0,
+    "releasedAt": "2021-03-31",
+    "releaseStatus": "estimated"
   },
   "root": true,
   "relatedIds": [

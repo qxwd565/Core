@@ -59,7 +59,9 @@
       }
     ],
     "nativeRawText": "[x]{0} 은빛 성기사단\n신병을 3명 소환합니다.\n1/4 무기를 장착합니다.",
-    "nativeTextBuilder": 46
+    "nativeTextBuilder": 46,
+    "releasedAt": "2021-03-31",
+    "releaseStatus": "estimated"
   },
   "root": true,
   "relatedIds": [

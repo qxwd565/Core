@@ -99,7 +99,9 @@
       }
     ],
     "nativeRawText": "내가 신성 주문을 시전한 후에,& <b>생명력 흡수</b> 능력이 있는 2/2 의무병을 소환합니다.",
-    "nativeTextBuilder": 7
+    "nativeTextBuilder": 7,
+    "releasedAt": "2021-03-31",
+    "releaseStatus": "estimated"
   },
   "root": true,
   "relatedIds": [

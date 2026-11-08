@@ -84,7 +84,9 @@
       }
     ],
     "nativeRawText": "[x]<b>선택</b> - <b>도발</b> 능력이 있는\n6/6 범고래를 소환합니다.\n또는 <b>속공</b> 능력이 있는\n1/1 수달을 여섯 소환합니다.",
-    "nativeTextBuilder": 0
+    "nativeTextBuilder": 0,
+    "releasedAt": "2021-03-31",
+    "releaseStatus": "estimated"
   },
   "root": true,
   "relatedIds": [

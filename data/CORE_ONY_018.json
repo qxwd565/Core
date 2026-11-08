@@ -84,7 +84,9 @@
       }
     ],
     "nativeRawText": "[x]<b>선택 -</b> 내 영웅의 생명력을\n#8 회복시킵니다.\n또는 피해를 4 줍니다.",
-    "nativeTextBuilder": 0
+    "nativeTextBuilder": 0,
+    "releasedAt": "2021-03-31",
+    "releaseStatus": "estimated"
   },
   "root": true,
   "relatedIds": [],

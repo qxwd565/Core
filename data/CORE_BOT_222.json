@@ -69,7 +69,9 @@
       }
     ],
     "nativeRawText": "[x]하수인과 내 영웅에게\n피해를 $4씩 줍니다.",
-    "nativeTextBuilder": 0
+    "nativeTextBuilder": 0,
+    "releasedAt": "2021-03-31",
+    "releaseStatus": "estimated"
   },
   "root": true,
   "relatedIds": [],

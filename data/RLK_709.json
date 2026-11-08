@@ -64,7 +64,9 @@
       }
     ],
     "nativeRawText": "모든 적에게 피해를 $2 줍니다. 카드를 뽑습니다.",
-    "nativeTextBuilder": 0
+    "nativeTextBuilder": 0,
+    "releasedAt": "2022-12-07",
+    "releaseStatus": "verified"
   },
   "root": true,
   "relatedIds": [],

@@ -79,7 +79,9 @@
       }
     ],
     "nativeRawText": "<b>비밀:</b> 내 하수인이 공격받으면, 3/6 물의 정령을 소환합니다.",
-    "nativeTextBuilder": 0
+    "nativeTextBuilder": 0,
+    "releasedAt": "2021-03-31",
+    "releaseStatus": "estimated"
   },
   "root": true,
   "relatedIds": [

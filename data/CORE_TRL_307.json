@@ -64,7 +64,9 @@
       }
     ],
     "nativeRawText": "생명력을 #4 회복시킵니다.\n카드를 뽑습니다.",
-    "nativeTextBuilder": 0
+    "nativeTextBuilder": 0,
+    "releasedAt": "2021-03-31",
+    "releaseStatus": "estimated"
   },
   "root": true,
   "relatedIds": [],

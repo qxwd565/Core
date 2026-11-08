@@ -79,7 +79,9 @@
       }
     ],
     "nativeRawText": "<b>도발</b>, <b>전투의 함성:</b> 자신에게 피해를\n3 줍니다.",
-    "nativeTextBuilder": 0
+    "nativeTextBuilder": 0,
+    "releasedAt": "2021-03-31",
+    "releaseStatus": "estimated"
   },
   "root": true,
   "relatedIds": [],

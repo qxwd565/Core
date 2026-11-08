@@ -94,7 +94,9 @@
       }
     ],
     "nativeRawText": "<b>죽음의 메아리</b>:&\n4/2 정령을 소환합니다.",
-    "nativeTextBuilder": 0
+    "nativeTextBuilder": 0,
+    "releasedAt": "2021-03-31",
+    "releaseStatus": "estimated"
   },
   "root": true,
   "relatedIds": [

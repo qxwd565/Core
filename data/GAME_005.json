@@ -49,7 +49,9 @@
       }
     ],
     "nativeRawText": "이번 턴에만 마나 수정을 1개 얻습니다.",
-    "nativeTextBuilder": 0
+    "nativeTextBuilder": 0,
+    "releasedAt": null,
+    "releaseStatus": "pending"
   },
   "root": false,
   "relatedIds": [],

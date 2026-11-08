@@ -89,7 +89,9 @@
       }
     ],
     "nativeRawText": "<b>속공</b>, 이 하수인이 공격할 때마다& 내 손에 있는 모든 하수인에게 +1/+1을 부여합니다.",
-    "nativeTextBuilder": 0
+    "nativeTextBuilder": 0,
+    "releasedAt": "2021-03-31",
+    "releaseStatus": "verified"
   },
   "root": true,
   "relatedIds": [],

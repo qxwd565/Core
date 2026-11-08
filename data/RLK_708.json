@@ -92,7 +92,9 @@
       }
     ],
     "nativeRawText": "<b>전투의 함성과 죽음의 메아리</b>:& 카드를 뽑습니다.",
-    "nativeTextBuilder": 0
+    "nativeTextBuilder": 0,
+    "releasedAt": "2022-12-07",
+    "releaseStatus": "verified"
   },
   "root": true,
   "relatedIds": [],

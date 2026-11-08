@@ -96,7 +96,9 @@
       }
     ],
     "nativeRawText": "<b>도발</b>, 이 하수인이 공격받은 후에,& 모든 적에게 피해를 1 줍니다.",
-    "nativeTextBuilder": 0
+    "nativeTextBuilder": 0,
+    "releasedAt": "2021-03-31",
+    "releaseStatus": "estimated"
   },
   "root": true,
   "relatedIds": [],

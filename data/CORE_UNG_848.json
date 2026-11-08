@@ -91,7 +91,9 @@
       }
     ],
     "nativeRawText": "<b>도발</b>, <b>전투의 함성</b>:&\n다른 모든 하수인에게 피해를 2 줍니다.",
-    "nativeTextBuilder": 0
+    "nativeTextBuilder": 0,
+    "releasedAt": "2021-03-31",
+    "releaseStatus": "estimated"
   },
   "root": true,
   "relatedIds": [],

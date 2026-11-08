@@ -84,7 +84,9 @@
       }
     ],
     "nativeRawText": "<b>시체</b> 최대 5개를 <b>속공</b> 능력이 있는 2/2 되살아난 구울로 되살립니다.",
-    "nativeTextBuilder": 0
+    "nativeTextBuilder": 0,
+    "releasedAt": "2022-12-07",
+    "releaseStatus": "verified"
   },
   "root": true,
   "relatedIds": [

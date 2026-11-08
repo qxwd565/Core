@@ -96,7 +96,9 @@
       }
     ],
     "nativeRawText": "<b>은신</b>, 이 하수인은 공격하여 다른 하수인을 처치할 때마다 내 덱에서 멀록을 2마리 소환합니다.",
-    "nativeTextBuilder": 0
+    "nativeTextBuilder": 0,
+    "releasedAt": "2021-03-31",
+    "releaseStatus": "estimated"
   },
   "root": true,
   "relatedIds": [],

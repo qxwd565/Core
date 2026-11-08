@@ -89,7 +89,9 @@
       }
     ],
     "nativeRawText": "<b>도발</b>, <b>전투의 함성:</b>\n<b>도발</b> 하수인을 <b>발견</b>합니다.",
-    "nativeTextBuilder": 0
+    "nativeTextBuilder": 0,
+    "releasedAt": "2021-03-31",
+    "releaseStatus": "estimated"
   },
   "root": true,
   "relatedIds": [],

@@ -79,7 +79,9 @@
       }
     ],
     "nativeRawText": "[x]<b>전투의 함성</b>:& 내 손에\n있는 모든 하수인에게\n+1/+1을 부여합니다.",
-    "nativeTextBuilder": 0
+    "nativeTextBuilder": 0,
+    "releasedAt": "2021-03-31",
+    "releaseStatus": "estimated"
   },
   "root": true,
   "relatedIds": [],

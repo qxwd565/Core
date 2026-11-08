@@ -74,7 +74,9 @@
       }
     ],
     "nativeRawText": "[x]<b>생명력 흡수</b>\n하수인에게 피해를 $3 줍니다.\n<b>추방자:</b> 비용이 (1)이 됩니다.",
-    "nativeTextBuilder": 0
+    "nativeTextBuilder": 0,
+    "releasedAt": "2021-03-31",
+    "releaseStatus": "estimated"
   },
   "root": true,
   "relatedIds": [],

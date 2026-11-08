@@ -84,7 +84,9 @@
       }
     ],
     "nativeRawText": "[x]<b>죽음의 메아리:</b>\n이 무기로 처치한\n모든 하수인을\n소환합니다.",
-    "nativeTextBuilder": 0
+    "nativeTextBuilder": 0,
+    "releasedAt": "2021-03-31",
+    "releaseStatus": "estimated"
   },
   "root": true,
   "relatedIds": [],

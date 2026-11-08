@@ -99,7 +99,9 @@
       }
     ],
     "nativeRawText": "<b>도발</b> 능력이 있는 2/2 좀비를 둘 소환합니다. <b>시체</b>를 4개 소모해 <b>환생</b>도 부여합니다.",
-    "nativeTextBuilder": 0
+    "nativeTextBuilder": 0,
+    "releasedAt": "2021-03-31",
+    "releaseStatus": "estimated"
   },
   "root": true,
   "relatedIds": [

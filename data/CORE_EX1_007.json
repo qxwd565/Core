@@ -79,7 +79,9 @@
       }
     ],
     "nativeRawText": "이 하수인이 피해를 받을 때마다& 카드를 뽑습니다.",
-    "nativeTextBuilder": 0
+    "nativeTextBuilder": 0,
+    "releasedAt": "2021-03-31",
+    "releaseStatus": "estimated"
   },
   "root": true,
   "relatedIds": [],

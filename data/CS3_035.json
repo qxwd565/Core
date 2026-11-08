@@ -86,7 +86,9 @@
       }
     ],
     "nativeRawText": "[x]<b>개전:</b> 두 플레이어 모두\n덱에 이 하수인이 있다면,\n플레이어들의 턴 제한 시간이\n15초로 감소합니다.",
-    "nativeTextBuilder": 0
+    "nativeTextBuilder": 0,
+    "releasedAt": "2021-03-31",
+    "releaseStatus": "verified"
   },
   "root": true,
   "relatedIds": [],

@@ -82,7 +82,9 @@
           "cost": 2
         }
       }
-    ]
+    ],
+    "releasedAt": "2021-03-31",
+    "releaseStatus": "estimated"
   },
   "root": true,
   "relatedIds": [],

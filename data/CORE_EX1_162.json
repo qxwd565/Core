@@ -106,7 +106,9 @@
       }
     ],
     "nativeRawText": "양옆의 하수인들이 공격력을 +1 얻습니다.",
-    "nativeTextBuilder": 0
+    "nativeTextBuilder": 0,
+    "releasedAt": "2021-03-31",
+    "releaseStatus": "estimated"
   },
   "root": true,
   "relatedIds": [],

@@ -84,7 +84,9 @@
       }
     ],
     "nativeRawText": "모든 대상이\n무작위로 선택됩니다.",
-    "nativeTextBuilder": 0
+    "nativeTextBuilder": 0,
+    "releasedAt": "2021-03-31",
+    "releaseStatus": "estimated"
   },
   "root": true,
   "relatedIds": [],

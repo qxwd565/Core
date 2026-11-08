@@ -64,7 +64,9 @@
       }
     ],
     "nativeRawText": "[x]동료 야수 3마리를\n모두 소환합니다.",
-    "nativeTextBuilder": 0
+    "nativeTextBuilder": 0,
+    "releasedAt": "2021-03-31",
+    "releaseStatus": "estimated"
   },
   "root": true,
   "relatedIds": [],

@@ -86,7 +86,9 @@
       }
     ],
     "nativeRawText": "<b>과부하:</b> (1)",
-    "nativeTextBuilder": 0
+    "nativeTextBuilder": 0,
+    "releasedAt": "2021-03-31",
+    "releaseStatus": "estimated"
   },
   "root": true,
   "relatedIds": [],

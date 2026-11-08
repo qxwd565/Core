@@ -101,7 +101,9 @@
       }
     ],
     "nativeRawText": "<b>도발</b>, <b>죽음의 메아리</b>:&\n<b>도발</b> 능력이 있는\n1/3 악마를 셋 소환합니다.",
-    "nativeTextBuilder": 0
+    "nativeTextBuilder": 0,
+    "releasedAt": "2021-03-31",
+    "releaseStatus": "estimated"
   },
   "root": true,
   "relatedIds": [

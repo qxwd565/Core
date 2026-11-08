@@ -79,7 +79,9 @@
       }
     ],
     "nativeRawText": "[x]<b>추방자</b> 카드를\n<b>발견</b>합니다.\n내 다음 <b>추방자</b> 카드의\n비용이 (1) 감소합니다.",
-    "nativeTextBuilder": 0
+    "nativeTextBuilder": 0,
+    "releasedAt": "2021-03-31",
+    "releaseStatus": "estimated"
   },
   "root": true,
   "relatedIds": [],

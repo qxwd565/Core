@@ -84,7 +84,9 @@
       }
     ],
     "nativeRawText": "[x]<b>전투의 함성:</b>\n정규 카드 팩을 개봉합니다.\n그 팩에서 나오는 모든\n카드를 냅니다.",
-    "nativeTextBuilder": 0
+    "nativeTextBuilder": 0,
+    "releasedAt": "2021-03-31",
+    "releaseStatus": "estimated"
   },
   "root": true,
   "relatedIds": [],

@@ -64,7 +64,9 @@
       }
     ],
     "nativeRawText": "[x]공격력이 5 이상인\n<b>모든</b> 하수인을\n처치합니다.",
-    "nativeTextBuilder": 0
+    "nativeTextBuilder": 0,
+    "releasedAt": "2021-03-31",
+    "releaseStatus": "estimated"
   },
   "root": true,
   "relatedIds": [],

@@ -69,7 +69,9 @@
       }
     ],
     "nativeRawText": "[x]방어도를 4 얻습니다.\n비용이 4인 무작위\n하수인을 소환합니다.",
-    "nativeTextBuilder": 0
+    "nativeTextBuilder": 0,
+    "releasedAt": "2021-03-31",
+    "releaseStatus": "estimated"
   },
   "root": true,
   "relatedIds": [],

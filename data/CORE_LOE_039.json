@@ -107,7 +107,9 @@
       }
     ],
     "nativeRawText": "<b>전투의 함성</b>: 내 전장에 다른 기계가 있으면,& 기계를 <b>발견</b>합니다.",
-    "nativeTextBuilder": 0
+    "nativeTextBuilder": 0,
+    "releasedAt": "2021-03-31",
+    "releaseStatus": "estimated"
   },
   "root": true,
   "relatedIds": [],

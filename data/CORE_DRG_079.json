@@ -91,7 +91,9 @@
       }
     ],
     "nativeRawText": "<b>속공</b>, <b>천상의 보호막</b>,\n<b>모면</b>",
-    "nativeTextBuilder": 0
+    "nativeTextBuilder": 0,
+    "releasedAt": "2021-03-31",
+    "releaseStatus": "estimated"
   },
   "root": true,
   "relatedIds": [],

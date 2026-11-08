@@ -101,7 +101,9 @@
       }
     ],
     "nativeRawText": "<b>시체</b>를 평소의 두 배만큼 획득합니다. <b>전투의 함성</b>:& <b>시체</b>를 소모하는 카드를 뽑습니다.",
-    "nativeTextBuilder": 0
+    "nativeTextBuilder": 0,
+    "releasedAt": "2021-03-31",
+    "releaseStatus": "estimated"
   },
   "root": true,
   "relatedIds": [],

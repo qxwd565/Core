@@ -94,7 +94,9 @@
       }
     ],
     "nativeRawText": "상대편의 주문의 비용이 (1) 증가합니다. 상대편의 @턴 동안 지속됩니다.",
-    "nativeTextBuilder": 7
+    "nativeTextBuilder": 7,
+    "releasedAt": "2023-08-02",
+    "releaseStatus": "verified"
   },
   "root": true,
   "relatedIds": [],

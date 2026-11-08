@@ -84,7 +84,9 @@
       }
     ],
     "nativeRawText": "비용이 8인 하수인을 <b>발견</b>합니다. 그 하수인을 소환하고 <b>빙결</b> 상태로 만듭니다.",
-    "nativeTextBuilder": 0
+    "nativeTextBuilder": 0,
+    "releasedAt": "2021-03-31",
+    "releaseStatus": "estimated"
   },
   "root": true,
   "relatedIds": [],

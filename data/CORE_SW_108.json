@@ -74,7 +74,9 @@
       }
     ],
     "nativeRawText": "하수인에게 피해를 $2 줍니다.\n두 번째 불꽃을 내 손으로 가져옵니다.",
-    "nativeTextBuilder": 0
+    "nativeTextBuilder": 0,
+    "releasedAt": "2021-03-31",
+    "releaseStatus": "estimated"
   },
   "root": true,
   "relatedIds": [

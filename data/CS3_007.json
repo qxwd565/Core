@@ -79,7 +79,9 @@
       }
     ],
     "nativeRawText": "<b>주문 공격력+1</b>\n<b>과부하:</b> (1)",
-    "nativeTextBuilder": 0
+    "nativeTextBuilder": 0,
+    "releasedAt": "2021-03-31",
+    "releaseStatus": "verified"
   },
   "root": true,
   "relatedIds": [],

@@ -106,7 +106,9 @@
       }
     ],
     "nativeRawText": "<b>도발</b>, <b>전투의 함성</b>:&\n야수, 용족, 멀록을 뽑습니다.",
-    "nativeTextBuilder": 0
+    "nativeTextBuilder": 0,
+    "releasedAt": "2021-03-31",
+    "releaseStatus": "estimated"
   },
   "root": true,
   "relatedIds": [],

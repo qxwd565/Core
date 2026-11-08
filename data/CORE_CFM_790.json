@@ -94,7 +94,9 @@
       }
     ],
     "nativeRawText": "<b>도발</b>, <b>전투의 함성</b>:&\n상대편이 손에서\n무작위 하수인을 소환합니다.",
-    "nativeTextBuilder": 0
+    "nativeTextBuilder": 0,
+    "releasedAt": "2021-03-31",
+    "releaseStatus": "estimated"
   },
   "root": true,
   "relatedIds": [],

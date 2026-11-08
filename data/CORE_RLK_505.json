@@ -96,7 +96,9 @@
       }
     ],
     "nativeRawText": "<b>전투의 함성:</b> <b>시체</b>를 최대 5개 소모합니다. 소모한 시체의 수만큼 무작위 적에게 피해를 2씩 줍니다.",
-    "nativeTextBuilder": 0
+    "nativeTextBuilder": 0,
+    "releasedAt": "2021-03-31",
+    "releaseStatus": "estimated"
   },
   "root": true,
   "relatedIds": [],

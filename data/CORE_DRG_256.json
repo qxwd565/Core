@@ -91,7 +91,9 @@
       }
     ],
     "nativeRawText": "내가 영웅 능력을 사용한 후에,& 무작위 적에게 피해를 5 줍니다.",
-    "nativeTextBuilder": 0
+    "nativeTextBuilder": 0,
+    "releasedAt": "2021-03-31",
+    "releaseStatus": "estimated"
   },
   "root": true,
   "relatedIds": [],

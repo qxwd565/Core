@@ -59,7 +59,9 @@
       }
     ],
     "nativeRawText": "아군 언데드에게 <b>독성</b>을 부여합니다.",
-    "nativeTextBuilder": 0
+    "nativeTextBuilder": 0,
+    "releasedAt": "2021-03-31",
+    "releaseStatus": "estimated"
   },
   "root": true,
   "relatedIds": [],
