@@ -1,0 +1,40 @@
+{
+  "schema": 1,
+  "timezone": "Asia/Seoul",
+  "default": {
+    "date": "2021-03-31",
+    "status": "estimated"
+  },
+  "prefixes": {
+    "CORE_": {
+      "date": "2021-03-31",
+      "status": "estimated"
+    },
+    "Core_": {
+      "date": "2021-03-31",
+      "status": "estimated"
+    },
+    "CS3_": {
+      "date": "2021-03-31",
+      "status": "verified"
+    },
+    "RLK_": {
+      "date": "2022-12-07",
+      "status": "verified"
+    },
+    "TTN_": {
+      "date": "2023-08-02",
+      "status": "verified"
+    },
+    "GAME_": {
+      "date": null,
+      "status": "pending"
+    }
+  },
+  "cards": {},
+  "sources": {
+    "core": "https://hearthstone.blizzard.com/ko-kr/news/23642550/20-0-patch-notes",
+    "lich": "https://hearthstone.blizzard.com/ko-kr/news/23882860/25-0-patch-notes",
+    "titans": "https://hearthstone.blizzard.com/ko-kr/news/23973121"
+  }
+}
