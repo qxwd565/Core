@@ -343,14 +343,6 @@
           "name": "게임 태그 858",
           "value": 2729
         }
-      ],
-      "history": [
-        {
-          "before": "2022-08-17",
-          "changes": {
-            "cost": 3
-          }
-        }
       ]
     },
     {
@@ -1580,14 +1572,6 @@
           "id": 858,
           "name": "게임 태그 858",
           "value": 2260
-        }
-      ],
-      "history": [
-        {
-          "before": "2019-04-04",
-          "changes": {
-            "name": "속사"
-          }
         }
       ]
     },
@@ -4054,21 +4038,6 @@
           "name": "주문 속성",
           "value": 5
         }
-      ],
-      "history": [
-        {
-          "before": "2020-03-27",
-          "changes": {
-            "cost": 5
-          }
-        },
-        {
-          "from": "2020-03-27",
-          "before": "2023-04-28",
-          "changes": {
-            "cost": 4
-          }
-        }
       ]
     },
     {
@@ -4293,14 +4262,6 @@
       ],
       "mechanics": [
         "TAUNT"
-      ],
-      "history": [
-        {
-          "before": "2019-02-05",
-          "changes": {
-            "legacyArt": true
-          }
-        }
       ]
     },
     {
@@ -4543,14 +4504,6 @@
       ],
       "mechanics": [
         "FREEZE"
-      ],
-      "history": [
-        {
-          "before": "2013-12-19",
-          "changes": {
-            "cost": 5
-          }
-        }
       ]
     },
     {
@@ -4946,14 +4899,6 @@
           "name": "주문 속성",
           "value": 2
         }
-      ],
-      "history": [
-        {
-          "before": "2023-04-05",
-          "changes": {
-            "cost": 4
-          }
-        }
       ]
     },
     {
@@ -5188,14 +5133,6 @@
           "name": "게임 태그 858",
           "value": 345
         }
-      ],
-      "history": [
-        {
-          "before": "2021-03-26",
-          "changes": {
-            "cost": 5
-          }
-        }
       ]
     },
     {
@@ -5272,14 +5209,6 @@
           "id": 1635,
           "name": "주문 속성",
           "value": 5
-        }
-      ],
-      "history": [
-        {
-          "before": "2023-04-05",
-          "changes": {
-            "cost": 4
-          }
         }
       ]
     },
@@ -7409,14 +7338,6 @@
         "TAUNT",
         "BATTLECRY",
         "TRADEABLE"
-      ],
-      "history": [
-        {
-          "before": "2023-04-05",
-          "changes": {
-            "cost": 6
-          }
-        }
       ]
     },
     {
@@ -7512,21 +7433,6 @@
       "mechanics": [
         "BATTLECRY",
         "TRADEABLE"
-      ],
-      "history": [
-        {
-          "before": "2016-04-25",
-          "changes": {
-            "cost": 3
-          }
-        },
-        {
-          "from": "2016-04-25",
-          "before": "2021-03-26",
-          "changes": {
-            "cost": 5
-          }
-        }
       ]
     },
     {
@@ -8922,14 +8828,6 @@
           "name": "게임 태그 858",
           "value": 667
         }
-      ],
-      "history": [
-        {
-          "before": "2023-04-05",
-          "changes": {
-            "cost": 3
-          }
-        }
       ]
     },
     {
@@ -10007,15 +9905,6 @@
       ],
       "relatedDbfIds": [
         548
-      ],
-      "history": [
-        {
-          "from": "2017-09-19",
-          "before": "2023-04-05",
-          "changes": {
-            "cost": 4
-          }
-        }
       ]
     },
     {
@@ -10276,14 +10165,6 @@
           "name": "게임 태그 1413",
           "value": 573
         }
-      ],
-      "history": [
-        {
-          "before": "2013-10-03",
-          "changes": {
-            "cost": 1
-          }
-        }
       ]
     },
     {
@@ -10536,14 +10417,6 @@
           "name": "주문 속성",
           "value": 6
         }
-      ],
-      "history": [
-        {
-          "before": "2017-08-08",
-          "changes": {
-            "name": "죽음의 고리"
-          }
-        }
       ]
     },
     {
@@ -10630,20 +10503,6 @@
           "id": 1635,
           "name": "주문 속성",
           "value": 6
-        }
-      ],
-      "history": [
-        {
-          "before": "2021-03-26",
-          "changes": {
-            "cost": 6
-          }
-        },
-        {
-          "from": "2021-03-26",
-          "changes": {
-            "cost": 5
-          }
         }
       ]
     },
@@ -10754,14 +10613,6 @@
       "mechanics": [
         "CHARGE",
         "BATTLECRY"
-      ],
-      "history": [
-        {
-          "before": "2015-08-18",
-          "changes": {
-            "name": "파멸의 수호병"
-          }
-        }
       ]
     },
     {
@@ -11081,14 +10932,6 @@
         1178,
         1660,
         1143
-      ],
-      "history": [
-        {
-          "before": "2023-09-29",
-          "changes": {
-            "cost": 9
-          }
-        }
       ]
     },
     {
@@ -11373,14 +11216,6 @@
           "id": 858,
           "name": "게임 태그 858",
           "value": 1074
-        }
-      ],
-      "history": [
-        {
-          "before": "2022-08-17",
-          "changes": {
-            "cost": 2
-          }
         }
       ]
     },
@@ -12106,20 +11941,6 @@
           "id": 2589,
           "name": "간판 카드 존재",
           "value": 1
-        }
-      ],
-      "history": [
-        {
-          "before": "2018-08-02",
-          "changes": {
-            "name": "방패 막기"
-          }
-        },
-        {
-          "before": "2023-04-28",
-          "changes": {
-            "cost": 3
-          }
         }
       ]
     },
