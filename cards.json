@@ -70,10 +70,7 @@
         2789,
         2791,
         2790
-      ],
-      "race": "",
-      "races": [],
-      "classes": []
+      ]
     },
     {
       "id": "CORE_AT_052",
@@ -95,7 +92,7 @@
       "races": [
         "TOTEM"
       ],
-      "race": "토템",
+      "race": "TOTEM",
       "set": "CORE",
       "nativeTags": [
         {
@@ -156,9 +153,7 @@
       ],
       "mechanics": [
         "OVERLOAD"
-      ],
-      "spellSchool": "",
-      "classes": []
+      ]
     },
     {
       "id": "CORE_AT_055",
@@ -230,10 +225,7 @@
           "name": "주문 속성",
           "value": 5
         }
-      ],
-      "race": "",
-      "races": [],
-      "classes": []
+      ]
     },
     {
       "id": "CORE_AT_062",
@@ -300,11 +292,7 @@
       ],
       "relatedDbfIds": [
         1860
-      ],
-      "race": "",
-      "races": [],
-      "spellSchool": "",
-      "classes": []
+      ]
     },
     {
       "id": "CORE_AT_064",
@@ -356,10 +344,14 @@
           "value": 2729
         }
       ],
-      "race": "",
-      "races": [],
-      "spellSchool": "",
-      "classes": []
+      "history": [
+        {
+          "before": "2022-08-17",
+          "changes": {
+            "cost": 3
+          }
+        }
+      ]
     },
     {
       "id": "CORE_AT_123",
@@ -382,7 +374,7 @@
         "UNDEAD",
         "DRAGON"
       ],
-      "race": "언데드, 용족",
+      "race": "UNDEAD",
       "set": "CORE",
       "nativeTags": [
         {
@@ -459,9 +451,7 @@
       "mechanics": [
         "TAUNT",
         "DEATHRATTLE"
-      ],
-      "spellSchool": "",
-      "classes": []
+      ]
     },
     {
       "id": "CORE_AV_107",
@@ -542,10 +532,7 @@
       "mechanics": [
         "FREEZE",
         "DISCOVER"
-      ],
-      "race": "",
-      "races": [],
-      "classes": []
+      ]
     },
     {
       "id": "CORE_AV_337",
@@ -567,7 +554,7 @@
       "races": [
         "BEAST"
       ],
-      "race": "야수",
+      "race": "BEAST",
       "set": "CORE",
       "nativeTags": [
         {
@@ -647,9 +634,7 @@
       ],
       "relatedDbfIds": [
         71465
-      ],
-      "spellSchool": "",
-      "classes": []
+      ]
     },
     {
       "id": "CORE_BAR_310",
@@ -671,7 +656,7 @@
       "races": [
         "ELEMENTAL"
       ],
-      "race": "정령",
+      "race": "ELEMENTAL",
       "set": "CORE",
       "nativeTags": [
         {
@@ -743,9 +728,7 @@
       "mechanics": [
         "TAUNT",
         "DEATHRATTLE"
-      ],
-      "spellSchool": "",
-      "classes": []
+      ]
     },
     {
       "id": "CORE_BAR_311",
@@ -820,10 +803,7 @@
       ],
       "mechanics": [
         "LIFESTEAL"
-      ],
-      "race": "",
-      "races": [],
-      "classes": []
+      ]
     },
     {
       "id": "CORE_BAR_313",
@@ -913,11 +893,7 @@
       "mechanics": [
         "TAUNT",
         "BATTLECRY"
-      ],
-      "race": "",
-      "races": [],
-      "spellSchool": "",
-      "classes": []
+      ]
     },
     {
       "id": "CORE_BAR_541",
@@ -992,10 +968,7 @@
       ],
       "mechanics": [
         "DISCOVER"
-      ],
-      "race": "",
-      "races": [],
-      "classes": []
+      ]
     },
     {
       "id": "CORE_BAR_801",
@@ -1067,11 +1040,7 @@
       ],
       "relatedDbfIds": [
         63459
-      ],
-      "race": "",
-      "races": [],
-      "spellSchool": "",
-      "classes": []
+      ]
     },
     {
       "id": "CORE_BAR_812",
@@ -1149,10 +1118,7 @@
       ],
       "relatedDbfIds": [
         395
-      ],
-      "race": "",
-      "races": [],
-      "classes": []
+      ]
     },
     {
       "id": "CORE_BAR_878",
@@ -1250,11 +1216,7 @@
       ],
       "relatedDbfIds": [
         63321
-      ],
-      "race": "",
-      "races": [],
-      "spellSchool": "",
-      "classes": []
+      ]
     },
     {
       "id": "CORE_BOT_222",
@@ -1316,10 +1278,7 @@
           "name": "주문 속성",
           "value": 6
         }
-      ],
-      "race": "",
-      "races": [],
-      "classes": []
+      ]
     },
     {
       "id": "CORE_BOT_256",
@@ -1398,11 +1357,7 @@
       ],
       "mechanics": [
         "BATTLECRY"
-      ],
-      "race": "",
-      "races": [],
-      "spellSchool": "",
-      "classes": []
+      ]
     },
     {
       "id": "CORE_BOT_451",
@@ -1481,10 +1436,7 @@
       ],
       "relatedDbfIds": [
         48557
-      ],
-      "race": "",
-      "races": [],
-      "classes": []
+      ]
     },
     {
       "id": "CORE_BOT_576",
@@ -1558,11 +1510,7 @@
       ],
       "mechanics": [
         "COMBO"
-      ],
-      "race": "",
-      "races": [],
-      "spellSchool": "",
-      "classes": []
+      ]
     },
     {
       "id": "CORE_BRM_013",
@@ -1634,10 +1582,14 @@
           "value": 2260
         }
       ],
-      "race": "",
-      "races": [],
-      "spellSchool": "",
-      "classes": []
+      "history": [
+        {
+          "before": "2019-04-04",
+          "changes": {
+            "name": "속사"
+          }
+        }
+      ]
     },
     {
       "id": "CORE_BT_035",
@@ -1694,10 +1646,7 @@
           "name": "주문 속성",
           "value": 7
         }
-      ],
-      "race": "",
-      "races": [],
-      "classes": []
+      ]
     },
     {
       "id": "CORE_BT_072",
@@ -1775,10 +1724,7 @@
       ],
       "relatedDbfIds": [
         395
-      ],
-      "race": "",
-      "races": [],
-      "classes": []
+      ]
     },
     {
       "id": "CORE_BT_120",
@@ -1852,11 +1798,7 @@
       ],
       "mechanics": [
         "BATTLECRY"
-      ],
-      "race": "",
-      "races": [],
-      "spellSchool": "",
-      "classes": []
+      ]
     },
     {
       "id": "CORE_BT_156",
@@ -1878,7 +1820,7 @@
       "races": [
         "DEMON"
       ],
-      "race": "악마",
+      "race": "DEMON",
       "set": "CORE",
       "nativeTags": [
         {
@@ -1950,9 +1892,7 @@
       "mechanics": [
         "RUSH",
         "DORMANT"
-      ],
-      "spellSchool": "",
-      "classes": []
+      ]
     },
     {
       "id": "CORE_BT_187",
@@ -2042,11 +1982,7 @@
       "mechanics": [
         "TAUNT",
         "CHARGE"
-      ],
-      "race": "",
-      "races": [],
-      "spellSchool": "",
-      "classes": []
+      ]
     },
     {
       "id": "CORE_BT_201",
@@ -2069,7 +2005,7 @@
         "MECHANICAL",
         "BEAST"
       ],
-      "race": "기계, 야수",
+      "race": "MECHANICAL",
       "set": "CORE",
       "nativeTags": [
         {
@@ -2135,9 +2071,7 @@
       ],
       "mechanics": [
         "DEATHRATTLE"
-      ],
-      "spellSchool": "",
-      "classes": []
+      ]
     },
     {
       "id": "CORE_BT_292",
@@ -2194,10 +2128,7 @@
           "name": "주문 속성",
           "value": 5
         }
-      ],
-      "race": "",
-      "races": [],
-      "classes": []
+      ]
     },
     {
       "id": "CORE_BT_321",
@@ -2292,11 +2223,7 @@
       "mechanics": [
         "BATTLECRY",
         "DISCOVER"
-      ],
-      "race": "",
-      "races": [],
-      "spellSchool": "",
-      "classes": []
+      ]
     },
     {
       "id": "CORE_BT_351",
@@ -2318,7 +2245,7 @@
       "races": [
         "DEMON"
       ],
-      "race": "악마",
+      "race": "DEMON",
       "set": "CORE",
       "nativeTags": [
         {
@@ -2389,9 +2316,7 @@
       ],
       "mechanics": [
         "TRIGGER_VISUAL"
-      ],
-      "spellSchool": "",
-      "classes": []
+      ]
     },
     {
       "id": "CORE_BT_416",
@@ -2465,11 +2390,7 @@
       ],
       "mechanics": [
         "BATTLECRY"
-      ],
-      "race": "",
-      "races": [],
-      "spellSchool": "",
-      "classes": []
+      ]
     },
     {
       "id": "CORE_BT_480",
@@ -2553,11 +2474,7 @@
       ],
       "mechanics": [
         "OUTCAST"
-      ],
-      "race": "",
-      "races": [],
-      "spellSchool": "",
-      "classes": []
+      ]
     },
     {
       "id": "CORE_BT_491",
@@ -2616,11 +2533,7 @@
       ],
       "mechanics": [
         "OUTCAST"
-      ],
-      "race": "",
-      "races": [],
-      "spellSchool": "",
-      "classes": []
+      ]
     },
     {
       "id": "CORE_BT_493",
@@ -2642,7 +2555,7 @@
       "races": [
         "DEMON"
       ],
-      "race": "악마",
+      "race": "DEMON",
       "set": "CORE",
       "nativeTags": [
         {
@@ -2713,9 +2626,7 @@
       ],
       "mechanics": [
         "TRIGGER_VISUAL"
-      ],
-      "spellSchool": "",
-      "classes": []
+      ]
     },
     {
       "id": "CORE_BT_510",
@@ -2737,7 +2648,7 @@
       "races": [
         "DEMON"
       ],
-      "race": "악마",
+      "race": "DEMON",
       "set": "CORE",
       "nativeTags": [
         {
@@ -2809,9 +2720,7 @@
       "mechanics": [
         "TRIGGER_VISUAL",
         "TAUNT"
-      ],
-      "spellSchool": "",
-      "classes": []
+      ]
     },
     {
       "id": "CORE_BT_701",
@@ -2885,11 +2794,7 @@
       ],
       "mechanics": [
         "STEALTH"
-      ],
-      "race": "",
-      "races": [],
-      "spellSchool": "",
-      "classes": []
+      ]
     },
     {
       "id": "CORE_BT_781",
@@ -2968,11 +2873,7 @@
       ],
       "mechanics": [
         "TRIGGER_VISUAL"
-      ],
-      "race": "",
-      "races": [],
-      "spellSchool": "",
-      "classes": []
+      ]
     },
     {
       "id": "CORE_BT_801",
@@ -3043,10 +2944,7 @@
       "mechanics": [
         "LIFESTEAL",
         "OUTCAST"
-      ],
-      "race": "",
-      "races": [],
-      "classes": []
+      ]
     },
     {
       "id": "CORE_BT_921",
@@ -3115,11 +3013,7 @@
       ],
       "mechanics": [
         "LIFESTEAL"
-      ],
-      "race": "",
-      "races": [],
-      "spellSchool": "",
-      "classes": []
+      ]
     },
     {
       "id": "CORE_CATA_001",
@@ -3141,7 +3035,7 @@
       "races": [
         "DEMON"
       ],
-      "race": "악마",
+      "race": "DEMON",
       "set": "CORE",
       "nativeTags": [
         {
@@ -3218,9 +3112,7 @@
       "mechanics": [
         "BATTLECRY",
         "IMMUNE"
-      ],
-      "spellSchool": "",
-      "classes": []
+      ]
     },
     {
       "id": "CORE_CATA_002",
@@ -3242,7 +3134,7 @@
       "races": [
         "UNDEAD"
       ],
-      "race": "언데드",
+      "race": "UNDEAD",
       "set": "CORE",
       "nativeTags": [
         {
@@ -3298,9 +3190,7 @@
       ],
       "mechanics": [
         "BATTLECRY"
-      ],
-      "spellSchool": "",
-      "classes": []
+      ]
     },
     {
       "id": "CORE_CATA_004",
@@ -3387,11 +3277,7 @@
       ],
       "relatedDbfIds": [
         69625
-      ],
-      "race": "",
-      "races": [],
-      "spellSchool": "",
-      "classes": []
+      ]
     },
     {
       "id": "CORE_CATA_006",
@@ -3413,7 +3299,7 @@
       "races": [
         "BEAST"
       ],
-      "race": "야수",
+      "race": "BEAST",
       "set": "CORE",
       "nativeTags": [
         {
@@ -3475,9 +3361,7 @@
       "mechanics": [
         "DEATHRATTLE",
         "BATTLECRY"
-      ],
-      "spellSchool": "",
-      "classes": []
+      ]
     },
     {
       "id": "CORE_CATA_007",
@@ -3528,11 +3412,7 @@
           "name": "혈기 룬",
           "value": 2
         }
-      ],
-      "race": "",
-      "races": [],
-      "spellSchool": "",
-      "classes": []
+      ]
     },
     {
       "id": "CORE_CATA_009",
@@ -3603,10 +3483,7 @@
       "mechanics": [
         "FREEZE",
         "DISCOVER"
-      ],
-      "race": "",
-      "races": [],
-      "classes": []
+      ]
     },
     {
       "id": "CORE_CFM_344",
@@ -3628,7 +3505,7 @@
       "races": [
         "MURLOC"
       ],
-      "race": "멀록",
+      "race": "MURLOC",
       "set": "CORE",
       "nativeTags": [
         {
@@ -3700,9 +3577,7 @@
       "mechanics": [
         "TRIGGER_VISUAL",
         "STEALTH"
-      ],
-      "spellSchool": "",
-      "classes": []
+      ]
     },
     {
       "id": "CORE_CFM_604",
@@ -3764,10 +3639,7 @@
           "name": "주문 속성",
           "value": 5
         }
-      ],
-      "race": "",
-      "races": [],
-      "classes": []
+      ]
     },
     {
       "id": "CORE_CFM_670",
@@ -3846,11 +3718,7 @@
       ],
       "mechanics": [
         "TRIGGER_VISUAL"
-      ],
-      "race": "",
-      "races": [],
-      "spellSchool": "",
-      "classes": []
+      ]
     },
     {
       "id": "CORE_CFM_753",
@@ -3924,11 +3792,7 @@
       ],
       "mechanics": [
         "BATTLECRY"
-      ],
-      "race": "",
-      "races": [],
-      "spellSchool": "",
-      "classes": []
+      ]
     },
     {
       "id": "CORE_CFM_781",
@@ -4023,11 +3887,7 @@
       "mechanics": [
         "TRIGGER_VISUAL",
         "STEALTH"
-      ],
-      "race": "",
-      "races": [],
-      "spellSchool": "",
-      "classes": []
+      ]
     },
     {
       "id": "CORE_CFM_790",
@@ -4117,11 +3977,7 @@
       "mechanics": [
         "TAUNT",
         "BATTLECRY"
-      ],
-      "race": "",
-      "races": [],
-      "spellSchool": "",
-      "classes": []
+      ]
     },
     {
       "id": "CORE_CS1_112",
@@ -4199,9 +4055,21 @@
           "value": 5
         }
       ],
-      "race": "",
-      "races": [],
-      "classes": []
+      "history": [
+        {
+          "before": "2020-03-27",
+          "changes": {
+            "cost": 5
+          }
+        },
+        {
+          "from": "2020-03-27",
+          "before": "2023-04-28",
+          "changes": {
+            "cost": 4
+          }
+        }
+      ]
     },
     {
       "id": "CORE_CS1_130",
@@ -4268,10 +4136,7 @@
           "name": "주문 속성",
           "value": 5
         }
-      ],
-      "race": "",
-      "races": [],
-      "classes": []
+      ]
     },
     {
       "id": "CORE_CS2_004",
@@ -4343,10 +4208,7 @@
           "name": "주문 속성",
           "value": 5
         }
-      ],
-      "race": "",
-      "races": [],
-      "classes": []
+      ]
     },
     {
       "id": "CORE_CS2_009",
@@ -4432,9 +4294,14 @@
       "mechanics": [
         "TAUNT"
       ],
-      "race": "",
-      "races": [],
-      "classes": []
+      "history": [
+        {
+          "before": "2019-02-05",
+          "changes": {
+            "legacyArt": true
+          }
+        }
+      ]
     },
     {
       "id": "CORE_CS2_023",
@@ -4516,10 +4383,7 @@
           "name": "주문 속성",
           "value": 1
         }
-      ],
-      "race": "",
-      "races": [],
-      "classes": []
+      ]
     },
     {
       "id": "CORE_CS2_024",
@@ -4599,10 +4463,7 @@
       ],
       "mechanics": [
         "FREEZE"
-      ],
-      "race": "",
-      "races": [],
-      "classes": []
+      ]
     },
     {
       "id": "CORE_CS2_028",
@@ -4683,9 +4544,14 @@
       "mechanics": [
         "FREEZE"
       ],
-      "race": "",
-      "races": [],
-      "classes": []
+      "history": [
+        {
+          "before": "2013-12-19",
+          "changes": {
+            "cost": 5
+          }
+        }
+      ]
     },
     {
       "id": "CORE_CS2_029",
@@ -4767,10 +4633,7 @@
           "name": "주문 속성",
           "value": 2
         }
-      ],
-      "race": "",
-      "races": [],
-      "classes": []
+      ]
     },
     {
       "id": "CORE_CS2_032",
@@ -4852,10 +4715,7 @@
           "name": "주문 속성",
           "value": 2
         }
-      ],
-      "race": "",
-      "races": [],
-      "classes": []
+      ]
     },
     {
       "id": "CORE_CS2_042",
@@ -4877,7 +4737,7 @@
       "races": [
         "ELEMENTAL"
       ],
-      "race": "정령",
+      "race": "ELEMENTAL",
       "set": "CORE",
       "nativeTags": [
         {
@@ -4943,9 +4803,7 @@
       ],
       "mechanics": [
         "BATTLECRY"
-      ],
-      "spellSchool": "",
-      "classes": []
+      ]
     },
     {
       "id": "CORE_CS2_053",
@@ -5006,11 +4864,7 @@
           "name": "게임 태그 858",
           "value": 818
         }
-      ],
-      "race": "",
-      "races": [],
-      "spellSchool": "",
-      "classes": []
+      ]
     },
     {
       "id": "CORE_CS2_062",
@@ -5093,9 +4947,14 @@
           "value": 2
         }
       ],
-      "race": "",
-      "races": [],
-      "classes": []
+      "history": [
+        {
+          "before": "2023-04-05",
+          "changes": {
+            "cost": 4
+          }
+        }
+      ]
     },
     {
       "id": "CORE_CS2_072",
@@ -5166,11 +5025,7 @@
           "name": "게임 태그 858",
           "value": 180
         }
-      ],
-      "race": "",
-      "races": [],
-      "spellSchool": "",
-      "classes": []
+      ]
     },
     {
       "id": "CORE_CS2_074",
@@ -5257,10 +5112,7 @@
           "name": "주문 속성",
           "value": 4
         }
-      ],
-      "race": "",
-      "races": [],
-      "classes": []
+      ]
     },
     {
       "id": "CORE_CS2_076",
@@ -5337,10 +5189,14 @@
           "value": 345
         }
       ],
-      "race": "",
-      "races": [],
-      "spellSchool": "",
-      "classes": []
+      "history": [
+        {
+          "before": "2021-03-26",
+          "changes": {
+            "cost": 5
+          }
+        }
+      ]
     },
     {
       "id": "CORE_CS2_093",
@@ -5418,9 +5274,14 @@
           "value": 5
         }
       ],
-      "race": "",
-      "races": [],
-      "classes": []
+      "history": [
+        {
+          "before": "2023-04-05",
+          "changes": {
+            "cost": 4
+          }
+        }
+      ]
     },
     {
       "id": "CORE_CS2_094",
@@ -5482,10 +5343,7 @@
           "name": "주문 속성",
           "value": 5
         }
-      ],
-      "race": "",
-      "races": [],
-      "classes": []
+      ]
     },
     {
       "id": "CORE_CS2_108",
@@ -5561,11 +5419,7 @@
           "name": "게임 태그 858",
           "value": 785
         }
-      ],
-      "race": "",
-      "races": [],
-      "spellSchool": "",
-      "classes": []
+      ]
     },
     {
       "id": "CORE_CS2_122",
@@ -5641,11 +5495,7 @@
           "name": "게임 태그 858",
           "value": 1401
         }
-      ],
-      "race": "",
-      "races": [],
-      "spellSchool": "",
-      "classes": []
+      ]
     },
     {
       "id": "CORE_CS2_179",
@@ -5729,11 +5579,7 @@
       ],
       "mechanics": [
         "TAUNT"
-      ],
-      "race": "",
-      "races": [],
-      "spellSchool": "",
-      "classes": []
+      ]
     },
     {
       "id": "CORE_CS2_188",
@@ -5827,11 +5673,7 @@
       ],
       "mechanics": [
         "BATTLECRY"
-      ],
-      "race": "",
-      "races": [],
-      "spellSchool": "",
-      "classes": []
+      ]
     },
     {
       "id": "CORE_CS2_189",
@@ -5910,11 +5752,7 @@
       ],
       "mechanics": [
         "BATTLECRY"
-      ],
-      "race": "",
-      "races": [],
-      "spellSchool": "",
-      "classes": []
+      ]
     },
     {
       "id": "Core_CS2_200",
@@ -5975,11 +5813,7 @@
           "name": "게임 태그 858",
           "value": 1686
         }
-      ],
-      "race": "",
-      "races": [],
-      "spellSchool": "",
-      "classes": []
+      ]
     },
     {
       "id": "CORE_CS2_222",
@@ -6065,11 +5899,7 @@
           "name": "게임 태그 858",
           "value": 753
         }
-      ],
-      "race": "",
-      "races": [],
-      "spellSchool": "",
-      "classes": []
+      ]
     },
     {
       "id": "CORE_DAL_575",
@@ -6153,11 +5983,7 @@
       ],
       "mechanics": [
         "TRIGGER_VISUAL"
-      ],
-      "race": "",
-      "races": [],
-      "spellSchool": "",
-      "classes": []
+      ]
     },
     {
       "id": "CORE_DAL_720",
@@ -6231,11 +6057,7 @@
       ],
       "mechanics": [
         "DEATHRATTLE"
-      ],
-      "race": "",
-      "races": [],
-      "spellSchool": "",
-      "classes": []
+      ]
     },
     {
       "id": "CORE_DMF_067",
@@ -6257,7 +6079,7 @@
       "races": [
         "MURLOC"
       ],
-      "race": "멀록",
+      "race": "MURLOC",
       "set": "CORE",
       "nativeTags": [
         {
@@ -6329,9 +6151,7 @@
       "mechanics": [
         "DEATHRATTLE",
         "BATTLECRY"
-      ],
-      "spellSchool": "",
-      "classes": []
+      ]
     },
     {
       "id": "CORE_DMF_511",
@@ -6411,11 +6231,7 @@
       "mechanics": [
         "BATTLECRY",
         "COMBO"
-      ],
-      "race": "",
-      "races": [],
-      "spellSchool": "",
-      "classes": []
+      ]
     },
     {
       "id": "CORE_DRG_024",
@@ -6437,7 +6253,7 @@
       "races": [
         "PIRATE"
       ],
-      "race": "해적",
+      "race": "PIRATE",
       "set": "CORE",
       "nativeTags": [
         {
@@ -6503,9 +6319,7 @@
       ],
       "mechanics": [
         "BATTLECRY"
-      ],
-      "spellSchool": "",
-      "classes": []
+      ]
     },
     {
       "id": "CORE_DRG_079",
@@ -6527,7 +6341,7 @@
       "races": [
         "DRAGON"
       ],
-      "race": "용족",
+      "race": "DRAGON",
       "set": "CORE",
       "nativeTags": [
         {
@@ -6594,9 +6408,7 @@
       "mechanics": [
         "DIVINE_SHIELD",
         "RUSH"
-      ],
-      "spellSchool": "",
-      "classes": []
+      ]
     },
     {
       "id": "CORE_DRG_107",
@@ -6619,7 +6431,7 @@
         "ELEMENTAL",
         "BEAST"
       ],
-      "race": "정령, 야수",
+      "race": "ELEMENTAL",
       "set": "CORE",
       "nativeTags": [
         {
@@ -6693,9 +6505,7 @@
       ],
       "relatedDbfIds": [
         564
-      ],
-      "spellSchool": "",
-      "classes": []
+      ]
     },
     {
       "id": "CORE_DRG_256",
@@ -6717,7 +6527,7 @@
       "races": [
         "MECHANICAL"
       ],
-      "race": "기계",
+      "race": "MECHANICAL",
       "set": "CORE",
       "nativeTags": [
         {
@@ -6783,9 +6593,7 @@
       ],
       "mechanics": [
         "TRIGGER_VISUAL"
-      ],
-      "spellSchool": "",
-      "classes": []
+      ]
     },
     {
       "id": "CORE_DRG_403",
@@ -6859,11 +6667,7 @@
       ],
       "mechanics": [
         "BATTLECRY"
-      ],
-      "race": "",
-      "races": [],
-      "spellSchool": "",
-      "classes": []
+      ]
     },
     {
       "id": "CORE_DS1_184",
@@ -6942,11 +6746,7 @@
       ],
       "mechanics": [
         "DISCOVER"
-      ],
-      "race": "",
-      "races": [],
-      "spellSchool": "",
-      "classes": []
+      ]
     },
     {
       "id": "CORE_DS1_185",
@@ -7013,10 +6813,7 @@
           "name": "주문 속성",
           "value": 1
         }
-      ],
-      "race": "",
-      "races": [],
-      "classes": []
+      ]
     },
     {
       "id": "CORE_EDR_001",
@@ -7085,11 +6882,7 @@
       ],
       "mechanics": [
         "BATTLECRY"
-      ],
-      "race": "",
-      "races": [],
-      "spellSchool": "",
-      "classes": []
+      ]
     },
     {
       "id": "CORE_EDR_002",
@@ -7143,11 +6936,7 @@
       ],
       "mechanics": [
         "POISONOUS"
-      ],
-      "race": "",
-      "races": [],
-      "spellSchool": "",
-      "classes": []
+      ]
     },
     {
       "id": "CORE_EDR_003",
@@ -7169,7 +6958,7 @@
       "races": [
         "UNDEAD"
       ],
-      "race": "언데드",
+      "race": "UNDEAD",
       "set": "CORE",
       "nativeTags": [
         {
@@ -7245,9 +7034,7 @@
       ],
       "mechanics": [
         "BATTLECRY"
-      ],
-      "spellSchool": "",
-      "classes": []
+      ]
     },
     {
       "id": "CORE_EDR_004_2026",
@@ -7269,7 +7056,7 @@
       "races": [
         "BEAST"
       ],
-      "race": "야수",
+      "race": "BEAST",
       "set": "CORE",
       "nativeTags": [
         {
@@ -7356,9 +7143,7 @@
       "mechanics": [
         "BATTLECRY",
         "DISCOVER"
-      ],
-      "spellSchool": "",
-      "classes": []
+      ]
     },
     {
       "id": "CORE_ETC_111",
@@ -7380,7 +7165,7 @@
       "races": [
         "NAGA"
       ],
-      "race": "나가",
+      "race": "NAGA",
       "set": "CORE",
       "nativeTags": [
         {
@@ -7441,9 +7226,7 @@
       ],
       "mechanics": [
         "TRIGGER_VISUAL"
-      ],
-      "spellSchool": "",
-      "classes": []
+      ]
     },
     {
       "id": "CORE_ETC_523",
@@ -7465,7 +7248,7 @@
       "races": [
         "UNDEAD"
       ],
-      "race": "언데드",
+      "race": "UNDEAD",
       "set": "CORE",
       "nativeTags": [
         {
@@ -7521,9 +7304,7 @@
       ],
       "mechanics": [
         "TAUNT"
-      ],
-      "spellSchool": "",
-      "classes": []
+      ]
     },
     {
       "id": "CORE_EX1_002",
@@ -7545,7 +7326,7 @@
       "races": [
         "UNDEAD"
       ],
-      "race": "언데드",
+      "race": "UNDEAD",
       "set": "CORE",
       "nativeTags": [
         {
@@ -7629,8 +7410,14 @@
         "BATTLECRY",
         "TRADEABLE"
       ],
-      "spellSchool": "",
-      "classes": []
+      "history": [
+        {
+          "before": "2023-04-05",
+          "changes": {
+            "cost": 6
+          }
+        }
+      ]
     },
     {
       "id": "CORE_EX1_005",
@@ -7726,10 +7513,21 @@
         "BATTLECRY",
         "TRADEABLE"
       ],
-      "race": "",
-      "races": [],
-      "spellSchool": "",
-      "classes": []
+      "history": [
+        {
+          "before": "2016-04-25",
+          "changes": {
+            "cost": 3
+          }
+        },
+        {
+          "from": "2016-04-25",
+          "before": "2021-03-26",
+          "changes": {
+            "cost": 5
+          }
+        }
+      ]
     },
     {
       "id": "CORE_EX1_007",
@@ -7803,11 +7601,7 @@
       ],
       "mechanics": [
         "TRIGGER_VISUAL"
-      ],
-      "race": "",
-      "races": [],
-      "spellSchool": "",
-      "classes": []
+      ]
     },
     {
       "id": "CORE_EX1_010",
@@ -7896,11 +7690,7 @@
       ],
       "mechanics": [
         "STEALTH"
-      ],
-      "race": "",
-      "races": [],
-      "spellSchool": "",
-      "classes": []
+      ]
     },
     {
       "id": "CORE_EX1_011",
@@ -7979,11 +7769,7 @@
       ],
       "mechanics": [
         "BATTLECRY"
-      ],
-      "race": "",
-      "races": [],
-      "spellSchool": "",
-      "classes": []
+      ]
     },
     {
       "id": "CORE_EX1_012",
@@ -8005,7 +7791,7 @@
       "races": [
         "UNDEAD"
       ],
-      "race": "언데드",
+      "race": "UNDEAD",
       "set": "CORE",
       "nativeTags": [
         {
@@ -8097,9 +7883,7 @@
       "mechanics": [
         "SPELLPOWER",
         "DEATHRATTLE"
-      ],
-      "spellSchool": "",
-      "classes": []
+      ]
     },
     {
       "id": "CORE_EX1_014",
@@ -8121,7 +7905,7 @@
       "races": [
         "BEAST"
       ],
-      "race": "야수",
+      "race": "BEAST",
       "set": "CORE",
       "nativeTags": [
         {
@@ -8200,9 +7984,7 @@
       ],
       "relatedDbfIds": [
         1694
-      ],
-      "spellSchool": "",
-      "classes": []
+      ]
     },
     {
       "id": "CORE_EX1_028",
@@ -8224,7 +8006,7 @@
       "races": [
         "BEAST"
       ],
-      "race": "야수",
+      "race": "BEAST",
       "set": "CORE",
       "nativeTags": [
         {
@@ -8315,9 +8097,7 @@
       ],
       "mechanics": [
         "STEALTH"
-      ],
-      "spellSchool": "",
-      "classes": []
+      ]
     },
     {
       "id": "CORE_EX1_043",
@@ -8339,7 +8119,7 @@
       "races": [
         "DRAGON"
       ],
-      "race": "용족",
+      "race": "DRAGON",
       "set": "CORE",
       "nativeTags": [
         {
@@ -8405,9 +8185,7 @@
       ],
       "mechanics": [
         "BATTLECRY"
-      ],
-      "spellSchool": "",
-      "classes": []
+      ]
     },
     {
       "id": "CORE_EX1_058",
@@ -8502,11 +8280,7 @@
       "mechanics": [
         "TAUNT",
         "BATTLECRY"
-      ],
-      "race": "",
-      "races": [],
-      "spellSchool": "",
-      "classes": []
+      ]
     },
     {
       "id": "CORE_EX1_059",
@@ -8528,7 +8302,7 @@
       "races": [
         "UNDEAD"
       ],
-      "race": "언데드",
+      "race": "UNDEAD",
       "set": "CORE",
       "nativeTags": [
         {
@@ -8614,9 +8388,7 @@
       ],
       "mechanics": [
         "BATTLECRY"
-      ],
-      "spellSchool": "",
-      "classes": []
+      ]
     },
     {
       "id": "CORE_EX1_082",
@@ -8710,11 +8482,7 @@
       ],
       "mechanics": [
         "BATTLECRY"
-      ],
-      "race": "",
-      "races": [],
-      "spellSchool": "",
-      "classes": []
+      ]
     },
     {
       "id": "CORE_EX1_096",
@@ -8798,11 +8566,7 @@
       ],
       "mechanics": [
         "DEATHRATTLE"
-      ],
-      "race": "",
-      "races": [],
-      "spellSchool": "",
-      "classes": []
+      ]
     },
     {
       "id": "CORE_EX1_100",
@@ -8886,11 +8650,7 @@
       ],
       "mechanics": [
         "TRIGGER_VISUAL"
-      ],
-      "race": "",
-      "races": [],
-      "spellSchool": "",
-      "classes": []
+      ]
     },
     {
       "id": "CORE_EX1_103",
@@ -8912,7 +8672,7 @@
       "races": [
         "MURLOC"
       ],
-      "race": "멀록",
+      "race": "MURLOC",
       "set": "CORE",
       "nativeTags": [
         {
@@ -8988,9 +8748,7 @@
       ],
       "mechanics": [
         "BATTLECRY"
-      ],
-      "spellSchool": "",
-      "classes": []
+      ]
     },
     {
       "id": "CORE_EX1_110",
@@ -9103,11 +8861,7 @@
       ],
       "relatedDbfIds": [
         318
-      ],
-      "race": "",
-      "races": [],
-      "spellSchool": "",
-      "classes": []
+      ]
     },
     {
       "id": "CORE_EX1_129",
@@ -9169,10 +8923,14 @@
           "value": 667
         }
       ],
-      "race": "",
-      "races": [],
-      "spellSchool": "",
-      "classes": []
+      "history": [
+        {
+          "before": "2023-04-05",
+          "changes": {
+            "cost": 3
+          }
+        }
+      ]
     },
     {
       "id": "CORE_EX1_131",
@@ -9274,11 +9032,7 @@
       ],
       "relatedDbfIds": [
         488
-      ],
-      "race": "",
-      "races": [],
-      "spellSchool": "",
-      "classes": []
+      ]
     },
     {
       "id": "CORE_EX1_134",
@@ -9382,11 +9136,7 @@
       ],
       "mechanics": [
         "COMBO"
-      ],
-      "race": "",
-      "races": [],
-      "spellSchool": "",
-      "classes": []
+      ]
     },
     {
       "id": "CORE_EX1_145",
@@ -9462,11 +9212,7 @@
           "name": "간판 카드 존재",
           "value": 1
         }
-      ],
-      "race": "",
-      "races": [],
-      "spellSchool": "",
-      "classes": []
+      ]
     },
     {
       "id": "CORE_EX1_154",
@@ -9540,10 +9286,7 @@
       "relatedDbfIds": [
         253,
         137
-      ],
-      "race": "",
-      "races": [],
-      "classes": []
+      ]
     },
     {
       "id": "CORE_EX1_160",
@@ -9627,11 +9370,7 @@
         835,
         60,
         812
-      ],
-      "race": "",
-      "races": [],
-      "spellSchool": "",
-      "classes": []
+      ]
     },
     {
       "id": "CORE_EX1_162",
@@ -9653,7 +9392,7 @@
       "races": [
         "BEAST"
       ],
-      "race": "야수",
+      "race": "BEAST",
       "set": "CORE",
       "nativeTags": [
         {
@@ -9731,9 +9470,7 @@
           "name": "게임 태그 858",
           "value": 985
         }
-      ],
-      "spellSchool": "",
-      "classes": []
+      ]
     },
     {
       "id": "CORE_EX1_169",
@@ -9800,10 +9537,7 @@
           "name": "간판 카드 존재",
           "value": 1
         }
-      ],
-      "race": "",
-      "races": [],
-      "classes": []
+      ]
     },
     {
       "id": "CORE_EX1_189",
@@ -9825,7 +9559,7 @@
       "races": [
         "DRAGON"
       ],
-      "race": "용족",
+      "race": "DRAGON",
       "set": "CORE",
       "nativeTags": [
         {
@@ -9886,9 +9620,7 @@
       ],
       "mechanics": [
         "BATTLECRY"
-      ],
-      "spellSchool": "",
-      "classes": []
+      ]
     },
     {
       "id": "CORE_EX1_193",
@@ -9910,7 +9642,7 @@
       "races": [
         "UNDEAD"
       ],
-      "race": "언데드",
+      "race": "UNDEAD",
       "set": "CORE",
       "nativeTags": [
         {
@@ -9966,9 +9698,7 @@
       ],
       "mechanics": [
         "BATTLECRY"
-      ],
-      "spellSchool": "",
-      "classes": []
+      ]
     },
     {
       "id": "CORE_EX1_197",
@@ -10025,10 +9755,7 @@
           "name": "주문 속성",
           "value": 6
         }
-      ],
-      "race": "",
-      "races": [],
-      "classes": []
+      ]
     },
     {
       "id": "CORE_EX1_198",
@@ -10102,11 +9829,7 @@
       ],
       "mechanics": [
         "BATTLECRY"
-      ],
-      "race": "",
-      "races": [],
-      "spellSchool": "",
-      "classes": []
+      ]
     },
     {
       "id": "CORE_EX1_238",
@@ -10191,10 +9914,7 @@
       ],
       "mechanics": [
         "OVERLOAD"
-      ],
-      "race": "",
-      "races": [],
-      "classes": []
+      ]
     },
     {
       "id": "CORE_EX1_246",
@@ -10288,9 +10008,15 @@
       "relatedDbfIds": [
         548
       ],
-      "race": "",
-      "races": [],
-      "classes": []
+      "history": [
+        {
+          "from": "2017-09-19",
+          "before": "2023-04-05",
+          "changes": {
+            "cost": 4
+          }
+        }
+      ]
     },
     {
       "id": "CORE_EX1_250",
@@ -10312,7 +10038,7 @@
       "races": [
         "ELEMENTAL"
       ],
-      "race": "정령",
+      "race": "ELEMENTAL",
       "set": "CORE",
       "nativeTags": [
         {
@@ -10389,9 +10115,7 @@
       "mechanics": [
         "TAUNT",
         "OVERLOAD"
-      ],
-      "spellSchool": "",
-      "classes": []
+      ]
     },
     {
       "id": "CORE_EX1_259",
@@ -10486,10 +10210,7 @@
       ],
       "mechanics": [
         "OVERLOAD"
-      ],
-      "race": "",
-      "races": [],
-      "classes": []
+      ]
     },
     {
       "id": "CORE_EX1_278",
@@ -10556,10 +10277,14 @@
           "value": 573
         }
       ],
-      "race": "",
-      "races": [],
-      "spellSchool": "",
-      "classes": []
+      "history": [
+        {
+          "before": "2013-10-03",
+          "changes": {
+            "cost": 1
+          }
+        }
+      ]
     },
     {
       "id": "CORE_EX1_287",
@@ -10649,10 +10374,7 @@
       ],
       "mechanics": [
         "SECRET"
-      ],
-      "race": "",
-      "races": [],
-      "classes": []
+      ]
     },
     {
       "id": "CORE_EX1_289",
@@ -10742,10 +10464,7 @@
       ],
       "mechanics": [
         "SECRET"
-      ],
-      "race": "",
-      "races": [],
-      "classes": []
+      ]
     },
     {
       "id": "CORE_EX1_302",
@@ -10818,9 +10537,14 @@
           "value": 6
         }
       ],
-      "race": "",
-      "races": [],
-      "classes": []
+      "history": [
+        {
+          "before": "2017-08-08",
+          "changes": {
+            "name": "죽음의 고리"
+          }
+        }
+      ]
     },
     {
       "id": "CORE_EX1_309",
@@ -10908,9 +10632,20 @@
           "value": 6
         }
       ],
-      "race": "",
-      "races": [],
-      "classes": []
+      "history": [
+        {
+          "before": "2021-03-26",
+          "changes": {
+            "cost": 6
+          }
+        },
+        {
+          "from": "2021-03-26",
+          "changes": {
+            "cost": 5
+          }
+        }
+      ]
     },
     {
       "id": "CORE_EX1_310",
@@ -10932,7 +10667,7 @@
       "races": [
         "DEMON"
       ],
-      "race": "악마",
+      "race": "DEMON",
       "set": "CORE",
       "nativeTags": [
         {
@@ -11020,8 +10755,14 @@
         "CHARGE",
         "BATTLECRY"
       ],
-      "spellSchool": "",
-      "classes": []
+      "history": [
+        {
+          "before": "2015-08-18",
+          "changes": {
+            "name": "파멸의 수호병"
+          }
+        }
+      ]
     },
     {
       "id": "CORE_EX1_312",
@@ -11108,10 +10849,7 @@
           "name": "주문 속성",
           "value": 6
         }
-      ],
-      "race": "",
-      "races": [],
-      "classes": []
+      ]
     },
     {
       "id": "CORE_EX1_319",
@@ -11133,7 +10871,7 @@
       "races": [
         "DEMON"
       ],
-      "race": "악마",
+      "race": "DEMON",
       "set": "CORE",
       "nativeTags": [
         {
@@ -11234,9 +10972,7 @@
       ],
       "mechanics": [
         "BATTLECRY"
-      ],
-      "spellSchool": "",
-      "classes": []
+      ]
     },
     {
       "id": "CORE_EX1_323",
@@ -11346,10 +11082,14 @@
         1660,
         1143
       ],
-      "race": "",
-      "races": [],
-      "spellSchool": "",
-      "classes": []
+      "history": [
+        {
+          "before": "2023-09-29",
+          "changes": {
+            "cost": 9
+          }
+        }
+      ]
     },
     {
       "id": "CORE_EX1_362",
@@ -11444,11 +11184,7 @@
       "mechanics": [
         "DIVINE_SHIELD",
         "BATTLECRY"
-      ],
-      "race": "",
-      "races": [],
-      "spellSchool": "",
-      "classes": []
+      ]
     },
     {
       "id": "CORE_EX1_383",
@@ -11572,11 +11308,7 @@
       ],
       "relatedDbfIds": [
         1730
-      ],
-      "race": "",
-      "races": [],
-      "spellSchool": "",
-      "classes": []
+      ]
     },
     {
       "id": "CORE_EX1_391",
@@ -11643,10 +11375,14 @@
           "value": 1074
         }
       ],
-      "race": "",
-      "races": [],
-      "spellSchool": "",
-      "classes": []
+      "history": [
+        {
+          "before": "2022-08-17",
+          "changes": {
+            "cost": 2
+          }
+        }
+      ]
     },
     {
       "id": "CORE_EX1_414",
@@ -11740,11 +11476,7 @@
       ],
       "mechanics": [
         "CHARGE"
-      ],
-      "race": "",
-      "races": [],
-      "spellSchool": "",
-      "classes": []
+      ]
     },
     {
       "id": "CORE_EX1_506",
@@ -11766,7 +11498,7 @@
       "races": [
         "MURLOC"
       ],
-      "race": "멀록",
+      "race": "MURLOC",
       "set": "CORE",
       "nativeTags": [
         {
@@ -11851,9 +11583,7 @@
       "relatedDbfIds": [
         69571,
         1078
-      ],
-      "spellSchool": "",
-      "classes": []
+      ]
     },
     {
       "id": "CORE_EX1_506a",
@@ -11874,7 +11604,7 @@
       "races": [
         "MURLOC"
       ],
-      "race": "멀록",
+      "race": "MURLOC",
       "set": "CORE",
       "nativeTags": [
         {
@@ -11937,10 +11667,7 @@
           "name": "게임 태그 858",
           "value": 1078
         }
-      ],
-      "spellSchool": "",
-      "classes": [],
-      "flavor": ""
+      ]
     },
     {
       "id": "CORE_EX1_507",
@@ -11962,7 +11689,7 @@
       "races": [
         "MURLOC"
       ],
-      "race": "멀록",
+      "race": "MURLOC",
       "set": "CORE",
       "nativeTags": [
         {
@@ -12020,9 +11747,7 @@
           "name": "게임 태그 858",
           "value": 1063
         }
-      ],
-      "spellSchool": "",
-      "classes": []
+      ]
     },
     {
       "id": "CORE_EX1_509",
@@ -12044,7 +11769,7 @@
       "races": [
         "MURLOC"
       ],
-      "race": "멀록",
+      "race": "MURLOC",
       "set": "CORE",
       "nativeTags": [
         {
@@ -12125,9 +11850,7 @@
       ],
       "mechanics": [
         "TRIGGER_VISUAL"
-      ],
-      "spellSchool": "",
-      "classes": []
+      ]
     },
     {
       "id": "CORE_EX1_559",
@@ -12234,11 +11957,7 @@
       ],
       "relatedDbfIds": [
         315
-      ],
-      "race": "",
-      "races": [],
-      "spellSchool": "",
-      "classes": []
+      ]
     },
     {
       "id": "CORE_EX1_604",
@@ -12327,11 +12046,7 @@
       ],
       "mechanics": [
         "TRIGGER_VISUAL"
-      ],
-      "race": "",
-      "races": [],
-      "spellSchool": "",
-      "classes": []
+      ]
     },
     {
       "id": "CORE_EX1_606",
@@ -12393,10 +12108,20 @@
           "value": 1
         }
       ],
-      "race": "",
-      "races": [],
-      "spellSchool": "",
-      "classes": []
+      "history": [
+        {
+          "before": "2018-08-02",
+          "changes": {
+            "name": "방패 막기"
+          }
+        },
+        {
+          "before": "2023-04-28",
+          "changes": {
+            "cost": 3
+          }
+        }
+      ]
     },
     {
       "id": "CORE_EX1_610",
@@ -12481,10 +12206,7 @@
       ],
       "mechanics": [
         "SECRET"
-      ],
-      "race": "",
-      "races": [],
-      "classes": []
+      ]
     },
     {
       "id": "CORE_EX1_611",
@@ -12564,10 +12286,7 @@
       ],
       "mechanics": [
         "SECRET"
-      ],
-      "race": "",
-      "races": [],
-      "classes": []
+      ]
     },
     {
       "id": "CORE_EX1_619",
@@ -12649,10 +12368,7 @@
           "name": "주문 속성",
           "value": 5
         }
-      ],
-      "race": "",
-      "races": [],
-      "classes": []
+      ]
     },
     {
       "id": "CORE_GIL_531",
@@ -12674,7 +12390,7 @@
       "races": [
         "BEAST"
       ],
-      "race": "야수",
+      "race": "BEAST",
       "set": "CORE",
       "nativeTags": [
         {
@@ -12736,9 +12452,7 @@
       "mechanics": [
         "TAUNT",
         "BATTLECRY"
-      ],
-      "spellSchool": "",
-      "classes": []
+      ]
     },
     {
       "id": "CORE_GIL_534",
@@ -12760,7 +12474,7 @@
       "races": [
         "QUILBOAR"
       ],
-      "race": "가시멧돼지",
+      "race": "QUILBOAR",
       "set": "CORE",
       "nativeTags": [
         {
@@ -12816,9 +12530,7 @@
       ],
       "mechanics": [
         "TRIGGER_VISUAL"
-      ],
-      "spellSchool": "",
-      "classes": []
+      ]
     },
     {
       "id": "CORE_GIL_558",
@@ -12840,7 +12552,7 @@
       "races": [
         "BEAST"
       ],
-      "race": "야수",
+      "race": "BEAST",
       "set": "CORE",
       "nativeTags": [
         {
@@ -12901,9 +12613,7 @@
       ],
       "mechanics": [
         "LIFESTEAL"
-      ],
-      "spellSchool": "",
-      "classes": []
+      ]
     },
     {
       "id": "CORE_GIL_577",
@@ -12970,11 +12680,7 @@
       ],
       "relatedDbfIds": [
         49457
-      ],
-      "race": "",
-      "races": [],
-      "spellSchool": "",
-      "classes": []
+      ]
     },
     {
       "id": "CORE_GIL_622",
@@ -12996,7 +12702,7 @@
       "races": [
         "BEAST"
       ],
-      "race": "야수",
+      "race": "BEAST",
       "set": "CORE",
       "nativeTags": [
         {
@@ -13052,9 +12758,7 @@
       ],
       "mechanics": [
         "BATTLECRY"
-      ],
-      "spellSchool": "",
-      "classes": []
+      ]
     },
     {
       "id": "CORE_GIL_623",
@@ -13076,7 +12780,7 @@
       "races": [
         "BEAST"
       ],
-      "race": "야수",
+      "race": "BEAST",
       "set": "CORE",
       "nativeTags": [
         {
@@ -13148,9 +12852,7 @@
       "mechanics": [
         "TAUNT",
         "BATTLECRY"
-      ],
-      "spellSchool": "",
-      "classes": []
+      ]
     },
     {
       "id": "CORE_GIL_836",
@@ -13231,10 +12933,7 @@
       "mechanics": [
         "BATTLECRY",
         "DISCOVER"
-      ],
-      "race": "",
-      "races": [],
-      "classes": []
+      ]
     },
     {
       "id": "CORE_GVG_059",
@@ -13330,11 +13029,7 @@
         "TAUNT",
         "DIVINE_SHIELD",
         "BATTLECRY"
-      ],
-      "race": "",
-      "races": [],
-      "spellSchool": "",
-      "classes": []
+      ]
     },
     {
       "id": "CORE_GVG_061",
@@ -13389,11 +13084,7 @@
       "relatedDbfIds": [
         1652,
         383
-      ],
-      "race": "",
-      "races": [],
-      "spellSchool": "",
-      "classes": []
+      ]
     },
     {
       "id": "CORE_GVG_085",
@@ -13415,7 +13106,7 @@
       "races": [
         "MECHANICAL"
       ],
-      "race": "기계",
+      "race": "MECHANICAL",
       "set": "CORE",
       "nativeTags": [
         {
@@ -13502,9 +13193,7 @@
       "mechanics": [
         "TAUNT",
         "DIVINE_SHIELD"
-      ],
-      "spellSchool": "",
-      "classes": []
+      ]
     },
     {
       "id": "CORE_GVG_103",
@@ -13526,7 +13215,7 @@
       "races": [
         "MECHANICAL"
       ],
-      "race": "기계",
+      "race": "MECHANICAL",
       "set": "CORE",
       "nativeTags": [
         {
@@ -13587,9 +13276,7 @@
       ],
       "mechanics": [
         "TRIGGER_VISUAL"
-      ],
-      "spellSchool": "",
-      "classes": []
+      ]
     },
     {
       "id": "CORE_GVG_114",
@@ -13611,7 +13298,7 @@
       "races": [
         "MECHANICAL"
       ],
-      "race": "기계",
+      "race": "MECHANICAL",
       "set": "CORE",
       "nativeTags": [
         {
@@ -13682,9 +13369,7 @@
       ],
       "mechanics": [
         "DEATHRATTLE"
-      ],
-      "spellSchool": "",
-      "classes": []
+      ]
     },
     {
       "id": "CORE_ICC_038",
@@ -13764,11 +13449,7 @@
       "mechanics": [
         "TAUNT",
         "DIVINE_SHIELD"
-      ],
-      "race": "",
-      "races": [],
-      "spellSchool": "",
-      "classes": []
+      ]
     },
     {
       "id": "CORE_ICC_055",
@@ -13833,10 +13514,7 @@
       ],
       "mechanics": [
         "LIFESTEAL"
-      ],
-      "race": "",
-      "races": [],
-      "classes": []
+      ]
     },
     {
       "id": "CORE_ICC_210",
@@ -13858,7 +13536,7 @@
       "races": [
         "UNDEAD"
       ],
-      "race": "언데드",
+      "race": "UNDEAD",
       "set": "CORE",
       "nativeTags": [
         {
@@ -13924,9 +13602,7 @@
       ],
       "mechanics": [
         "TRIGGER_VISUAL"
-      ],
-      "spellSchool": "",
-      "classes": []
+      ]
     },
     {
       "id": "CORE_ICC_214",
@@ -14012,11 +13688,7 @@
         "TAUNT",
         "DEATHRATTLE",
         "LIFESTEAL"
-      ],
-      "race": "",
-      "races": [],
-      "spellSchool": "",
-      "classes": []
+      ]
     },
     {
       "id": "CORE_ICC_407",
@@ -14038,7 +13710,7 @@
       "races": [
         "UNDEAD"
       ],
-      "race": "언데드",
+      "race": "UNDEAD",
       "set": "CORE",
       "nativeTags": [
         {
@@ -14099,9 +13771,7 @@
       ],
       "mechanics": [
         "BATTLECRY"
-      ],
-      "spellSchool": "",
-      "classes": []
+      ]
     },
     {
       "id": "CORE_KAR_057",
@@ -14186,11 +13856,7 @@
       "mechanics": [
         "BATTLECRY",
         "DISCOVER"
-      ],
-      "race": "",
-      "races": [],
-      "spellSchool": "",
-      "classes": []
+      ]
     },
     {
       "id": "CORE_KAR_061",
@@ -14212,7 +13878,7 @@
       "races": [
         "MECHANICAL"
       ],
-      "race": "기계",
+      "race": "MECHANICAL",
       "set": "CORE",
       "nativeTags": [
         {
@@ -14294,9 +13960,7 @@
       "mechanics": [
         "TAUNT",
         "BATTLECRY"
-      ],
-      "spellSchool": "",
-      "classes": []
+      ]
     },
     {
       "id": "CORE_KAR_062",
@@ -14381,11 +14045,7 @@
       "mechanics": [
         "BATTLECRY",
         "DISCOVER"
-      ],
-      "race": "",
-      "races": [],
-      "spellSchool": "",
-      "classes": []
+      ]
     },
     {
       "id": "CORE_KAR_069",
@@ -14407,7 +14067,7 @@
       "races": [
         "PIRATE"
       ],
-      "race": "해적",
+      "race": "PIRATE",
       "set": "CORE",
       "nativeTags": [
         {
@@ -14478,9 +14138,7 @@
       ],
       "mechanics": [
         "BATTLECRY"
-      ],
-      "spellSchool": "",
-      "classes": []
+      ]
     },
     {
       "id": "CORE_KAR_077",
@@ -14537,10 +14195,7 @@
           "name": "주문 속성",
           "value": 5
         }
-      ],
-      "race": "",
-      "races": [],
-      "classes": []
+      ]
     },
     {
       "id": "CORE_LOE_039",
@@ -14563,7 +14218,7 @@
         "MECHANICAL",
         "BEAST"
       ],
-      "race": "기계, 야수",
+      "race": "MECHANICAL",
       "set": "CORE",
       "nativeTags": [
         {
@@ -14645,9 +14300,7 @@
       "mechanics": [
         "BATTLECRY",
         "DISCOVER"
-      ],
-      "spellSchool": "",
-      "classes": []
+      ]
     },
     {
       "id": "Core_LOE_115",
@@ -14721,11 +14374,7 @@
       "relatedDbfIds": [
         38112,
         38113
-      ],
-      "race": "",
-      "races": [],
-      "spellSchool": "",
-      "classes": []
+      ]
     },
     {
       "id": "CORE_LOOT_013",
@@ -14747,7 +14396,7 @@
       "races": [
         "DEMON"
       ],
-      "race": "악마",
+      "race": "DEMON",
       "set": "CORE",
       "nativeTags": [
         {
@@ -14839,9 +14488,7 @@
       "mechanics": [
         "TAUNT",
         "BATTLECRY"
-      ],
-      "spellSchool": "",
-      "classes": []
+      ]
     },
     {
       "id": "CORE_LOOT_044",
@@ -14902,11 +14549,7 @@
           "name": "게임 태그 1413",
           "value": 43277
         }
-      ],
-      "race": "",
-      "races": [],
-      "spellSchool": "",
-      "classes": []
+      ]
     },
     {
       "id": "CORE_LOOT_101",
@@ -14981,10 +14624,7 @@
       ],
       "mechanics": [
         "SECRET"
-      ],
-      "race": "",
-      "races": [],
-      "classes": []
+      ]
     },
     {
       "id": "CORE_LOOT_137",
@@ -15006,7 +14646,7 @@
       "races": [
         "DRAGON"
       ],
-      "race": "용족",
+      "race": "DRAGON",
       "set": "CORE",
       "nativeTags": [
         {
@@ -15062,9 +14702,7 @@
       ],
       "mechanics": [
         "TAUNT"
-      ],
-      "spellSchool": "",
-      "classes": []
+      ]
     },
     {
       "id": "CORE_LOOT_309",
@@ -15121,10 +14759,7 @@
           "name": "주문 속성",
           "value": 4
         }
-      ],
-      "race": "",
-      "races": [],
-      "classes": []
+      ]
     },
     {
       "id": "CORE_LOOT_368",
@@ -15146,7 +14781,7 @@
       "races": [
         "DEMON"
       ],
-      "race": "악마",
+      "race": "DEMON",
       "set": "CORE",
       "nativeTags": [
         {
@@ -15226,9 +14861,7 @@
       ],
       "relatedDbfIds": [
         48
-      ],
-      "spellSchool": "",
-      "classes": []
+      ]
     },
     {
       "id": "CORE_LOOT_373",
@@ -15295,10 +14928,7 @@
           "name": "주문 속성",
           "value": 4
         }
-      ],
-      "race": "",
-      "races": [],
-      "classes": []
+      ]
     },
     {
       "id": "CORE_LOOT_413",
@@ -15320,7 +14950,7 @@
       "races": [
         "BEAST"
       ],
-      "race": "야수",
+      "race": "BEAST",
       "set": "CORE",
       "nativeTags": [
         {
@@ -15381,9 +15011,7 @@
       ],
       "mechanics": [
         "DEATHRATTLE"
-      ],
-      "spellSchool": "",
-      "classes": []
+      ]
     },
     {
       "id": "CORE_NEW1_018",
@@ -15405,7 +15033,7 @@
       "races": [
         "PIRATE"
       ],
-      "race": "해적",
+      "race": "PIRATE",
       "set": "CORE",
       "nativeTags": [
         {
@@ -15476,9 +15104,7 @@
       ],
       "mechanics": [
         "BATTLECRY"
-      ],
-      "spellSchool": "",
-      "classes": []
+      ]
     },
     {
       "id": "CORE_NEW1_020",
@@ -15500,7 +15126,7 @@
       "races": [
         "UNDEAD"
       ],
-      "race": "언데드",
+      "race": "UNDEAD",
       "set": "CORE",
       "nativeTags": [
         {
@@ -15566,9 +15192,7 @@
       ],
       "mechanics": [
         "TRIGGER_VISUAL"
-      ],
-      "spellSchool": "",
-      "classes": []
+      ]
     },
     {
       "id": "CORE_NEW1_021",
@@ -15642,11 +15266,7 @@
       ],
       "mechanics": [
         "TRIGGER_VISUAL"
-      ],
-      "race": "",
-      "races": [],
-      "spellSchool": "",
-      "classes": []
+      ]
     },
     {
       "id": "CORE_NEW1_022",
@@ -15668,7 +15288,7 @@
       "races": [
         "PIRATE"
       ],
-      "race": "해적",
+      "race": "PIRATE",
       "set": "CORE",
       "nativeTags": [
         {
@@ -15724,9 +15344,7 @@
       ],
       "mechanics": [
         "TAUNT"
-      ],
-      "spellSchool": "",
-      "classes": []
+      ]
     },
     {
       "id": "CORE_NEW1_023",
@@ -15748,7 +15366,7 @@
       "races": [
         "DRAGON"
       ],
-      "race": "용족",
+      "race": "DRAGON",
       "set": "CORE",
       "nativeTags": [
         {
@@ -15801,9 +15419,7 @@
           "name": "모면",
           "value": 1
         }
-      ],
-      "spellSchool": "",
-      "classes": []
+      ]
     },
     {
       "id": "CORE_NEW1_027",
@@ -15825,7 +15441,7 @@
       "races": [
         "PIRATE"
       ],
-      "race": "해적",
+      "race": "PIRATE",
       "set": "CORE",
       "nativeTags": [
         {
@@ -15888,9 +15504,7 @@
           "name": "게임 태그 858",
           "value": 680
         }
-      ],
-      "spellSchool": "",
-      "classes": []
+      ]
     },
     {
       "id": "CORE_NEW1_031",
@@ -15946,11 +15560,7 @@
         100,
         226,
         959
-      ],
-      "race": "",
-      "races": [],
-      "spellSchool": "",
-      "classes": []
+      ]
     },
     {
       "id": "CORE_NX2_028",
@@ -15973,7 +15583,7 @@
         "MECHANICAL",
         "PIRATE"
       ],
-      "race": "기계, 해적",
+      "race": "MECHANICAL",
       "set": "CORE",
       "nativeTags": [
         {
@@ -16054,9 +15664,7 @@
       ],
       "mechanics": [
         "TRIGGER_VISUAL"
-      ],
-      "spellSchool": "",
-      "classes": []
+      ]
     },
     {
       "id": "CORE_OG_031",
@@ -16148,11 +15756,7 @@
       ],
       "relatedDbfIds": [
         38273
-      ],
-      "race": "",
-      "races": [],
-      "spellSchool": "",
-      "classes": []
+      ]
     },
     {
       "id": "CORE_OG_044",
@@ -16231,11 +15835,7 @@
       ],
       "mechanics": [
         "CHOOSE_ONE"
-      ],
-      "race": "",
-      "races": [],
-      "spellSchool": "",
-      "classes": []
+      ]
     },
     {
       "id": "CORE_OG_047",
@@ -16313,11 +15913,7 @@
       "relatedDbfIds": [
         38332,
         38333
-      ],
-      "race": "",
-      "races": [],
-      "spellSchool": "",
-      "classes": []
+      ]
     },
     {
       "id": "CORE_OG_149",
@@ -16339,7 +15935,7 @@
       "races": [
         "UNDEAD"
       ],
-      "race": "언데드",
+      "race": "UNDEAD",
       "set": "CORE",
       "nativeTags": [
         {
@@ -16400,9 +15996,7 @@
       ],
       "mechanics": [
         "BATTLECRY"
-      ],
-      "spellSchool": "",
-      "classes": []
+      ]
     },
     {
       "id": "CORE_OG_211",
@@ -16458,11 +16052,7 @@
           "name": "게임 태그 1413",
           "value": 38727
         }
-      ],
-      "race": "",
-      "races": [],
-      "spellSchool": "",
-      "classes": []
+      ]
     },
     {
       "id": "CORE_OG_218",
@@ -16536,11 +16126,7 @@
       ],
       "mechanics": [
         "TAUNT"
-      ],
-      "race": "",
-      "races": [],
-      "spellSchool": "",
-      "classes": []
+      ]
     },
     {
       "id": "CORE_ONY_018",
@@ -16619,11 +16205,7 @@
       ],
       "mechanics": [
         "CHOOSE_ONE"
-      ],
-      "race": "",
-      "races": [],
-      "spellSchool": "",
-      "classes": []
+      ]
     },
     {
       "id": "CORE_ONY_022",
@@ -16645,7 +16227,7 @@
       "races": [
         "DRAENEI"
       ],
-      "race": "드레나이",
+      "race": "DRAENEI",
       "set": "CORE",
       "nativeTags": [
         {
@@ -16732,9 +16314,7 @@
       "mechanics": [
         "BATTLECRY",
         "DISCOVER"
-      ],
-      "spellSchool": "",
-      "classes": []
+      ]
     },
     {
       "id": "CORE_REV_023",
@@ -16819,11 +16399,7 @@
       "mechanics": [
         "BATTLECRY",
         "TRADEABLE"
-      ],
-      "race": "",
-      "races": [],
-      "spellSchool": "",
-      "classes": []
+      ]
     },
     {
       "id": "CORE_REV_308",
@@ -16902,11 +16478,7 @@
       ],
       "mechanics": [
         "BATTLECRY"
-      ],
-      "race": "",
-      "races": [],
-      "spellSchool": "",
-      "classes": []
+      ]
     },
     {
       "id": "CORE_REV_946",
@@ -16928,7 +16500,7 @@
       "races": [
         "MECHANICAL"
       ],
-      "race": "기계",
+      "race": "MECHANICAL",
       "set": "CORE",
       "nativeTags": [
         {
@@ -16989,9 +16561,7 @@
       ],
       "mechanics": [
         "BATTLECRY"
-      ],
-      "spellSchool": "",
-      "classes": []
+      ]
     },
     {
       "id": "CORE_REV_990",
@@ -17047,11 +16617,7 @@
           "name": "게임 태그 858",
           "value": 82313
         }
-      ],
-      "race": "",
-      "races": [],
-      "spellSchool": "",
-      "classes": []
+      ]
     },
     {
       "id": "CORE_RLK_062",
@@ -17073,7 +16639,7 @@
       "races": [
         "UNDEAD"
       ],
-      "race": "언데드",
+      "race": "UNDEAD",
       "set": "CORE",
       "nativeTags": [
         {
@@ -17135,9 +16701,7 @@
       "mechanics": [
         "TAUNT",
         "BATTLECRY"
-      ],
-      "spellSchool": "",
-      "classes": []
+      ]
     },
     {
       "id": "CORE_RLK_063",
@@ -17215,10 +16779,7 @@
       ],
       "relatedDbfIds": [
         87085
-      ],
-      "race": "",
-      "races": [],
-      "classes": []
+      ]
     },
     {
       "id": "CORE_RLK_066",
@@ -17323,11 +16884,7 @@
       "mechanics": [
         "BATTLECRY",
         "DISCOVER"
-      ],
-      "race": "",
-      "races": [],
-      "spellSchool": "",
-      "classes": []
+      ]
     },
     {
       "id": "CORE_RLK_083",
@@ -17349,7 +16906,7 @@
       "races": [
         "ELEMENTAL"
       ],
-      "race": "정령",
+      "race": "ELEMENTAL",
       "set": "CORE",
       "nativeTags": [
         {
@@ -17425,9 +16982,7 @@
       ],
       "mechanics": [
         "TRIGGER_VISUAL"
-      ],
-      "spellSchool": "",
-      "classes": []
+      ]
     },
     {
       "id": "CORE_RLK_086",
@@ -17506,11 +17061,7 @@
       ],
       "mechanics": [
         "DEATHRATTLE"
-      ],
-      "race": "",
-      "races": [],
-      "spellSchool": "",
-      "classes": []
+      ]
     },
     {
       "id": "CORE_RLK_087",
@@ -17567,10 +17118,7 @@
           "name": "주문 속성",
           "value": 6
         }
-      ],
-      "race": "",
-      "races": [],
-      "classes": []
+      ]
     },
     {
       "id": "CORE_RLK_116",
@@ -17650,11 +17198,7 @@
       "mechanics": [
         "BATTLECRY",
         "DISCOVER"
-      ],
-      "race": "",
-      "races": [],
-      "spellSchool": "",
-      "classes": []
+      ]
     },
     {
       "id": "CORE_RLK_118",
@@ -17753,10 +17297,7 @@
       ],
       "relatedDbfIds": [
         91712
-      ],
-      "race": "",
-      "races": [],
-      "classes": []
+      ]
     },
     {
       "id": "CORE_RLK_121",
@@ -17830,11 +17371,7 @@
       ],
       "mechanics": [
         "TRIGGER_VISUAL"
-      ],
-      "race": "",
-      "races": [],
-      "spellSchool": "",
-      "classes": []
+      ]
     },
     {
       "id": "CORE_RLK_505",
@@ -17856,7 +17393,7 @@
       "races": [
         "UNDEAD"
       ],
-      "race": "언데드",
+      "race": "UNDEAD",
       "set": "CORE",
       "nativeTags": [
         {
@@ -17927,9 +17464,7 @@
       ],
       "mechanics": [
         "BATTLECRY"
-      ],
-      "spellSchool": "",
-      "classes": []
+      ]
     },
     {
       "id": "CORE_RLK_506",
@@ -17951,7 +17486,7 @@
       "races": [
         "UNDEAD"
       ],
-      "race": "언데드",
+      "race": "UNDEAD",
       "set": "CORE",
       "nativeTags": [
         {
@@ -18041,9 +17576,7 @@
       ],
       "relatedDbfIds": [
         78570
-      ],
-      "spellSchool": "",
-      "classes": []
+      ]
     },
     {
       "id": "CORE_RLK_567",
@@ -18120,10 +17653,7 @@
           "name": "주문 속성",
           "value": 6
         }
-      ],
-      "race": "",
-      "races": [],
-      "classes": []
+      ]
     },
     {
       "id": "CORE_RLK_657",
@@ -18145,7 +17675,7 @@
       "races": [
         "UNDEAD"
       ],
-      "race": "언데드",
+      "race": "UNDEAD",
       "set": "CORE",
       "nativeTags": [
         {
@@ -18223,9 +17753,7 @@
         "DEATHRATTLE",
         "BATTLECRY",
         "RUSH"
-      ],
-      "spellSchool": "",
-      "classes": []
+      ]
     },
     {
       "id": "CORE_RLK_706",
@@ -18247,7 +17775,7 @@
       "races": [
         "UNDEAD"
       ],
-      "race": "언데드",
+      "race": "UNDEAD",
       "set": "CORE",
       "nativeTags": [
         {
@@ -18323,9 +17851,7 @@
       ],
       "mechanics": [
         "BATTLECRY"
-      ],
-      "spellSchool": "",
-      "classes": []
+      ]
     },
     {
       "id": "CORE_RLK_712",
@@ -18397,10 +17923,7 @@
           "name": "시체 소모",
           "value": 1
         }
-      ],
-      "race": "",
-      "races": [],
-      "classes": []
+      ]
     },
     {
       "id": "CORE_RLK_745",
@@ -18422,7 +17945,7 @@
       "races": [
         "UNDEAD"
       ],
-      "race": "언데드",
+      "race": "UNDEAD",
       "set": "CORE",
       "nativeTags": [
         {
@@ -18499,9 +18022,7 @@
       "mechanics": [
         "TRIGGER_VISUAL",
         "REBORN"
-      ],
-      "spellSchool": "",
-      "classes": []
+      ]
     },
     {
       "id": "CORE_RLK_814",
@@ -18585,11 +18106,7 @@
       ],
       "mechanics": [
         "BATTLECRY"
-      ],
-      "race": "",
-      "races": [],
-      "spellSchool": "",
-      "classes": []
+      ]
     },
     {
       "id": "CORE_SCH_181",
@@ -18673,11 +18190,7 @@
       ],
       "mechanics": [
         "BATTLECRY"
-      ],
-      "race": "",
-      "races": [],
-      "spellSchool": "",
-      "classes": []
+      ]
     },
     {
       "id": "CORE_SCH_512",
@@ -18739,10 +18252,7 @@
           "name": "주문 속성",
           "value": 6
         }
-      ],
-      "race": "",
-      "races": [],
-      "classes": []
+      ]
     },
     {
       "id": "CORE_SCH_605",
@@ -18764,7 +18274,7 @@
       "races": [
         "BEAST"
       ],
-      "race": "야수",
+      "race": "BEAST",
       "set": "CORE",
       "nativeTags": [
         {
@@ -18817,9 +18327,7 @@
           "name": "게임 태그 1413",
           "value": 59452
         }
-      ],
-      "spellSchool": "",
-      "classes": []
+      ]
     },
     {
       "id": "CORE_SCH_713",
@@ -18898,11 +18406,7 @@
       ],
       "mechanics": [
         "BATTLECRY"
-      ],
-      "race": "",
-      "races": [],
-      "spellSchool": "",
-      "classes": []
+      ]
     },
     {
       "id": "CORE_SCH_717",
@@ -18986,11 +18490,7 @@
       ],
       "mechanics": [
         "TRIGGER_VISUAL"
-      ],
-      "race": "",
-      "races": [],
-      "spellSchool": "",
-      "classes": []
+      ]
     },
     {
       "id": "CORE_SW_047",
@@ -19080,11 +18580,7 @@
       "mechanics": [
         "TRIGGER_VISUAL",
         "DIVINE_SHIELD"
-      ],
-      "race": "",
-      "races": [],
-      "spellSchool": "",
-      "classes": []
+      ]
     },
     {
       "id": "CORE_SW_066",
@@ -19174,11 +18670,7 @@
       "mechanics": [
         "BATTLECRY",
         "TRADEABLE"
-      ],
-      "race": "",
-      "races": [],
-      "spellSchool": "",
-      "classes": []
+      ]
     },
     {
       "id": "CORE_SW_068",
@@ -19201,7 +18693,7 @@
         "MECHANICAL",
         "DEMON"
       ],
-      "race": "기계, 악마",
+      "race": "MECHANICAL",
       "set": "CORE",
       "nativeTags": [
         {
@@ -19273,9 +18765,7 @@
       "mechanics": [
         "TAUNT",
         "DEATHRATTLE"
-      ],
-      "spellSchool": "",
-      "classes": []
+      ]
     },
     {
       "id": "CORE_SW_072",
@@ -19297,7 +18787,7 @@
       "races": [
         "BEAST"
       ],
-      "race": "야수",
+      "race": "BEAST",
       "set": "CORE",
       "nativeTags": [
         {
@@ -19374,9 +18864,7 @@
       "mechanics": [
         "BATTLECRY",
         "TRADEABLE"
-      ],
-      "spellSchool": "",
-      "classes": []
+      ]
     },
     {
       "id": "CORE_SW_088",
@@ -19454,10 +18942,7 @@
       ],
       "relatedDbfIds": [
         48
-      ],
-      "race": "",
-      "races": [],
-      "classes": []
+      ]
     },
     {
       "id": "CORE_SW_108",
@@ -19527,10 +19012,7 @@
       ],
       "relatedDbfIds": [
         64432
-      ],
-      "race": "",
-      "races": [],
-      "classes": []
+      ]
     },
     {
       "id": "CORE_SW_429",
@@ -19608,11 +19090,7 @@
       ],
       "relatedDbfIds": [
         70124
-      ],
-      "race": "",
-      "races": [],
-      "spellSchool": "",
-      "classes": []
+      ]
     },
     {
       "id": "CORE_SW_439",
@@ -19634,7 +19112,7 @@
       "races": [
         "BEAST"
       ],
-      "race": "야수",
+      "race": "BEAST",
       "set": "CORE",
       "nativeTags": [
         {
@@ -19699,9 +19177,7 @@
       "relatedDbfIds": [
         64851,
         68116
-      ],
-      "spellSchool": "",
-      "classes": []
+      ]
     },
     {
       "id": "CORE_SW_442",
@@ -19766,10 +19242,7 @@
       ],
       "mechanics": [
         "LIFESTEAL"
-      ],
-      "race": "",
-      "races": [],
-      "classes": []
+      ]
     },
     {
       "id": "CORE_TID_931",
@@ -19830,11 +19303,7 @@
           "name": "미니 세트",
           "value": 1
         }
-      ],
-      "race": "",
-      "races": [],
-      "spellSchool": "",
-      "classes": []
+      ]
     },
     {
       "id": "CORE_TRL_111",
@@ -19903,11 +19372,7 @@
       ],
       "mechanics": [
         "BATTLECRY"
-      ],
-      "race": "",
-      "races": [],
-      "spellSchool": "",
-      "classes": []
+      ]
     },
     {
       "id": "CORE_TRL_240",
@@ -19981,11 +19446,7 @@
       ],
       "mechanics": [
         "BATTLECRY"
-      ],
-      "race": "",
-      "races": [],
-      "spellSchool": "",
-      "classes": []
+      ]
     },
     {
       "id": "CORE_TRL_307",
@@ -20042,10 +19503,7 @@
           "name": "주문 속성",
           "value": 5
         }
-      ],
-      "race": "",
-      "races": [],
-      "classes": []
+      ]
     },
     {
       "id": "CORE_TRL_345",
@@ -20067,7 +19525,7 @@
       "races": [
         "BEAST"
       ],
-      "race": "야수",
+      "race": "BEAST",
       "set": "CORE",
       "nativeTags": [
         {
@@ -20128,9 +19586,7 @@
       ],
       "mechanics": [
         "BATTLECRY"
-      ],
-      "spellSchool": "",
-      "classes": []
+      ]
     },
     {
       "id": "CORE_TRL_900",
@@ -20152,7 +19608,7 @@
       "races": [
         "BEAST"
       ],
-      "race": "야수",
+      "race": "BEAST",
       "set": "CORE",
       "nativeTags": [
         {
@@ -20242,9 +19698,7 @@
       ],
       "relatedDbfIds": [
         50213
-      ],
-      "spellSchool": "",
-      "classes": []
+      ]
     },
     {
       "id": "CORE_TSC_076",
@@ -20319,10 +19773,7 @@
         80113,
         80115,
         80116
-      ],
-      "race": "",
-      "races": [],
-      "classes": []
+      ]
     },
     {
       "id": "CORE_TSC_650",
@@ -20410,10 +19861,7 @@
         74960,
         73463,
         73553
-      ],
-      "race": "",
-      "races": [],
-      "classes": []
+      ]
     },
     {
       "id": "CORE_TTN_843",
@@ -20435,7 +19883,7 @@
       "races": [
         "DEMON"
       ],
-      "race": "악마",
+      "race": "DEMON",
       "set": "CORE",
       "nativeTags": [
         {
@@ -20515,9 +19963,7 @@
       ],
       "relatedDbfIds": [
         101499
-      ],
-      "spellSchool": "",
-      "classes": []
+      ]
     },
     {
       "id": "CORE_TTN_866",
@@ -20540,7 +19986,7 @@
         "DEMON",
         "BEAST"
       ],
-      "race": "악마, 야수",
+      "race": "DEMON",
       "set": "CORE",
       "nativeTags": [
         {
@@ -20627,9 +20073,7 @@
       "mechanics": [
         "TRIGGER_VISUAL",
         "LIFESTEAL"
-      ],
-      "spellSchool": "",
-      "classes": []
+      ]
     },
     {
       "id": "CORE_ULD_133",
@@ -20713,11 +20157,7 @@
       ],
       "mechanics": [
         "TRIGGER_VISUAL"
-      ],
-      "race": "",
-      "races": [],
-      "spellSchool": "",
-      "classes": []
+      ]
     },
     {
       "id": "CORE_ULD_152",
@@ -20781,11 +20221,7 @@
       ],
       "mechanics": [
         "SECRET"
-      ],
-      "race": "",
-      "races": [],
-      "spellSchool": "",
-      "classes": []
+      ]
     },
     {
       "id": "CORE_ULD_165",
@@ -20807,7 +20243,7 @@
       "races": [
         "DEMON"
       ],
-      "race": "악마",
+      "race": "DEMON",
       "set": "CORE",
       "nativeTags": [
         {
@@ -20868,9 +20304,7 @@
       ],
       "mechanics": [
         "BATTLECRY"
-      ],
-      "spellSchool": "",
-      "classes": []
+      ]
     },
     {
       "id": "CORE_ULD_178",
@@ -20892,7 +20326,7 @@
       "races": [
         "ELEMENTAL"
       ],
-      "race": "정령",
+      "race": "ELEMENTAL",
       "set": "CORE",
       "nativeTags": [
         {
@@ -20983,9 +20417,7 @@
         54151,
         54150,
         54149
-      ],
-      "spellSchool": "",
-      "classes": []
+      ]
     },
     {
       "id": "CORE_ULD_191",
@@ -21054,11 +20486,7 @@
       ],
       "mechanics": [
         "BATTLECRY"
-      ],
-      "race": "",
-      "races": [],
-      "spellSchool": "",
-      "classes": []
+      ]
     },
     {
       "id": "CORE_ULD_271",
@@ -21133,11 +20561,7 @@
       "mechanics": [
         "TAUNT",
         "BATTLECRY"
-      ],
-      "race": "",
-      "races": [],
-      "spellSchool": "",
-      "classes": []
+      ]
     },
     {
       "id": "CORE_ULD_280",
@@ -21159,7 +20583,7 @@
       "races": [
         "PIRATE"
       ],
-      "race": "해적",
+      "race": "PIRATE",
       "set": "CORE",
       "nativeTags": [
         {
@@ -21220,9 +20644,7 @@
       ],
       "mechanics": [
         "DEATHRATTLE"
-      ],
-      "spellSchool": "",
-      "classes": []
+      ]
     },
     {
       "id": "CORE_ULD_723",
@@ -21245,7 +20667,7 @@
         "UNDEAD",
         "MURLOC"
       ],
-      "race": "언데드, 멀록",
+      "race": "UNDEAD",
       "set": "CORE",
       "nativeTags": [
         {
@@ -21306,9 +20728,7 @@
       ],
       "mechanics": [
         "REBORN"
-      ],
-      "spellSchool": "",
-      "classes": []
+      ]
     },
     {
       "id": "Core_UNG_072",
@@ -21394,11 +20814,7 @@
         "TAUNT",
         "BATTLECRY",
         "DISCOVER"
-      ],
-      "race": "",
-      "races": [],
-      "spellSchool": "",
-      "classes": []
+      ]
     },
     {
       "id": "CORE_UNG_084",
@@ -21421,7 +20837,7 @@
         "ELEMENTAL",
         "BEAST"
       ],
-      "race": "정령, 야수",
+      "race": "ELEMENTAL",
       "set": "CORE",
       "nativeTags": [
         {
@@ -21487,9 +20903,7 @@
       ],
       "mechanics": [
         "BATTLECRY"
-      ],
-      "spellSchool": "",
-      "classes": []
+      ]
     },
     {
       "id": "CORE_UNG_205",
@@ -21511,7 +20925,7 @@
       "races": [
         "ELEMENTAL"
       ],
-      "race": "정령",
+      "race": "ELEMENTAL",
       "set": "CORE",
       "nativeTags": [
         {
@@ -21573,9 +20987,7 @@
       "mechanics": [
         "FREEZE",
         "BATTLECRY"
-      ],
-      "spellSchool": "",
-      "classes": []
+      ]
     },
     {
       "id": "CORE_UNG_809",
@@ -21597,7 +21009,7 @@
       "races": [
         "ELEMENTAL"
       ],
-      "race": "정령",
+      "race": "ELEMENTAL",
       "set": "CORE",
       "nativeTags": [
         {
@@ -21671,9 +21083,7 @@
       ],
       "relatedDbfIds": [
         42044
-      ],
-      "spellSchool": "",
-      "classes": []
+      ]
     },
     {
       "id": "CORE_UNG_848",
@@ -21695,7 +21105,7 @@
       "races": [
         "DRAGON"
       ],
-      "race": "용족",
+      "race": "DRAGON",
       "set": "CORE",
       "nativeTags": [
         {
@@ -21762,9 +21172,7 @@
       "mechanics": [
         "TAUNT",
         "BATTLECRY"
-      ],
-      "spellSchool": "",
-      "classes": []
+      ]
     },
     {
       "id": "CORE_UNG_912",
@@ -21786,7 +21194,7 @@
       "races": [
         "BEAST"
       ],
-      "race": "야수",
+      "race": "BEAST",
       "set": "CORE",
       "nativeTags": [
         {
@@ -21847,9 +21255,7 @@
       ],
       "mechanics": [
         "BATTLECRY"
-      ],
-      "spellSchool": "",
-      "classes": []
+      ]
     },
     {
       "id": "CORE_UNG_928",
@@ -21871,7 +21277,7 @@
       "races": [
         "ELEMENTAL"
       ],
-      "race": "정령",
+      "race": "ELEMENTAL",
       "set": "CORE",
       "nativeTags": [
         {
@@ -21927,9 +21333,7 @@
       ],
       "mechanics": [
         "TAUNT"
-      ],
-      "spellSchool": "",
-      "classes": []
+      ]
     },
     {
       "id": "CORE_UNG_952",
@@ -22002,11 +21406,7 @@
       ],
       "relatedDbfIds": [
         41324
-      ],
-      "race": "",
-      "races": [],
-      "spellSchool": "",
-      "classes": []
+      ]
     },
     {
       "id": "CORE_WC_042",
@@ -22028,7 +21428,7 @@
       "races": [
         "ELEMENTAL"
       ],
-      "race": "정령",
+      "race": "ELEMENTAL",
       "set": "CORE",
       "nativeTags": [
         {
@@ -22094,9 +21494,7 @@
       ],
       "mechanics": [
         "TRIGGER_VISUAL"
-      ],
-      "spellSchool": "",
-      "classes": []
+      ]
     },
     {
       "id": "CORE_WC_701",
@@ -22118,7 +21516,7 @@
       "races": [
         "BEAST"
       ],
-      "race": "야수",
+      "race": "BEAST",
       "set": "CORE",
       "nativeTags": [
         {
@@ -22195,9 +21593,7 @@
       "mechanics": [
         "DEATHRATTLE",
         "RUSH"
-      ],
-      "spellSchool": "",
-      "classes": []
+      ]
     },
     {
       "id": "CORE_WON_096",
@@ -22219,7 +21615,7 @@
       "races": [
         "UNDEAD"
       ],
-      "race": "언데드",
+      "race": "UNDEAD",
       "set": "CORE",
       "nativeTags": [
         {
@@ -22301,9 +21697,7 @@
       "mechanics": [
         "BATTLECRY",
         "DISCOVER"
-      ],
-      "spellSchool": "",
-      "classes": []
+      ]
     },
     {
       "id": "CORE_WON_141",
@@ -22377,11 +21771,7 @@
       ],
       "mechanics": [
         "BATTLECRY"
-      ],
-      "race": "",
-      "races": [],
-      "spellSchool": "",
-      "classes": []
+      ]
     },
     {
       "id": "CORE_WON_145",
@@ -22460,11 +21850,7 @@
       ],
       "mechanics": [
         "BATTLECRY"
-      ],
-      "race": "",
-      "races": [],
-      "spellSchool": "",
-      "classes": []
+      ]
     },
     {
       "id": "CORE_WON_337",
@@ -22526,10 +21912,7 @@
           "name": "주문 속성",
           "value": 2
         }
-      ],
-      "race": "",
-      "races": [],
-      "classes": []
+      ]
     },
     {
       "id": "CORE_WON_350",
@@ -22604,11 +21987,7 @@
       "mechanics": [
         "TAUNT",
         "DISCOVER"
-      ],
-      "race": "",
-      "races": [],
-      "spellSchool": "",
-      "classes": []
+      ]
     },
     {
       "id": "CORE_WON_351",
@@ -22630,7 +22009,7 @@
       "races": [
         "PIRATE"
       ],
-      "race": "해적",
+      "race": "PIRATE",
       "set": "CORE",
       "nativeTags": [
         {
@@ -22683,9 +22062,7 @@
           "name": "게임 태그 1413",
           "value": 106467
         }
-      ],
-      "spellSchool": "",
-      "classes": []
+      ]
     },
     {
       "id": "CORE_WW_329",
@@ -22707,7 +22084,7 @@
       "races": [
         "MECHANICAL"
       ],
-      "race": "기계",
+      "race": "MECHANICAL",
       "set": "CORE",
       "nativeTags": [
         {
@@ -22779,9 +22156,7 @@
       "mechanics": [
         "TAUNT",
         "BATTLECRY"
-      ],
-      "spellSchool": "",
-      "classes": []
+      ]
     },
     {
       "id": "CORE_WW_374",
@@ -22852,11 +22227,7 @@
           "name": "시체 소모",
           "value": 1
         }
-      ],
-      "race": "",
-      "races": [],
-      "spellSchool": "",
-      "classes": []
+      ]
     },
     {
       "id": "CORE_YOD_026",
@@ -22878,7 +22249,7 @@
       "races": [
         "DEMON"
       ],
-      "race": "악마",
+      "race": "DEMON",
       "set": "CORE",
       "nativeTags": [
         {
@@ -22949,9 +22320,7 @@
       ],
       "mechanics": [
         "DEATHRATTLE"
-      ],
-      "spellSchool": "",
-      "classes": []
+      ]
     },
     {
       "id": "CORE_YOP_001",
@@ -23026,11 +22395,7 @@
       "mechanics": [
         "DISCOVER",
         "OUTCAST"
-      ],
-      "race": "",
-      "races": [],
-      "spellSchool": "",
-      "classes": []
+      ]
     },
     {
       "id": "CORE_YOP_034",
@@ -23052,7 +22417,7 @@
       "races": [
         "DRAGON"
       ],
-      "race": "용족",
+      "race": "DRAGON",
       "set": "CORE",
       "nativeTags": [
         {
@@ -23128,9 +22493,7 @@
       ],
       "mechanics": [
         "TRIGGER_VISUAL"
-      ],
-      "spellSchool": "",
-      "classes": []
+      ]
     },
     {
       "id": "CS3_007",
@@ -23205,11 +22568,7 @@
       "mechanics": [
         "SPELLPOWER",
         "OVERLOAD"
-      ],
-      "race": "",
-      "races": [],
-      "spellSchool": "",
-      "classes": []
+      ]
     },
     {
       "id": "CS3_020",
@@ -23231,7 +22590,7 @@
       "races": [
         "DEMON"
       ],
-      "race": "악마",
+      "race": "DEMON",
       "set": "CORE",
       "nativeTags": [
         {
@@ -23288,9 +22647,7 @@
       "mechanics": [
         "TRIGGER_VISUAL",
         "RUSH"
-      ],
-      "spellSchool": "",
-      "classes": []
+      ]
     },
     {
       "id": "CS3_022",
@@ -23312,7 +22669,7 @@
       "races": [
         "PIRATE"
       ],
-      "race": "해적",
+      "race": "PIRATE",
       "set": "CORE",
       "nativeTags": [
         {
@@ -23363,9 +22720,7 @@
       ],
       "mechanics": [
         "BATTLECRY"
-      ],
-      "spellSchool": "",
-      "classes": []
+      ]
     },
     {
       "id": "CS3_024",
@@ -23456,11 +22811,7 @@
         "TAUNT",
         "DIVINE_SHIELD",
         "DEATHRATTLE"
-      ],
-      "race": "",
-      "races": [],
-      "spellSchool": "",
-      "classes": []
+      ]
     },
     {
       "id": "CS3_025",
@@ -23545,11 +22896,7 @@
       "mechanics": [
         "TRIGGER_VISUAL",
         "RUSH"
-      ],
-      "race": "",
-      "races": [],
-      "spellSchool": "",
-      "classes": []
+      ]
     },
     {
       "id": "CS3_035",
@@ -23571,7 +22918,7 @@
       "races": [
         "DRAGON"
       ],
-      "race": "용족",
+      "race": "DRAGON",
       "set": "CORE",
       "nativeTags": [
         {
@@ -23632,9 +22979,7 @@
       ],
       "mechanics": [
         "START_OF_GAME"
-      ],
-      "spellSchool": "",
-      "classes": []
+      ]
     },
     {
       "id": "CS3_038",
@@ -23656,7 +23001,7 @@
       "races": [
         "MURLOC"
       ],
-      "race": "멀록",
+      "race": "MURLOC",
       "set": "CORE",
       "nativeTags": [
         {
@@ -23707,9 +23052,7 @@
       ],
       "mechanics": [
         "RUSH"
-      ],
-      "spellSchool": "",
-      "classes": []
+      ]
     },
     {
       "id": "GAME_005",
@@ -23749,12 +23092,7 @@
           "name": "COIN_CARD",
           "value": 1
         }
-      ],
-      "race": "",
-      "races": [],
-      "spellSchool": "",
-      "classes": [],
-      "flavor": ""
+      ]
     },
     {
       "id": "RLK_024",
@@ -23813,11 +23151,7 @@
       ],
       "mechanics": [
         "LIFESTEAL"
-      ],
-      "race": "",
-      "races": [],
-      "spellSchool": "",
-      "classes": []
+      ]
     },
     {
       "id": "RLK_025",
@@ -23882,10 +23216,7 @@
       ],
       "mechanics": [
         "DISCOVER"
-      ],
-      "race": "",
-      "races": [],
-      "classes": []
+      ]
     },
     {
       "id": "RLK_048",
@@ -23947,10 +23278,7 @@
           "name": "부정 룬",
           "value": 1
         }
-      ],
-      "race": "",
-      "races": [],
-      "classes": []
+      ]
     },
     {
       "id": "RLK_060",
@@ -24033,10 +23361,7 @@
       ],
       "relatedDbfIds": [
         79278
-      ],
-      "race": "",
-      "races": [],
-      "classes": []
+      ]
     },
     {
       "id": "RLK_061",
@@ -24139,11 +23464,7 @@
       ],
       "relatedDbfIds": [
         78570
-      ],
-      "race": "",
-      "races": [],
-      "spellSchool": "",
-      "classes": []
+      ]
     },
     {
       "id": "RLK_061t",
@@ -24151,7 +23472,7 @@
       "name": "되살아난 보병",
       "type": "MINION",
       "cardClass": "DEATHKNIGHT",
-      "rarity": "",
+      "rarity": "FREE",
       "collectible": false,
       "cost": 1,
       "text": "<b>도발</b>\n<i><b>시체</b>를 남기지 않습니다.</i>",
@@ -24164,7 +23485,7 @@
       "races": [
         "UNDEAD"
       ],
-      "race": "언데드",
+      "race": "UNDEAD",
       "set": "CORE",
       "nativeTags": [
         {
@@ -24215,10 +23536,7 @@
       ],
       "mechanics": [
         "TAUNT"
-      ],
-      "spellSchool": "",
-      "classes": [],
-      "flavor": ""
+      ]
     },
     {
       "id": "RLK_067",
@@ -24287,11 +23605,7 @@
       ],
       "mechanics": [
         "LIFESTEAL"
-      ],
-      "race": "",
-      "races": [],
-      "spellSchool": "",
-      "classes": []
+      ]
     },
     {
       "id": "RLK_223",
@@ -24313,7 +23627,7 @@
       "races": [
         "UNDEAD"
       ],
-      "race": "언데드",
+      "race": "UNDEAD",
       "set": "CORE",
       "nativeTags": [
         {
@@ -24391,9 +23705,7 @@
         "DEATHRATTLE",
         "BATTLECRY",
         "REBORN"
-      ],
-      "spellSchool": "",
-      "classes": []
+      ]
     },
     {
       "id": "RLK_503",
@@ -24415,7 +23727,7 @@
       "races": [
         "UNDEAD"
       ],
-      "race": "언데드",
+      "race": "UNDEAD",
       "set": "CORE",
       "nativeTags": [
         {
@@ -24471,9 +23783,7 @@
       ],
       "mechanics": [
         "BATTLECRY"
-      ],
-      "spellSchool": "",
-      "classes": []
+      ]
     },
     {
       "id": "RLK_511",
@@ -24495,7 +23805,7 @@
       "races": [
         "UNDEAD"
       ],
-      "race": "언데드",
+      "race": "UNDEAD",
       "set": "CORE",
       "nativeTags": [
         {
@@ -24556,9 +23866,7 @@
       ],
       "mechanics": [
         "DEATHRATTLE"
-      ],
-      "spellSchool": "",
-      "classes": []
+      ]
     },
     {
       "id": "RLK_707",
@@ -24625,10 +23933,7 @@
           "name": "시체 소모",
           "value": 1
         }
-      ],
-      "race": "",
-      "races": [],
-      "classes": []
+      ]
     },
     {
       "id": "RLK_708",
@@ -24651,7 +23956,7 @@
         "UNDEAD",
         "DRAENEI"
       ],
-      "race": "언데드, 드레나이",
+      "race": "UNDEAD",
       "set": "CORE",
       "nativeTags": [
         {
@@ -24718,9 +24023,7 @@
       "mechanics": [
         "DEATHRATTLE",
         "BATTLECRY"
-      ],
-      "spellSchool": "",
-      "classes": []
+      ]
     },
     {
       "id": "RLK_709",
@@ -24777,10 +24080,7 @@
           "name": "냉기 룬",
           "value": 1
         }
-      ],
-      "race": "",
-      "races": [],
-      "classes": []
+      ]
     },
     {
       "id": "RLK_720",
@@ -24802,7 +24102,7 @@
       "races": [
         "UNDEAD"
       ],
-      "race": "언데드",
+      "race": "UNDEAD",
       "set": "CORE",
       "nativeTags": [
         {
@@ -24885,9 +24185,7 @@
         "TRIGGER_VISUAL",
         "TAUNT",
         "LIFESTEAL"
-      ],
-      "spellSchool": "",
-      "classes": []
+      ]
     },
     {
       "id": "RLK_958",
@@ -24909,7 +24207,7 @@
       "races": [
         "UNDEAD"
       ],
-      "race": "언데드",
+      "race": "UNDEAD",
       "set": "CORE",
       "nativeTags": [
         {
@@ -24965,9 +24263,7 @@
       ],
       "mechanics": [
         "BATTLECRY"
-      ],
-      "spellSchool": "",
-      "classes": []
+      ]
     },
     {
       "id": "TTN_851",
@@ -25057,10 +24353,7 @@
       ],
       "mechanics": [
         "TRIGGER_VISUAL"
-      ],
-      "race": "",
-      "races": [],
-      "classes": []
+      ]
     }
   ]
 }
