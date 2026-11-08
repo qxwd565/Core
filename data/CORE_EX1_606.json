@@ -72,12 +72,6 @@
     "nativeTextBuilder": 0,
     "history": [
       {
-        "before": "2018-08-02",
-        "changes": {
-          "name": "방패 막기"
-        }
-      },
-      {
         "before": "2023-04-28",
         "changes": {
           "cost": 3
