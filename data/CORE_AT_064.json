@@ -59,7 +59,15 @@
       }
     ],
     "nativeRawText": "[x]피해를 $3 줍니다.\n방어도를 +3 얻습니다.",
-    "nativeTextBuilder": 0
+    "nativeTextBuilder": 0,
+    "history": [
+      {
+        "before": "2022-08-17",
+        "changes": {
+          "cost": 3
+        }
+      }
+    ]
   },
   "root": true,
   "relatedIds": [],

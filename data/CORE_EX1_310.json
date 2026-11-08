@@ -111,7 +111,15 @@
       }
     ],
     "nativeRawText": "<b>돌진</b>, <b>전투의 함성</b>:& 무작위로 카드를 2장 버립니다.",
-    "nativeTextBuilder": 0
+    "nativeTextBuilder": 0,
+    "history": [
+      {
+        "before": "2015-08-18",
+        "changes": {
+          "name": "파멸의 수호병"
+        }
+      }
+    ]
   },
   "root": true,
   "relatedIds": [],

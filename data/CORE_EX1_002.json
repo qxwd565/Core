@@ -106,7 +106,15 @@
       }
     ],
     "nativeRawText": "<b>교환성</b>, <b>전투의 함성:</b>적 <b>도발</b> 하수인을 처치합니다.",
-    "nativeTextBuilder": 0
+    "nativeTextBuilder": 0,
+    "history": [
+      {
+        "before": "2023-04-05",
+        "changes": {
+          "cost": 6
+        }
+      }
+    ]
   },
   "root": true,
   "relatedIds": [],

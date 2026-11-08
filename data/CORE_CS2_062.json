@@ -89,7 +89,15 @@
       }
     ],
     "nativeRawText": "<b>모든</b> 캐릭터에게 피해를 $3 줍니다.",
-    "nativeTextBuilder": 0
+    "nativeTextBuilder": 0,
+    "history": [
+      {
+        "before": "2023-04-05",
+        "changes": {
+          "cost": 4
+        }
+      }
+    ]
   },
   "root": true,
   "relatedIds": [],

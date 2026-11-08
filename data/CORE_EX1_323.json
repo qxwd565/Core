@@ -109,7 +109,15 @@
       }
     ],
     "nativeRawText": "<b>전투의 함성</b>:&\n3/8 피의 격노를 장착합니다.",
-    "nativeTextBuilder": 0
+    "nativeTextBuilder": 0,
+    "history": [
+      {
+        "before": "2023-09-29",
+        "changes": {
+          "cost": 9
+        }
+      }
+    ]
   },
   "root": true,
   "relatedIds": [

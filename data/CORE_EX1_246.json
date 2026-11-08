@@ -94,7 +94,16 @@
       }
     ],
     "nativeRawText": "[x]하수인을 <b>도발</b> 능력이\n있는 0/1 개구리로\n변신시킵니다.",
-    "nativeTextBuilder": 0
+    "nativeTextBuilder": 0,
+    "history": [
+      {
+        "from": "2017-09-19",
+        "before": "2023-04-05",
+        "changes": {
+          "cost": 4
+        }
+      }
+    ]
   },
   "root": true,
   "relatedIds": [

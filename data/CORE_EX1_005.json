@@ -99,7 +99,22 @@
       }
     ],
     "nativeRawText": "[x]<b>교환성</b>, <b>전투의 함성:</b>\n공격력이 7 이상인\n하수인을 처치합니다.",
-    "nativeTextBuilder": 0
+    "nativeTextBuilder": 0,
+    "history": [
+      {
+        "before": "2016-04-25",
+        "changes": {
+          "cost": 3
+        }
+      },
+      {
+        "from": "2016-04-25",
+        "before": "2021-03-26",
+        "changes": {
+          "cost": 5
+        }
+      }
+    ]
   },
   "root": true,
   "relatedIds": [],

@@ -94,7 +94,21 @@
       }
     ],
     "nativeRawText": "[x]하수인을 처치합니다.\n내 영웅이 생명력을\n#3 회복합니다.",
-    "nativeTextBuilder": 0
+    "nativeTextBuilder": 0,
+    "history": [
+      {
+        "before": "2021-03-26",
+        "changes": {
+          "cost": 6
+        }
+      },
+      {
+        "from": "2021-03-26",
+        "changes": {
+          "cost": 5
+        }
+      }
+    ]
   },
   "root": true,
   "relatedIds": [],

@@ -89,7 +89,15 @@
       }
     ],
     "nativeRawText": "하수인에게 <b>도발</b>과 +2/+3을 부여합니다.",
-    "nativeTextBuilder": 0
+    "nativeTextBuilder": 0,
+    "history": [
+      {
+        "before": "2019-02-05",
+        "changes": {
+          "legacyArt": true
+        }
+      }
+    ]
   },
   "root": true,
   "relatedIds": [],

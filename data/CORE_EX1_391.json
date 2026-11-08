@@ -74,7 +74,15 @@
       }
     ],
     "nativeRawText": "하수인에게 피해를 $2 줍니다.\n그 하수인이 생존하면, 카드를 뽑습니다.",
-    "nativeTextBuilder": 0
+    "nativeTextBuilder": 0,
+    "history": [
+      {
+        "before": "2022-08-17",
+        "changes": {
+          "cost": 2
+        }
+      }
+    ]
   },
   "root": true,
   "relatedIds": [],
