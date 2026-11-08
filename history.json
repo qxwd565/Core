@@ -1,1 +1,242 @@
-{"schema":1,"set":"Core","cards":{"76304":{"id":"CORE_AT_064","history":[{"before":"2022-08-17","changes":{"cost":3}}]},"69691":{"id":"CORE_BRM_013","history":[{"before":"2019-04-04","changes":{"name":"속사"}}]},"69508":{"id":"CORE_CS1_112","history":[{"before":"2020-03-27","changes":{"cost":5}},{"from":"2020-03-27","before":"2023-04-28","changes":{"cost":4}}]},"69511":{"id":"CORE_CS2_009","history":[{"before":"2019-02-05","changes":{"legacyArt":true}}]},"76273":{"id":"CORE_CS2_028","history":[{"before":"2013-12-19","changes":{"cost":5}}]},"69519":{"id":"CORE_CS2_062","history":[{"before":"2023-04-05","changes":{"cost":4}}]},"69525":{"id":"CORE_CS2_076","history":[{"before":"2021-03-26","changes":{"cost":5}}]},"69532":{"id":"CORE_CS2_093","history":[{"before":"2023-04-05","changes":{"cost":4}}]},"102217":{"id":"CORE_EX1_002","history":[{"before":"2023-04-05","changes":{"cost":6}}]},"69652":{"id":"CORE_EX1_005","history":[{"before":"2016-04-25","changes":{"cost":3}},{"from":"2016-04-25","before":"2021-03-26","changes":{"cost":5}}]},"102745":{"id":"CORE_EX1_129","history":[{"before":"2023-04-05","changes":{"cost":3}}]},"69551":{"id":"CORE_EX1_246","history":[{"from":"2017-09-19","before":"2023-04-05","changes":{"cost":4}}]},"126895":{"id":"CORE_EX1_278","history":[{"before":"2013-10-03","changes":{"cost":1}}]},"69553":{"id":"CORE_EX1_302","history":[{"before":"2017-08-08","changes":{"name":"죽음의 고리"}}]},"69634":{"id":"CORE_EX1_309","history":[{"before":"2021-03-26","changes":{"cost":6}},{"from":"2021-03-26","changes":{"cost":5}}]},"111457":{"id":"CORE_EX1_310","history":[{"before":"2015-08-18","changes":{"name":"파멸의 수호병"}}]},"69637":{"id":"CORE_EX1_323","history":[{"before":"2023-09-29","changes":{"cost":9}}]},"69638":{"id":"CORE_EX1_391","history":[{"before":"2022-08-17","changes":{"cost":2}}]},"76302":{"id":"CORE_EX1_606","history":[{"before":"2018-08-02","changes":{"name":"방패 막기"}},{"before":"2023-04-28","changes":{"cost":3}}]}}}
+{
+  "schema": 1,
+  "set": "Core",
+  "cards": {
+    "76304": {
+      "id": "CORE_AT_064",
+      "history": [
+        {
+          "before": "2022-08-17",
+          "changes": {
+            "cost": 3
+          }
+        }
+      ]
+    },
+    "69691": {
+      "id": "CORE_BRM_013",
+      "history": [
+        {
+          "before": "2019-04-04",
+          "changes": {
+            "name": "속사"
+          }
+        }
+      ]
+    },
+    "69508": {
+      "id": "CORE_CS1_112",
+      "history": [
+        {
+          "before": "2020-03-27",
+          "changes": {
+            "cost": 5
+          }
+        },
+        {
+          "from": "2020-03-27",
+          "before": "2023-04-28",
+          "changes": {
+            "cost": 4
+          }
+        }
+      ]
+    },
+    "69511": {
+      "id": "CORE_CS2_009",
+      "history": [
+        {
+          "before": "2019-02-05",
+          "changes": {
+            "legacyArt": true
+          }
+        }
+      ]
+    },
+    "76273": {
+      "id": "CORE_CS2_028",
+      "history": [
+        {
+          "before": "2013-12-19",
+          "changes": {
+            "cost": 5
+          }
+        }
+      ]
+    },
+    "69519": {
+      "id": "CORE_CS2_062",
+      "history": [
+        {
+          "before": "2023-04-05",
+          "changes": {
+            "cost": 4
+          }
+        }
+      ]
+    },
+    "69525": {
+      "id": "CORE_CS2_076",
+      "history": [
+        {
+          "before": "2021-03-26",
+          "changes": {
+            "cost": 5
+          }
+        }
+      ]
+    },
+    "69532": {
+      "id": "CORE_CS2_093",
+      "history": [
+        {
+          "before": "2023-04-05",
+          "changes": {
+            "cost": 4
+          }
+        }
+      ]
+    },
+    "102217": {
+      "id": "CORE_EX1_002",
+      "history": [
+        {
+          "before": "2023-04-05",
+          "changes": {
+            "cost": 6
+          }
+        }
+      ]
+    },
+    "69652": {
+      "id": "CORE_EX1_005",
+      "history": [
+        {
+          "before": "2016-04-25",
+          "changes": {
+            "cost": 3
+          }
+        },
+        {
+          "from": "2016-04-25",
+          "before": "2021-03-26",
+          "changes": {
+            "cost": 5
+          }
+        }
+      ]
+    },
+    "102745": {
+      "id": "CORE_EX1_129",
+      "history": [
+        {
+          "before": "2023-04-05",
+          "changes": {
+            "cost": 3
+          }
+        }
+      ]
+    },
+    "69551": {
+      "id": "CORE_EX1_246",
+      "history": [
+        {
+          "from": "2017-09-19",
+          "before": "2023-04-05",
+          "changes": {
+            "cost": 4
+          }
+        }
+      ]
+    },
+    "126895": {
+      "id": "CORE_EX1_278",
+      "history": [
+        {
+          "before": "2013-10-03",
+          "changes": {
+            "cost": 1
+          }
+        }
+      ]
+    },
+    "69553": {
+      "id": "CORE_EX1_302",
+      "history": [
+        {
+          "before": "2017-08-08",
+          "changes": {
+            "name": "죽음의 고리"
+          }
+        }
+      ]
+    },
+    "69634": {
+      "id": "CORE_EX1_309",
+      "history": [
+        {
+          "before": "2021-03-26",
+          "changes": {
+            "cost": 6
+          }
+        },
+        {
+          "from": "2021-03-26",
+          "changes": {
+            "cost": 5
+          }
+        }
+      ]
+    },
+    "111457": {
+      "id": "CORE_EX1_310",
+      "history": [
+        {
+          "before": "2015-08-18",
+          "changes": {
+            "name": "파멸의 수호병"
+          }
+        }
+      ]
+    },
+    "69637": {
+      "id": "CORE_EX1_323",
+      "history": [
+        {
+          "before": "2023-09-29",
+          "changes": {
+            "cost": 9
+          }
+        }
+      ]
+    },
+    "69638": {
+      "id": "CORE_EX1_391",
+      "history": [
+        {
+          "before": "2022-08-17",
+          "changes": {
+            "cost": 2
+          }
+        }
+      ]
+    },
+    "76302": {
+      "id": "CORE_EX1_606",
+      "history": [
+        {
+          "before": "2018-08-02",
+          "changes": {
+            "name": "방패 막기"
+          }
+        },
+        {
+          "before": "2023-04-28",
+          "changes": {
+            "cost": 3
+          }
+        }
+      ]
+    }
+  }
+}
