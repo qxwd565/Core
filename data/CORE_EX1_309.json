@@ -97,13 +97,8 @@
     "nativeTextBuilder": 0,
     "history": [
       {
-        "before": "2021-03-26",
-        "changes": {
-          "cost": 6
-        }
-      },
-      {
         "from": "2021-03-26",
+        "before": "2023-04-28",
         "changes": {
           "cost": 5
         }
