@@ -31,7 +31,14 @@
       "status": "pending"
     }
   },
-  "cards": {},
+  "cards": {
+    "GAME_005": {
+      "date": "2013-08-17",
+      "status": "verified",
+      "source": "https://hearthstone.blizzard.com/en-us/news/10639928/hearthstone-closed-beta-test-begins-8-16-2013",
+      "note": "최초 사용은 2013년 북미 클로즈드 베타. 한국 날짜 표기는 미국 2013-08-16 개시를 KST로 환산하는 HSdeck 정책에 따른다. 2021 핵심 세트 추가일과 혼동하지 않는다."
+    }
+  },
   "sources": {
     "core": "https://hearthstone.blizzard.com/ko-kr/news/23642550/20-0-patch-notes",
     "lich": "https://hearthstone.blizzard.com/ko-kr/news/23882860/25-0-patch-notes",
