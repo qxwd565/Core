@@ -1,12 +1,9 @@
 {
-  "schemaVersion": 1,
-  "mode": "constructed",
-  "englishName": "Avatar of Hearthstone",
-  "card": {
+  "2021-03-31": {
     "id": "CORE_WON_145",
     "dbfId": 127595,
     "name": "하스스톤의 화신",
-    "text": "<b>전투의 함성:</b>\n정규 카드 팩을 개봉합니다.\n그 팩에서 나오는 모든\n카드를 냅니다.",
+    "text": "<b>전투의 함성:</b><br></br>정규 카드 팩을 개봉합니다.<br></br>그 팩에서 나오는 모든<br></br>카드를 냅니다.",
     "type": "MINION",
     "cardClass": "NEUTRAL",
     "classes": [],
@@ -85,27 +82,9 @@
     ],
     "nativeRawText": "[x]<b>전투의 함성:</b>\n정규 카드 팩을 개봉합니다.\n그 팩에서 나오는 모든\n카드를 냅니다.",
     "nativeTextBuilder": 0,
-    "releasedAt": "2021-03-31",
-    "releaseStatus": "estimated"
-  },
-  "root": true,
-  "relatedIds": [],
-  "expansion": {
-    "id": 1637,
-    "slug": "core",
-    "name": "핵심",
-    "type": "",
-    "englishName": "Core"
-  },
-  "setOrder": 44,
-  "formats": [
-    "standard",
-    "wild"
-  ],
-  "provenance": {
-    "source": "Installed Hearthstone dbf.unity3d",
-    "gameVersion": "6000.3.11.3145967",
-    "dbfSha256": "40d9a232262d33eb670848ce3f87e58f5b4fd084632d9876216478a8b21e9456",
-    "locale": "koKR"
+    "englishName": "Avatar of Hearthstone",
+    "root": true,
+    "relatedIds": [],
+    "art": "art/CORE_WON_145.png"
   }
 }

@@ -1,12 +1,9 @@
 {
-  "schemaVersion": 1,
-  "mode": "constructed",
-  "englishName": "Risen Footman",
-  "card": {
+  "2022-12-07": {
     "id": "RLK_061t",
     "dbfId": 78570,
     "name": "되살아난 보병",
-    "text": "<b>도발</b>\n<i><b>시체</b>를 남기지 않습니다.</i>",
+    "text": "<b>도발</b><br></br><i><b>시체</b>를 남기지 않습니다.</i>",
     "type": "MINION",
     "cardClass": "DEATHKNIGHT",
     "classes": [],
@@ -77,27 +74,9 @@
     ],
     "nativeRawText": "<b>도발</b>\n<i><b>시체</b>를 남기지 않습니다.</i>",
     "nativeTextBuilder": 0,
-    "releasedAt": "2022-12-07",
-    "releaseStatus": "verified"
-  },
-  "root": false,
-  "relatedIds": [],
-  "expansion": {
-    "id": 1637,
-    "slug": "core",
-    "name": "핵심",
-    "type": "",
-    "englishName": "Core"
-  },
-  "setOrder": 44,
-  "formats": [
-    "standard",
-    "wild"
-  ],
-  "provenance": {
-    "source": "Installed Hearthstone dbf.unity3d",
-    "gameVersion": "6000.3.11.3145967",
-    "dbfSha256": "40d9a232262d33eb670848ce3f87e58f5b4fd084632d9876216478a8b21e9456",
-    "locale": "koKR"
+    "englishName": "Risen Footman",
+    "root": false,
+    "relatedIds": [],
+    "art": "art/RLK_061t.png"
   }
 }

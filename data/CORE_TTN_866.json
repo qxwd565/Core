@@ -1,8 +1,5 @@
 {
-  "schemaVersion": 1,
-  "mode": "constructed",
-  "englishName": "Mythical Terror",
-  "card": {
+  "2021-03-31": {
     "id": "CORE_TTN_866",
     "dbfId": 129169,
     "name": "신화의 공포",
@@ -113,27 +110,9 @@
     ],
     "nativeRawText": "<b>생명력 흡수</b>, 내 턴이 끝날 때,& 모든 적 하수인이 이 하수인을 공격하게 만듭니다.",
     "nativeTextBuilder": 0,
-    "releasedAt": "2021-03-31",
-    "releaseStatus": "estimated"
-  },
-  "root": true,
-  "relatedIds": [],
-  "expansion": {
-    "id": 1637,
-    "slug": "core",
-    "name": "핵심",
-    "type": "",
-    "englishName": "Core"
-  },
-  "setOrder": 44,
-  "formats": [
-    "standard",
-    "wild"
-  ],
-  "provenance": {
-    "source": "Installed Hearthstone dbf.unity3d",
-    "gameVersion": "6000.3.11.3145967",
-    "dbfSha256": "40d9a232262d33eb670848ce3f87e58f5b4fd084632d9876216478a8b21e9456",
-    "locale": "koKR"
+    "englishName": "Mythical Terror",
+    "root": true,
+    "relatedIds": [],
+    "art": "art/CORE_TTN_866.png"
   }
 }

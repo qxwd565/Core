@@ -1,8 +1,5 @@
 {
-  "schemaVersion": 1,
-  "mode": "constructed",
-  "englishName": "Shaku, the Collector",
-  "card": {
+  "2021-03-31": {
     "id": "CORE_CFM_781",
     "dbfId": 120463,
     "name": "수집가 샤쿠",
@@ -100,27 +97,9 @@
     ],
     "nativeRawText": "<b>은신</b>, 이 하수인이 공격할 때마다& 다른 직업의 카드를 내 손으로 가져옵니다.",
     "nativeTextBuilder": 0,
-    "releasedAt": "2021-03-31",
-    "releaseStatus": "estimated"
-  },
-  "root": true,
-  "relatedIds": [],
-  "expansion": {
-    "id": 1637,
-    "slug": "core",
-    "name": "핵심",
-    "type": "",
-    "englishName": "Core"
-  },
-  "setOrder": 44,
-  "formats": [
-    "standard",
-    "wild"
-  ],
-  "provenance": {
-    "source": "Installed Hearthstone dbf.unity3d",
-    "gameVersion": "6000.3.11.3145967",
-    "dbfSha256": "40d9a232262d33eb670848ce3f87e58f5b4fd084632d9876216478a8b21e9456",
-    "locale": "koKR"
+    "englishName": "Shaku, the Collector",
+    "root": true,
+    "relatedIds": [],
+    "art": "art/CORE_CFM_781.png"
   }
 }

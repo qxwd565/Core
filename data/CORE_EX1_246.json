@@ -1,12 +1,9 @@
 {
-  "schemaVersion": 1,
-  "mode": "constructed",
-  "englishName": "Hex",
-  "card": {
+  "2021-03-31": {
     "id": "CORE_EX1_246",
     "dbfId": 69551,
     "name": "사술",
-    "text": "하수인을 <b>도발</b> 능력이\n있는 0/1 개구리로\n변신시킵니다.",
+    "text": "하수인을 <b>도발</b> 능력이<br></br>있는 0/1 개구리로<br></br>변신시킵니다.",
     "type": "SPELL",
     "cardClass": "SHAMAN",
     "classes": [],
@@ -95,38 +92,11 @@
     ],
     "nativeRawText": "[x]하수인을 <b>도발</b> 능력이\n있는 0/1 개구리로\n변신시킵니다.",
     "nativeTextBuilder": 0,
-    "history": [
-      {
-        "from": "2017-09-19",
-        "before": "2023-04-05",
-        "changes": {
-          "cost": 4
-        }
-      }
+    "englishName": "Hex",
+    "root": true,
+    "relatedIds": [
+      548
     ],
-    "releasedAt": "2021-03-31",
-    "releaseStatus": "estimated"
-  },
-  "root": true,
-  "relatedIds": [
-    548
-  ],
-  "expansion": {
-    "id": 1637,
-    "slug": "core",
-    "name": "핵심",
-    "type": "",
-    "englishName": "Core"
-  },
-  "setOrder": 44,
-  "formats": [
-    "standard",
-    "wild"
-  ],
-  "provenance": {
-    "source": "Installed Hearthstone dbf.unity3d",
-    "gameVersion": "6000.3.11.3145967",
-    "dbfSha256": "40d9a232262d33eb670848ce3f87e58f5b4fd084632d9876216478a8b21e9456",
-    "locale": "koKR"
+    "art": "art/CORE_EX1_246.png"
   }
 }

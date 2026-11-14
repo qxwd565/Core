@@ -1,12 +1,9 @@
 {
-  "schemaVersion": 1,
-  "mode": "constructed",
-  "englishName": "Bloodhoof Brave",
-  "card": {
+  "2021-03-31": {
     "id": "CORE_OG_218",
     "dbfId": 76303,
     "name": "블러드후프 용사",
-    "text": "<b>도발</b>\n피해를 받은 상태면 공격력을 +3 얻습니다.",
+    "text": "<b>도발</b><br></br>피해를 받은 상태면 공격력을 +3 얻습니다.",
     "type": "MINION",
     "cardClass": "WARRIOR",
     "classes": [],
@@ -80,27 +77,9 @@
     ],
     "nativeRawText": "<b>도발</b>\n피해를 받은 상태면 공격력을 +3 얻습니다.",
     "nativeTextBuilder": 0,
-    "releasedAt": "2021-03-31",
-    "releaseStatus": "estimated"
-  },
-  "root": true,
-  "relatedIds": [],
-  "expansion": {
-    "id": 1637,
-    "slug": "core",
-    "name": "핵심",
-    "type": "",
-    "englishName": "Core"
-  },
-  "setOrder": 44,
-  "formats": [
-    "standard",
-    "wild"
-  ],
-  "provenance": {
-    "source": "Installed Hearthstone dbf.unity3d",
-    "gameVersion": "6000.3.11.3145967",
-    "dbfSha256": "40d9a232262d33eb670848ce3f87e58f5b4fd084632d9876216478a8b21e9456",
-    "locale": "koKR"
+    "englishName": "Bloodhoof Brave",
+    "root": true,
+    "relatedIds": [],
+    "art": "art/CORE_OG_218.png"
   }
 }

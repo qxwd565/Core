@@ -1,8 +1,5 @@
 {
-  "schemaVersion": 1,
-  "mode": "constructed",
-  "englishName": "Krag'wa, the Frog",
-  "card": {
+  "2021-03-31": {
     "id": "CORE_TRL_345",
     "dbfId": 87920,
     "name": "개구리 크라그와",
@@ -87,27 +84,9 @@
     ],
     "nativeRawText": "<b>전투의 함성:</b> 내가 이전 턴에 낸 모든 주문을 내 손으로 가져옵니다.",
     "nativeTextBuilder": 7,
-    "releasedAt": "2021-03-31",
-    "releaseStatus": "estimated"
-  },
-  "root": true,
-  "relatedIds": [],
-  "expansion": {
-    "id": 1637,
-    "slug": "core",
-    "name": "핵심",
-    "type": "",
-    "englishName": "Core"
-  },
-  "setOrder": 44,
-  "formats": [
-    "standard",
-    "wild"
-  ],
-  "provenance": {
-    "source": "Installed Hearthstone dbf.unity3d",
-    "gameVersion": "6000.3.11.3145967",
-    "dbfSha256": "40d9a232262d33eb670848ce3f87e58f5b4fd084632d9876216478a8b21e9456",
-    "locale": "koKR"
+    "englishName": "Krag'wa, the Frog",
+    "root": true,
+    "relatedIds": [],
+    "art": "art/CORE_TRL_345.png"
   }
 }

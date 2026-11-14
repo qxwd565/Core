@@ -1,12 +1,9 @@
 {
-  "schemaVersion": 1,
-  "mode": "constructed",
-  "englishName": "Best in Shell",
-  "card": {
+  "2021-03-31": {
     "id": "CORE_SW_429",
     "dbfId": 108357,
     "name": "최고의 등껍질",
-    "text": "<b>교환성</b>\n<b>도발</b> 능력이 있는 2/7 거북을 둘 소환합니다.",
+    "text": "<b>교환성</b><br></br><b>도발</b> 능력이 있는 2/7 거북을 둘 소환합니다.",
     "type": "SPELL",
     "cardClass": "DRUID",
     "classes": [],
@@ -80,29 +77,11 @@
     ],
     "nativeRawText": "<b>교환성</b>\n<b>도발</b> 능력이 있는 2/7 거북을 둘 소환합니다.",
     "nativeTextBuilder": 0,
-    "releasedAt": "2021-03-31",
-    "releaseStatus": "estimated"
-  },
-  "root": true,
-  "relatedIds": [
-    70124
-  ],
-  "expansion": {
-    "id": 1637,
-    "slug": "core",
-    "name": "핵심",
-    "type": "",
-    "englishName": "Core"
-  },
-  "setOrder": 44,
-  "formats": [
-    "standard",
-    "wild"
-  ],
-  "provenance": {
-    "source": "Installed Hearthstone dbf.unity3d",
-    "gameVersion": "6000.3.11.3145967",
-    "dbfSha256": "40d9a232262d33eb670848ce3f87e58f5b4fd084632d9876216478a8b21e9456",
-    "locale": "koKR"
+    "englishName": "Best in Shell",
+    "root": true,
+    "relatedIds": [
+      70124
+    ],
+    "art": "art/CORE_SW_429.png"
   }
 }

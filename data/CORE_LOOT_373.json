@@ -1,8 +1,5 @@
 {
-  "schemaVersion": 1,
-  "mode": "constructed",
-  "englishName": "Healing Rain",
-  "card": {
+  "2021-03-31": {
     "id": "CORE_LOOT_373",
     "dbfId": 127471,
     "name": "치유의 비",
@@ -75,27 +72,9 @@
     ],
     "nativeRawText": "모든 아군 캐릭터에게 #12의 생명력을 무작위로 나누어 회복시킵니다.",
     "nativeTextBuilder": 0,
-    "releasedAt": "2021-03-31",
-    "releaseStatus": "estimated"
-  },
-  "root": true,
-  "relatedIds": [],
-  "expansion": {
-    "id": 1637,
-    "slug": "core",
-    "name": "핵심",
-    "type": "",
-    "englishName": "Core"
-  },
-  "setOrder": 44,
-  "formats": [
-    "standard",
-    "wild"
-  ],
-  "provenance": {
-    "source": "Installed Hearthstone dbf.unity3d",
-    "gameVersion": "6000.3.11.3145967",
-    "dbfSha256": "40d9a232262d33eb670848ce3f87e58f5b4fd084632d9876216478a8b21e9456",
-    "locale": "koKR"
+    "englishName": "Healing Rain",
+    "root": true,
+    "relatedIds": [],
+    "art": "art/CORE_LOOT_373.png"
   }
 }
