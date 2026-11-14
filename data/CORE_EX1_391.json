@@ -7,74 +7,8 @@
     "type": "SPELL",
     "cardClass": "WARRIOR",
     "classes": [],
-    "nativeSetId": 1637,
-    "set": "CORE",
     "rarity": "COMMON",
-    "race": "",
-    "races": [],
-    "spellSchool": "",
     "cost": 1,
-    "attack": 0,
-    "health": 0,
-    "armor": 0,
-    "durability": 0,
-    "collectible": true,
-    "chooseOne": false,
-    "installed": true,
-    "portrait": "W6_002_D.psd:7892938171feeec4796e6fe08a46ae92",
-    "flavor": "난 딱 죽지 않을 만큼만 패지.",
-    "nativeTags": [
-      {
-        "id": 48,
-        "name": "마나 비용",
-        "value": 1
-      },
-      {
-        "id": 114,
-        "name": "전설 속성",
-        "value": 0
-      },
-      {
-        "id": 199,
-        "name": "직업",
-        "value": 10
-      },
-      {
-        "id": 201,
-        "name": "진영",
-        "value": 3
-      },
-      {
-        "id": 202,
-        "name": "카드 유형",
-        "value": 5
-      },
-      {
-        "id": 203,
-        "name": "희귀도",
-        "value": 1
-      },
-      {
-        "id": 251,
-        "name": "게임 태그 251",
-        "value": 1
-      },
-      {
-        "id": 321,
-        "name": "수집 가능",
-        "value": 1
-      },
-      {
-        "id": 858,
-        "name": "게임 태그 858",
-        "value": 1074
-      }
-    ],
-    "nativeRawText": "하수인에게 피해를 $2 줍니다.\n그 하수인이 생존하면, 카드를 뽑습니다.",
-    "nativeTextBuilder": 0,
-    "englishName": "Slam",
-    "root": true,
-    "relatedIds": [],
-    "art": "art/CORE_EX1_391.png"
+    "collectible": true
   }
 }

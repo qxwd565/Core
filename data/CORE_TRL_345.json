@@ -7,86 +7,14 @@
     "type": "MINION",
     "cardClass": "SHAMAN",
     "classes": [],
-    "nativeSetId": 1637,
-    "set": "CORE",
     "rarity": "LEGENDARY",
     "race": "야수",
     "races": [
       "BEAST"
     ],
-    "spellSchool": "",
     "cost": 6,
     "attack": 4,
     "health": 6,
-    "armor": 0,
-    "durability": 0,
-    "collectible": true,
-    "chooseOne": false,
-    "installed": true,
-    "portrait": "HS15-046_M.psd:6a052de93caad6b41a75fc6002eeef07",
-    "flavor": "크라그와에게는 친구에게 경의를 표하는 의식과 적을 집어삼키는 의식이 있습니다. 둘이 어떻게 다른지는 아무도 모릅니다.",
-    "nativeTags": [
-      {
-        "id": 45,
-        "name": "생명력",
-        "value": 6
-      },
-      {
-        "id": 47,
-        "name": "공격력",
-        "value": 4
-      },
-      {
-        "id": 48,
-        "name": "마나 비용",
-        "value": 6
-      },
-      {
-        "id": 114,
-        "name": "전설 속성",
-        "value": 1
-      },
-      {
-        "id": 199,
-        "name": "직업",
-        "value": 8
-      },
-      {
-        "id": 200,
-        "name": "종족",
-        "value": 20
-      },
-      {
-        "id": 202,
-        "name": "카드 유형",
-        "value": 4
-      },
-      {
-        "id": 203,
-        "name": "희귀도",
-        "value": 5
-      },
-      {
-        "id": 218,
-        "name": "전투의 함성",
-        "value": 1
-      },
-      {
-        "id": 321,
-        "name": "수집 가능",
-        "value": 1
-      },
-      {
-        "id": 858,
-        "name": "게임 태그 858",
-        "value": 50369
-      }
-    ],
-    "nativeRawText": "<b>전투의 함성:</b> 내가 이전 턴에 낸 모든 주문을 내 손으로 가져옵니다.",
-    "nativeTextBuilder": 7,
-    "englishName": "Krag'wa, the Frog",
-    "root": true,
-    "relatedIds": [],
-    "art": "art/CORE_TRL_345.png"
+    "collectible": true
   }
 }

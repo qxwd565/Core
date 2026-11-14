@@ -7,89 +7,9 @@
     "type": "SPELL",
     "cardClass": "HUNTER",
     "classes": [],
-    "nativeSetId": 1637,
-    "set": "CORE",
     "rarity": "COMMON",
-    "race": "",
-    "races": [],
     "spellSchool": "FIRE",
     "cost": 2,
-    "attack": 0,
-    "health": 0,
-    "armor": 0,
-    "durability": 0,
-    "collectible": true,
-    "chooseOne": false,
-    "installed": true,
-    "portrait": "W5_185_D.psd:5d018158f31cb90428987ec819c4fd66",
-    "flavor": "먹잇감을 잡아둘 뿐만 아니라 맛있게 구워줍니다!",
-    "nativeTags": [
-      {
-        "id": 48,
-        "name": "마나 비용",
-        "value": 2
-      },
-      {
-        "id": 114,
-        "name": "전설 속성",
-        "value": 0
-      },
-      {
-        "id": 199,
-        "name": "직업",
-        "value": 3
-      },
-      {
-        "id": 201,
-        "name": "진영",
-        "value": 3
-      },
-      {
-        "id": 202,
-        "name": "카드 유형",
-        "value": 5
-      },
-      {
-        "id": 203,
-        "name": "희귀도",
-        "value": 1
-      },
-      {
-        "id": 219,
-        "name": "비밀",
-        "value": 1
-      },
-      {
-        "id": 321,
-        "name": "수집 가능",
-        "value": 1
-      },
-      {
-        "id": 330,
-        "name": "효과 생성 시각 효과",
-        "value": 0
-      },
-      {
-        "id": 331,
-        "name": "효과 지속 시각 효과",
-        "value": 0
-      },
-      {
-        "id": 858,
-        "name": "게임 태그 858",
-        "value": 585
-      },
-      {
-        "id": 1635,
-        "name": "주문 속성",
-        "value": 2
-      }
-    ],
-    "nativeRawText": "[x]<b>비밀:</b> 내 영웅이\n공격받으면, 모든 적에게\n피해를 $2 줍니다.",
-    "nativeTextBuilder": 0,
-    "englishName": "Explosive Trap",
-    "root": true,
-    "relatedIds": [],
-    "art": "art/CORE_EX1_610.png"
+    "collectible": true
   }
 }

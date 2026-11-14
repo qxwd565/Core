@@ -1,0 +1,75 @@
+{
+  "schema": "hscard-date-metadata-1",
+  "id": "CORE_BT_921",
+  "timezone": "Asia/Seoul",
+  "release": {
+    "date": "2021-03-31",
+    "status": "unverified"
+  },
+  "baselineStatus": "partially-verified",
+  "normalization": {
+    "datedExcludedFields": {
+      "2021-03-31": {
+        "nativeSetId": 1637,
+        "set": "CORE",
+        "chooseOne": false,
+        "installed": true,
+        "portrait": "HS19-009.tif:4ac1e28c704e4b9d9662ddcbcb187f13",
+        "flavor": "알드라치는 불타는 군단에 맞서 일어선 강대한 전사들이었습니다. 칼자루의 위치만 바꿔서 달았더라면 더 강했을 테지만요.",
+        "nativeTags": [
+          {
+            "id": 45,
+            "name": "생명력",
+            "value": 2
+          },
+          {
+            "id": 47,
+            "name": "공격력",
+            "value": 2
+          },
+          {
+            "id": 48,
+            "name": "마나 비용",
+            "value": 3
+          },
+          {
+            "id": 199,
+            "name": "직업",
+            "value": 14
+          },
+          {
+            "id": 202,
+            "name": "카드 유형",
+            "value": 7
+          },
+          {
+            "id": 203,
+            "name": "희귀도",
+            "value": 1
+          },
+          {
+            "id": 321,
+            "name": "수집 가능",
+            "value": 1
+          },
+          {
+            "id": 685,
+            "name": "생명력 흡수",
+            "value": 1
+          },
+          {
+            "id": 858,
+            "name": "게임 태그 858",
+            "value": 56583
+          }
+        ],
+        "nativeRawText": "<b>생명력 흡수</b>",
+        "nativeTextBuilder": 0,
+        "englishName": "Aldrachi Warblades",
+        "root": true,
+        "relatedIds": [],
+        "art": "art/CORE_BT_921.png"
+      }
+    }
+  }
+}

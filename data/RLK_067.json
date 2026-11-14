@@ -7,74 +7,10 @@
     "type": "WEAPON",
     "cardClass": "DEATHKNIGHT",
     "classes": [],
-    "nativeSetId": 1637,
-    "set": "CORE",
     "rarity": "COMMON",
-    "race": "",
-    "races": [],
-    "spellSchool": "",
     "cost": 6,
     "attack": 5,
-    "health": 0,
-    "armor": 0,
     "durability": 2,
-    "collectible": true,
-    "chooseOne": false,
-    "installed": true,
-    "portrait": "CLA-074_W.tif:fcdc2186a61244deab65c347f8782ceb",
-    "flavor": "역병에 신념을 바치게!",
-    "nativeTags": [
-      {
-        "id": 45,
-        "name": "생명력",
-        "value": 2
-      },
-      {
-        "id": 47,
-        "name": "공격력",
-        "value": 5
-      },
-      {
-        "id": 48,
-        "name": "마나 비용",
-        "value": 6
-      },
-      {
-        "id": 199,
-        "name": "직업",
-        "value": 1
-      },
-      {
-        "id": 202,
-        "name": "카드 유형",
-        "value": 7
-      },
-      {
-        "id": 203,
-        "name": "희귀도",
-        "value": 1
-      },
-      {
-        "id": 321,
-        "name": "수집 가능",
-        "value": 1
-      },
-      {
-        "id": 685,
-        "name": "생명력 흡수",
-        "value": 1
-      },
-      {
-        "id": 2196,
-        "name": "혈기 룬",
-        "value": 2
-      }
-    ],
-    "nativeRawText": "<b>생명력 흡수</b>",
-    "nativeTextBuilder": 0,
-    "englishName": "Corrupted Ashbringer",
-    "root": true,
-    "relatedIds": [],
-    "art": "art/RLK_067.png"
+    "collectible": true
   }
 }

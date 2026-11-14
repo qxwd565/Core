@@ -1,0 +1,95 @@
+{
+  "schema": "hscard-date-metadata-1",
+  "id": "CORE_BT_493",
+  "timezone": "Asia/Seoul",
+  "release": {
+    "date": "2021-03-31",
+    "status": "unverified"
+  },
+  "baselineStatus": "partially-verified",
+  "normalization": {
+    "datedExcludedFields": {
+      "2021-03-31": {
+        "nativeSetId": 1637,
+        "set": "CORE",
+        "chooseOne": false,
+        "installed": true,
+        "portrait": "HS19-031.tif:eab88a27a8bb47f3954f682457222c05",
+        "flavor": "눈먼 감시자가 여덟 개의 쌍날검을 가지고 있는 걸 본 뒤, 자신의 쌍날검이 여섯 개뿐이라는 사실에 분노하고 있습니다. 남의 칼이 더 커 보이는 법이라더니.",
+        "nativeTags": [
+          {
+            "id": 32,
+            "name": "발동 효과 표시",
+            "value": 1
+          },
+          {
+            "id": 45,
+            "name": "생명력",
+            "value": 7
+          },
+          {
+            "id": 47,
+            "name": "공격력",
+            "value": 6
+          },
+          {
+            "id": 48,
+            "name": "마나 비용",
+            "value": 7
+          },
+          {
+            "id": 199,
+            "name": "직업",
+            "value": 14
+          },
+          {
+            "id": 200,
+            "name": "종족",
+            "value": 15
+          },
+          {
+            "id": 202,
+            "name": "카드 유형",
+            "value": 4
+          },
+          {
+            "id": 203,
+            "name": "희귀도",
+            "value": 3
+          },
+          {
+            "id": 321,
+            "name": "수집 가능",
+            "value": 1
+          },
+          {
+            "id": 858,
+            "name": "게임 태그 858",
+            "value": 58455
+          },
+          {
+            "id": 1413,
+            "name": "게임 태그 1413",
+            "value": 58455
+          },
+          {
+            "id": 4533,
+            "name": "제작 결과 능력",
+            "value": 1
+          },
+          {
+            "id": 4577,
+            "name": "게임 태그 4577",
+            "value": 1
+          }
+        ],
+        "nativeRawText": "내 턴이 끝날 때,& 모든 적에게 6의 피해를 무작위로 나누어 입힙니다.",
+        "nativeTextBuilder": 0,
+        "englishName": "Priestess of Fury",
+        "root": true,
+        "relatedIds": [],
+        "art": "art/CORE_BT_493.png"
+      }
+    }
+  }
+}

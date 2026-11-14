@@ -1,0 +1,77 @@
+{
+  "schema": "hscard-date-metadata-1",
+  "id": "CORE_SW_108",
+  "timezone": "Asia/Seoul",
+  "release": {
+    "date": "2021-03-31",
+    "status": "unverified"
+  },
+  "baselineStatus": "partially-verified",
+  "normalization": {
+    "datedExcludedFields": {
+      "2021-03-31": {
+        "nativeSetId": 1637,
+        "set": "CORE",
+        "chooseOne": false,
+        "installed": true,
+        "portrait": "HS23-033_S.tif:c2b9c055338448de8dc62ec1bd8eea5f",
+        "flavor": "처음은 그 무엇이든 잊을 수 없죠.",
+        "nativeTags": [
+          {
+            "id": 48,
+            "name": "마나 비용",
+            "value": 1
+          },
+          {
+            "id": 199,
+            "name": "직업",
+            "value": 4
+          },
+          {
+            "id": 202,
+            "name": "카드 유형",
+            "value": 5
+          },
+          {
+            "id": 203,
+            "name": "희귀도",
+            "value": 3
+          },
+          {
+            "id": 321,
+            "name": "수집 가능",
+            "value": 1
+          },
+          {
+            "id": 858,
+            "name": "게임 태그 858",
+            "value": 64430
+          },
+          {
+            "id": 1413,
+            "name": "게임 태그 1413",
+            "value": 64430
+          },
+          {
+            "id": 1452,
+            "name": "수집품 관련 카드 데이터베이스 ID",
+            "value": 64432
+          },
+          {
+            "id": 1635,
+            "name": "주문 속성",
+            "value": 2
+          }
+        ],
+        "nativeRawText": "하수인에게 피해를 $2 줍니다.\n두 번째 불꽃을 내 손으로 가져옵니다.",
+        "nativeTextBuilder": 0,
+        "englishName": "First Flame",
+        "root": true,
+        "relatedIds": [
+          64432
+        ],
+        "art": "art/CORE_SW_108.png"
+      }
+    }
+  }
+}

@@ -7,89 +7,9 @@
     "type": "SPELL",
     "cardClass": "MAGE",
     "classes": [],
-    "nativeSetId": 1637,
-    "set": "CORE",
     "rarity": "COMMON",
-    "race": "",
-    "races": [],
     "spellSchool": "ARCANE",
     "cost": 3,
-    "attack": 0,
-    "health": 0,
-    "armor": 0,
-    "durability": 0,
-    "collectible": true,
-    "chooseOne": false,
-    "installed": true,
-    "portrait": "WOW_ACT_078_D.psd:8b0349c727c6cfc45a67a023911199be",
-    "flavor": "이 카드를 내면 똑똑해집니다. 솔직히 말해서, 좀 똑똑해졌다고 우겨도 괜찮습니다.",
-    "nativeTags": [
-      {
-        "id": 48,
-        "name": "마나 비용",
-        "value": 3
-      },
-      {
-        "id": 199,
-        "name": "직업",
-        "value": 4
-      },
-      {
-        "id": 201,
-        "name": "진영",
-        "value": 3
-      },
-      {
-        "id": 202,
-        "name": "카드 유형",
-        "value": 5
-      },
-      {
-        "id": 203,
-        "name": "희귀도",
-        "value": 1
-      },
-      {
-        "id": 251,
-        "name": "게임 태그 251",
-        "value": 1
-      },
-      {
-        "id": 268,
-        "name": "게임 태그 268",
-        "value": 2
-      },
-      {
-        "id": 321,
-        "name": "수집 가능",
-        "value": 1
-      },
-      {
-        "id": 330,
-        "name": "효과 생성 시각 효과",
-        "value": 0
-      },
-      {
-        "id": 331,
-        "name": "효과 지속 시각 효과",
-        "value": 0
-      },
-      {
-        "id": 858,
-        "name": "게임 태그 858",
-        "value": 555
-      },
-      {
-        "id": 1635,
-        "name": "주문 속성",
-        "value": 1
-      }
-    ],
-    "nativeRawText": "카드를 2장 뽑습니다.",
-    "nativeTextBuilder": 0,
-    "englishName": "Arcane Intellect",
-    "root": true,
-    "relatedIds": [],
-    "art": "art/CORE_CS2_023.png"
+    "collectible": true
   }
 }

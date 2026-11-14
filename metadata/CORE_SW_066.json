@@ -1,0 +1,95 @@
+{
+  "schema": "hscard-date-metadata-1",
+  "id": "CORE_SW_066",
+  "timezone": "Asia/Seoul",
+  "release": {
+    "date": "2021-03-31",
+    "status": "unverified"
+  },
+  "baselineStatus": "partially-verified",
+  "normalization": {
+    "datedExcludedFields": {
+      "2021-03-31": {
+        "nativeSetId": 1637,
+        "set": "CORE",
+        "chooseOne": false,
+        "installed": true,
+        "portrait": "HS23-076_M.tif:602182001a0948638b2d5f46e262a5b7",
+        "flavor": "경매장 사재기 도서는 저쪽 구역에 있을 거예요.",
+        "nativeTags": [
+          {
+            "id": 45,
+            "name": "생명력",
+            "value": 4
+          },
+          {
+            "id": 47,
+            "name": "공격력",
+            "value": 4
+          },
+          {
+            "id": 48,
+            "name": "마나 비용",
+            "value": 4
+          },
+          {
+            "id": 199,
+            "name": "직업",
+            "value": 12
+          },
+          {
+            "id": 202,
+            "name": "카드 유형",
+            "value": 4
+          },
+          {
+            "id": 203,
+            "name": "희귀도",
+            "value": 1
+          },
+          {
+            "id": 218,
+            "name": "전투의 함성",
+            "value": 1
+          },
+          {
+            "id": 321,
+            "name": "수집 가능",
+            "value": 1
+          },
+          {
+            "id": 339,
+            "name": "침묵",
+            "value": 1
+          },
+          {
+            "id": 858,
+            "name": "게임 태그 858",
+            "value": 64714
+          },
+          {
+            "id": 1720,
+            "name": "교환성",
+            "value": 1
+          },
+          {
+            "id": 1743,
+            "name": "덱 행동 비용",
+            "value": 1
+          },
+          {
+            "id": 2589,
+            "name": "간판 카드 존재",
+            "value": 1
+          }
+        ],
+        "nativeRawText": "<b>교환성</b>, <b>전투의 함성:</b> 하수인을 <b>침묵</b>시킵니다.",
+        "nativeTextBuilder": 0,
+        "englishName": "Royal Librarian",
+        "root": true,
+        "relatedIds": [],
+        "art": "art/CORE_SW_066.png"
+      }
+    }
+  }
+}

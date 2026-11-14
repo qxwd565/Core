@@ -7,64 +7,9 @@
     "type": "SPELL",
     "cardClass": "PALADIN",
     "classes": [],
-    "nativeSetId": 1637,
-    "set": "CORE",
     "rarity": "COMMON",
-    "race": "",
-    "races": [],
     "spellSchool": "HOLY",
     "cost": 3,
-    "attack": 0,
-    "health": 0,
-    "armor": 0,
-    "durability": 0,
-    "collectible": true,
-    "chooseOne": false,
-    "installed": true,
-    "portrait": "HS8-091_S.psd:b9b31547a932c4a47b3dc3136df53385",
-    "flavor": "밀하우스 마나스톰이 왜 실버문에 있을까요?",
-    "nativeTags": [
-      {
-        "id": 48,
-        "name": "마나 비용",
-        "value": 3
-      },
-      {
-        "id": 199,
-        "name": "직업",
-        "value": 5
-      },
-      {
-        "id": 202,
-        "name": "카드 유형",
-        "value": 5
-      },
-      {
-        "id": 203,
-        "name": "희귀도",
-        "value": 1
-      },
-      {
-        "id": 321,
-        "name": "수집 가능",
-        "value": 1
-      },
-      {
-        "id": 858,
-        "name": "게임 태그 858",
-        "value": 39716
-      },
-      {
-        "id": 1635,
-        "name": "주문 속성",
-        "value": 5
-      }
-    ],
-    "nativeRawText": "하수인에게 +2/+2를 부여합니다. 비용이 2인 무작위 하수인을 소환합니다.",
-    "nativeTextBuilder": 0,
-    "englishName": "Silvermoon Portal",
-    "root": true,
-    "relatedIds": [],
-    "art": "art/CORE_KAR_077.png"
+    "collectible": true
   }
 }

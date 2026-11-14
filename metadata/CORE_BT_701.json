@@ -1,0 +1,80 @@
+{
+  "schema": "hscard-date-metadata-1",
+  "id": "CORE_BT_701",
+  "timezone": "Asia/Seoul",
+  "release": {
+    "date": "2021-03-31",
+    "status": "unverified"
+  },
+  "baselineStatus": "partially-verified",
+  "normalization": {
+    "datedExcludedFields": {
+      "2021-03-31": {
+        "nativeSetId": 1637,
+        "set": "CORE",
+        "chooseOne": false,
+        "installed": true,
+        "portrait": "HS19-090.tif:3cfd40b7ee4941d88903ebc858b2c70a",
+        "flavor": "아웃랜드의 첩보원이라면 주변 환경에 자연스레 녹아들 줄 알아야 합니다. 분홍색 장비와 녹색 머리로 의심을 피해 가세요!",
+        "nativeTags": [
+          {
+            "id": 45,
+            "name": "생명력",
+            "value": 1
+          },
+          {
+            "id": 47,
+            "name": "공격력",
+            "value": 3
+          },
+          {
+            "id": 48,
+            "name": "마나 비용",
+            "value": 1
+          },
+          {
+            "id": 191,
+            "name": "은신",
+            "value": 1
+          },
+          {
+            "id": 199,
+            "name": "직업",
+            "value": 7
+          },
+          {
+            "id": 202,
+            "name": "카드 유형",
+            "value": 4
+          },
+          {
+            "id": 203,
+            "name": "희귀도",
+            "value": 1
+          },
+          {
+            "id": 321,
+            "name": "수집 가능",
+            "value": 1
+          },
+          {
+            "id": 858,
+            "name": "게임 태그 858",
+            "value": 56377
+          },
+          {
+            "id": 1413,
+            "name": "게임 태그 1413",
+            "value": 56377
+          }
+        ],
+        "nativeRawText": "<b>은신</b>",
+        "nativeTextBuilder": 0,
+        "englishName": "Spymistress",
+        "root": true,
+        "relatedIds": [],
+        "art": "art/CORE_BT_701.png"
+      }
+    }
+  }
+}

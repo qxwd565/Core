@@ -1,0 +1,88 @@
+{
+  "schema": "hscard-date-metadata-1",
+  "id": "CORE_SW_439",
+  "timezone": "Asia/Seoul",
+  "release": {
+    "date": "2021-03-31",
+    "status": "unverified"
+  },
+  "baselineStatus": "partially-verified",
+  "normalization": {
+    "datedExcludedFields": {
+      "2021-03-31": {
+        "nativeSetId": 1637,
+        "set": "CORE",
+        "chooseOne": false,
+        "installed": true,
+        "portrait": "HS23-018_M.tif:51c3cc2be8dd4185bbcc4190b610a662",
+        "flavor": "정말 귀엽지 않나요? 야생의 포효를 내지를 때까지 기다려 보세요.",
+        "nativeTags": [
+          {
+            "id": 45,
+            "name": "생명력",
+            "value": 1
+          },
+          {
+            "id": 47,
+            "name": "공격력",
+            "value": 2
+          },
+          {
+            "id": 48,
+            "name": "마나 비용",
+            "value": 1
+          },
+          {
+            "id": 199,
+            "name": "직업",
+            "value": 2
+          },
+          {
+            "id": 200,
+            "name": "종족",
+            "value": 20
+          },
+          {
+            "id": 202,
+            "name": "카드 유형",
+            "value": 4
+          },
+          {
+            "id": 203,
+            "name": "희귀도",
+            "value": 3
+          },
+          {
+            "id": 217,
+            "name": "죽음의 메아리",
+            "value": 1
+          },
+          {
+            "id": 321,
+            "name": "수집 가능",
+            "value": 1
+          },
+          {
+            "id": 858,
+            "name": "게임 태그 858",
+            "value": 64388
+          },
+          {
+            "id": 1413,
+            "name": "게임 태그 1413",
+            "value": 64388
+          }
+        ],
+        "nativeRawText": "[x]<b>죽음의 메아리:</b> 내 덱에\n도토리를 넷 섞어 넣습니다.\n도토리를 뽑으면, 2/1\n다람쥐를 소환합니다.",
+        "nativeTextBuilder": 0,
+        "englishName": "Vibrant Squirrel",
+        "root": true,
+        "relatedIds": [
+          64851,
+          68116
+        ],
+        "art": "art/CORE_SW_439.png"
+      }
+    }
+  }
+}

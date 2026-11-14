@@ -1,0 +1,95 @@
+{
+  "schema": "hscard-date-metadata-1",
+  "id": "CORE_KAR_069",
+  "timezone": "Asia/Seoul",
+  "release": {
+    "date": "2021-03-31",
+    "status": "unverified"
+  },
+  "baselineStatus": "partially-verified",
+  "normalization": {
+    "datedExcludedFields": {
+      "2021-03-31": {
+        "nativeSetId": 1637,
+        "set": "CORE",
+        "chooseOne": false,
+        "installed": true,
+        "portrait": "HS8-097_M.psd:7ec00ea8f4652874b89c1858bbc4e033",
+        "flavor": "목숨을 버리면 네 직업의 카드는 살려주마.",
+        "nativeTags": [
+          {
+            "id": 45,
+            "name": "생명력",
+            "value": 2
+          },
+          {
+            "id": 47,
+            "name": "공격력",
+            "value": 1
+          },
+          {
+            "id": 48,
+            "name": "마나 비용",
+            "value": 1
+          },
+          {
+            "id": 199,
+            "name": "직업",
+            "value": 7
+          },
+          {
+            "id": 200,
+            "name": "종족",
+            "value": 23
+          },
+          {
+            "id": 201,
+            "name": "진영",
+            "value": 3
+          },
+          {
+            "id": 202,
+            "name": "카드 유형",
+            "value": 4
+          },
+          {
+            "id": 203,
+            "name": "희귀도",
+            "value": 1
+          },
+          {
+            "id": 218,
+            "name": "전투의 함성",
+            "value": 1
+          },
+          {
+            "id": 251,
+            "name": "게임 태그 251",
+            "value": 1
+          },
+          {
+            "id": 321,
+            "name": "수집 가능",
+            "value": 1
+          },
+          {
+            "id": 858,
+            "name": "게임 태그 858",
+            "value": 39698
+          },
+          {
+            "id": 4533,
+            "name": "제작 결과 능력",
+            "value": 1
+          }
+        ],
+        "nativeRawText": "[x]<b>전투의 함성</b>:& 다른 직업의\n무작위 카드를\n내 손으로 가져옵니다.",
+        "nativeTextBuilder": 0,
+        "englishName": "Swashburglar",
+        "root": true,
+        "relatedIds": [],
+        "art": "art/CORE_KAR_069.png"
+      }
+    }
+  }
+}

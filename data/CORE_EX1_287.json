@@ -7,94 +7,9 @@
     "type": "SPELL",
     "cardClass": "MAGE",
     "classes": [],
-    "nativeSetId": 1637,
-    "set": "CORE",
     "rarity": "RARE",
-    "race": "",
-    "races": [],
     "spellSchool": "ARCANE",
     "cost": 3,
-    "attack": 0,
-    "health": 0,
-    "armor": 0,
-    "durability": 0,
-    "collectible": true,
-    "chooseOne": false,
-    "installed": true,
-    "portrait": "W4_118_D.psd:b92bfc931bc76de48b8a401670f933f0",
-    "flavor": "마법 차단을 쓰는 마법사와 안 쓰는 마법사의 차이요? 안 쓰는 마법사는 얼굴에 불덩이 작렬을 맞는다는 거?",
-    "nativeTags": [
-      {
-        "id": 48,
-        "name": "마나 비용",
-        "value": 3
-      },
-      {
-        "id": 199,
-        "name": "직업",
-        "value": 4
-      },
-      {
-        "id": 201,
-        "name": "진영",
-        "value": 3
-      },
-      {
-        "id": 202,
-        "name": "카드 유형",
-        "value": 5
-      },
-      {
-        "id": 203,
-        "name": "희귀도",
-        "value": 3
-      },
-      {
-        "id": 219,
-        "name": "비밀",
-        "value": 1
-      },
-      {
-        "id": 251,
-        "name": "게임 태그 251",
-        "value": 1
-      },
-      {
-        "id": 321,
-        "name": "수집 가능",
-        "value": 1
-      },
-      {
-        "id": 330,
-        "name": "효과 생성 시각 효과",
-        "value": 0
-      },
-      {
-        "id": 331,
-        "name": "효과 지속 시각 효과",
-        "value": 0
-      },
-      {
-        "id": 340,
-        "name": "차단",
-        "value": 1
-      },
-      {
-        "id": 858,
-        "name": "게임 태그 858",
-        "value": 113
-      },
-      {
-        "id": 1635,
-        "name": "주문 속성",
-        "value": 1
-      }
-    ],
-    "nativeRawText": "<b>비밀:</b> 상대편이 주문을 시전하면, <b>차단</b>합니다.",
-    "nativeTextBuilder": 0,
-    "englishName": "Counterspell",
-    "root": true,
-    "relatedIds": [],
-    "art": "art/CORE_EX1_287.png"
+    "collectible": true
   }
 }

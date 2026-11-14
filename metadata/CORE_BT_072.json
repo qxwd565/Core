@@ -1,0 +1,82 @@
+{
+  "schema": "hscard-date-metadata-1",
+  "id": "CORE_BT_072",
+  "timezone": "Asia/Seoul",
+  "release": {
+    "date": "2021-03-31",
+    "status": "unverified"
+  },
+  "baselineStatus": "partially-verified",
+  "normalization": {
+    "datedExcludedFields": {
+      "2021-03-31": {
+        "nativeSetId": 1637,
+        "set": "CORE",
+        "chooseOne": false,
+        "installed": true,
+        "portrait": "HS19-225.tif:c0aa1e7688b447baa26ef660cf275672",
+        "flavor": "\"사티로스와 함께 춤을\"에 야심차게 출연했지만, 현장 분위기는 차가웠다고 하네요.",
+        "nativeTags": [
+          {
+            "id": 48,
+            "name": "마나 비용",
+            "value": 7
+          },
+          {
+            "id": 199,
+            "name": "직업",
+            "value": 4
+          },
+          {
+            "id": 202,
+            "name": "카드 유형",
+            "value": 5
+          },
+          {
+            "id": 203,
+            "name": "희귀도",
+            "value": 3
+          },
+          {
+            "id": 208,
+            "name": "빙결",
+            "value": 1
+          },
+          {
+            "id": 321,
+            "name": "수집 가능",
+            "value": 1
+          },
+          {
+            "id": 858,
+            "name": "게임 태그 858",
+            "value": 57950
+          },
+          {
+            "id": 1413,
+            "name": "게임 태그 1413",
+            "value": 57950
+          },
+          {
+            "id": 1452,
+            "name": "수집품 관련 카드 데이터베이스 ID",
+            "value": 395
+          },
+          {
+            "id": 1635,
+            "name": "주문 속성",
+            "value": 3
+          }
+        ],
+        "nativeRawText": "적을 <b>빙결</b> 상태로 만듭니다. 3/6 물의 정령을 둘 소환합니다.",
+        "nativeTextBuilder": 0,
+        "englishName": "Deep Freeze",
+        "root": true,
+        "relatedIds": [
+          395
+        ],
+        "art": "art/CORE_BT_072.png"
+      }
+    }
+  }
+}

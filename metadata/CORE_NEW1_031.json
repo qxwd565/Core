@@ -1,0 +1,64 @@
+{
+  "schema": "hscard-date-metadata-1",
+  "id": "CORE_NEW1_031",
+  "timezone": "Asia/Seoul",
+  "release": {
+    "date": "2021-03-31",
+    "status": "unverified"
+  },
+  "baselineStatus": "partially-verified",
+  "normalization": {
+    "datedExcludedFields": {
+      "2021-03-31": {
+        "nativeSetId": 1637,
+        "set": "CORE",
+        "chooseOne": false,
+        "installed": true,
+        "portrait": "W21_A114_D.psd:8ed8c5d04e799eb4dad94fda4337d3bb",
+        "flavor": "미샤나 레오크, 혹은 킁킁이를 소환할 수 있습니다! 근데 킁킁이는 좀 말썽꾸러기라는 거.",
+        "nativeTags": [
+          {
+            "id": 48,
+            "name": "마나 비용",
+            "value": 3
+          },
+          {
+            "id": 199,
+            "name": "직업",
+            "value": 3
+          },
+          {
+            "id": 202,
+            "name": "카드 유형",
+            "value": 5
+          },
+          {
+            "id": 203,
+            "name": "희귀도",
+            "value": 1
+          },
+          {
+            "id": 321,
+            "name": "수집 가능",
+            "value": 1
+          },
+          {
+            "id": 858,
+            "name": "게임 태그 858",
+            "value": 437
+          }
+        ],
+        "nativeRawText": "무작위 동료_야수를 소환합니다.",
+        "nativeTextBuilder": 0,
+        "englishName": "Animal Companion",
+        "root": true,
+        "relatedIds": [
+          100,
+          226,
+          959
+        ],
+        "art": "art/CORE_NEW1_031.png"
+      }
+    }
+  }
+}

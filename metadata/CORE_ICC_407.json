@@ -1,0 +1,85 @@
+{
+  "schema": "hscard-date-metadata-1",
+  "id": "CORE_ICC_407",
+  "timezone": "Asia/Seoul",
+  "release": {
+    "date": "2021-03-31",
+    "status": "unverified"
+  },
+  "baselineStatus": "partially-verified",
+  "normalization": {
+    "datedExcludedFields": {
+      "2021-03-31": {
+        "nativeSetId": 1637,
+        "set": "CORE",
+        "chooseOne": false,
+        "installed": true,
+        "portrait": "HS11-022_M.psd:b93ff6f301f39c0418d110d95f6c324f",
+        "flavor": "\"아름다운 뱀파이어 여신님\"이라고 불리길 원합니다.",
+        "nativeTags": [
+          {
+            "id": 45,
+            "name": "생명력",
+            "value": 3
+          },
+          {
+            "id": 47,
+            "name": "공격력",
+            "value": 2
+          },
+          {
+            "id": 48,
+            "name": "마나 비용",
+            "value": 2
+          },
+          {
+            "id": 199,
+            "name": "직업",
+            "value": 9
+          },
+          {
+            "id": 200,
+            "name": "종족",
+            "value": 11
+          },
+          {
+            "id": 202,
+            "name": "카드 유형",
+            "value": 4
+          },
+          {
+            "id": 203,
+            "name": "희귀도",
+            "value": 4
+          },
+          {
+            "id": 218,
+            "name": "전투의 함성",
+            "value": 1
+          },
+          {
+            "id": 321,
+            "name": "수집 가능",
+            "value": 1
+          },
+          {
+            "id": 858,
+            "name": "게임 태그 858",
+            "value": 42670
+          },
+          {
+            "id": 4533,
+            "name": "제작 결과 능력",
+            "value": 1
+          }
+        ],
+        "nativeRawText": "<b>전투의 함성</b>:& 상대편의 다음 카드를 없앱니다.",
+        "nativeTextBuilder": 0,
+        "englishName": "Gnomeferatu",
+        "root": true,
+        "relatedIds": [],
+        "art": "art/CORE_ICC_407.png"
+      }
+    }
+  }
+}

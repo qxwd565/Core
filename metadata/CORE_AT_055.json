@@ -1,0 +1,80 @@
+{
+  "schema": "hscard-date-metadata-1",
+  "id": "CORE_AT_055",
+  "timezone": "Asia/Seoul",
+  "release": {
+    "date": "2021-03-31",
+    "status": "unverified"
+  },
+  "baselineStatus": "partially-verified",
+  "normalization": {
+    "datedExcludedFields": {
+      "2021-03-31": {
+        "nativeSetId": 1637,
+        "set": "CORE",
+        "chooseOne": false,
+        "installed": true,
+        "portrait": "W17_a110_D.psd:967721d9490ae4a4c815531c1db5740a",
+        "flavor": "별명은 번쩍 치유입니다.",
+        "nativeTags": [
+          {
+            "id": 48,
+            "name": "마나 비용",
+            "value": 1
+          },
+          {
+            "id": 114,
+            "name": "전설 속성",
+            "value": 0
+          },
+          {
+            "id": 199,
+            "name": "직업",
+            "value": 6
+          },
+          {
+            "id": 202,
+            "name": "카드 유형",
+            "value": 5
+          },
+          {
+            "id": 203,
+            "name": "희귀도",
+            "value": 1
+          },
+          {
+            "id": 321,
+            "name": "수집 가능",
+            "value": 1
+          },
+          {
+            "id": 330,
+            "name": "효과 생성 시각 효과",
+            "value": 0
+          },
+          {
+            "id": 331,
+            "name": "효과 지속 시각 효과",
+            "value": 0
+          },
+          {
+            "id": 858,
+            "name": "게임 태그 858",
+            "value": 2582
+          },
+          {
+            "id": 1635,
+            "name": "주문 속성",
+            "value": 5
+          }
+        ],
+        "nativeRawText": "생명력을 #5 회복시킵니다.",
+        "nativeTextBuilder": 0,
+        "englishName": "Flash Heal",
+        "root": true,
+        "relatedIds": [],
+        "art": "art/CORE_AT_055.png"
+      }
+    }
+  }
+}

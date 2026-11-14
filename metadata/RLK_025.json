@@ -1,0 +1,70 @@
+{
+  "schema": "hscard-date-metadata-1",
+  "id": "RLK_025",
+  "timezone": "Asia/Seoul",
+  "release": {
+    "date": "2022-12-07",
+    "status": "unverified"
+  },
+  "baselineStatus": "partially-verified",
+  "normalization": {
+    "datedExcludedFields": {
+      "2022-12-07": {
+        "nativeSetId": 1637,
+        "set": "CORE",
+        "chooseOne": false,
+        "installed": true,
+        "portrait": "CLA-084_S.tif:c5798d2f2f5e415495d1d9f7ce3372e0",
+        "flavor": "장작을 두 배로 빨리 팰 수 있겠네요.",
+        "nativeTags": [
+          {
+            "id": 48,
+            "name": "마나 비용",
+            "value": 2
+          },
+          {
+            "id": 199,
+            "name": "직업",
+            "value": 1
+          },
+          {
+            "id": 202,
+            "name": "카드 유형",
+            "value": 5
+          },
+          {
+            "id": 203,
+            "name": "희귀도",
+            "value": 1
+          },
+          {
+            "id": 321,
+            "name": "수집 가능",
+            "value": 1
+          },
+          {
+            "id": 415,
+            "name": "발견",
+            "value": 1
+          },
+          {
+            "id": 1635,
+            "name": "주문 속성",
+            "value": 3
+          },
+          {
+            "id": 2197,
+            "name": "냉기 룬",
+            "value": 1
+          }
+        ],
+        "nativeRawText": "하수인에게 피해를 $3 줍니다. 그 하수인이 죽으면 냉기 룬 카드를 <b>발견</b>합니다.",
+        "nativeTextBuilder": 0,
+        "englishName": "Frost Strike",
+        "root": true,
+        "relatedIds": [],
+        "art": "art/RLK_025.png"
+      }
+    }
+  }
+}

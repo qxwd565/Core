@@ -7,64 +7,9 @@
     "type": "SPELL",
     "cardClass": "DRUID",
     "classes": [],
-    "nativeSetId": 1637,
-    "set": "CORE",
     "rarity": "COMMON",
-    "race": "",
-    "races": [],
     "spellSchool": "NATURE",
     "cost": 4,
-    "attack": 0,
-    "health": 0,
-    "armor": 0,
-    "durability": 0,
-    "collectible": true,
-    "chooseOne": false,
-    "installed": true,
-    "portrait": "HS12-166_S.psd:eb1f43b8db8decd47a915e36ffbce2b4",
-    "flavor": "길드는 참나무 숯이 재가 될 때까지 맛있는 고기를 구워 먹었답니다.",
-    "nativeTags": [
-      {
-        "id": 48,
-        "name": "마나 비용",
-        "value": 4
-      },
-      {
-        "id": 199,
-        "name": "직업",
-        "value": 2
-      },
-      {
-        "id": 202,
-        "name": "카드 유형",
-        "value": 5
-      },
-      {
-        "id": 203,
-        "name": "희귀도",
-        "value": 1
-      },
-      {
-        "id": 321,
-        "name": "수집 가능",
-        "value": 1
-      },
-      {
-        "id": 858,
-        "name": "게임 태그 858",
-        "value": 45828
-      },
-      {
-        "id": 1635,
-        "name": "주문 속성",
-        "value": 4
-      }
-    ],
-    "nativeRawText": "방어도를 +6 얻습니다. 내 덱에서 비용이 (4) 이하인 하수인을 소환합니다.",
-    "nativeTextBuilder": 0,
-    "englishName": "Oaken Summons",
-    "root": true,
-    "relatedIds": [],
-    "art": "art/CORE_LOOT_309.png"
+    "collectible": true
   }
 }

@@ -1,0 +1,80 @@
+{
+  "schema": "hscard-date-metadata-1",
+  "id": "RLK_503",
+  "timezone": "Asia/Seoul",
+  "release": {
+    "date": "2022-12-07",
+    "status": "unverified"
+  },
+  "baselineStatus": "partially-verified",
+  "normalization": {
+    "datedExcludedFields": {
+      "2022-12-07": {
+        "nativeSetId": 1637,
+        "set": "CORE",
+        "chooseOne": false,
+        "installed": true,
+        "portrait": "CLA-066_M.tif:024553f3c9a749d9a9f8a3d858ad26d6",
+        "flavor": "저 자루를 되찾아야 해요!",
+        "nativeTags": [
+          {
+            "id": 45,
+            "name": "생명력",
+            "value": 3
+          },
+          {
+            "id": 47,
+            "name": "공격력",
+            "value": 1
+          },
+          {
+            "id": 48,
+            "name": "마나 비용",
+            "value": 1
+          },
+          {
+            "id": 199,
+            "name": "직업",
+            "value": 1
+          },
+          {
+            "id": 200,
+            "name": "종족",
+            "value": 11
+          },
+          {
+            "id": 202,
+            "name": "카드 유형",
+            "value": 4
+          },
+          {
+            "id": 203,
+            "name": "희귀도",
+            "value": 1
+          },
+          {
+            "id": 218,
+            "name": "전투의 함성",
+            "value": 1
+          },
+          {
+            "id": 321,
+            "name": "수집 가능",
+            "value": 1
+          },
+          {
+            "id": 2559,
+            "name": "시체",
+            "value": 1
+          }
+        ],
+        "nativeRawText": "<b>전투의 함성:</b> <b>시체</b>를 얻습니다.",
+        "nativeTextBuilder": 0,
+        "englishName": "Body Bagger",
+        "root": true,
+        "relatedIds": [],
+        "art": "art/RLK_503.png"
+      }
+    }
+  }
+}

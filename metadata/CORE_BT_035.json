@@ -1,0 +1,65 @@
+{
+  "schema": "hscard-date-metadata-1",
+  "id": "CORE_BT_035",
+  "timezone": "Asia/Seoul",
+  "release": {
+    "date": "2021-03-31",
+    "status": "unverified"
+  },
+  "baselineStatus": "partially-verified",
+  "normalization": {
+    "datedExcludedFields": {
+      "2021-03-31": {
+        "nativeSetId": 1637,
+        "set": "CORE",
+        "chooseOne": false,
+        "installed": true,
+        "portrait": "HS19-006.tif:9eac6d91f61944d28b0be3e8b46154b9",
+        "flavor": "혼돈은 예상하지 못한 때 찾아오는 법이죠.",
+        "nativeTags": [
+          {
+            "id": 48,
+            "name": "마나 비용",
+            "value": 2
+          },
+          {
+            "id": 199,
+            "name": "직업",
+            "value": 14
+          },
+          {
+            "id": 202,
+            "name": "카드 유형",
+            "value": 5
+          },
+          {
+            "id": 203,
+            "name": "희귀도",
+            "value": 1
+          },
+          {
+            "id": 321,
+            "name": "수집 가능",
+            "value": 1
+          },
+          {
+            "id": 858,
+            "name": "게임 태그 858",
+            "value": 56791
+          },
+          {
+            "id": 1635,
+            "name": "주문 속성",
+            "value": 7
+          }
+        ],
+        "nativeRawText": "[x]이번 턴에 내 영웅이\n공격력을 +2 얻습니다.\n카드를 뽑습니다.",
+        "nativeTextBuilder": 0,
+        "englishName": "Chaos Strike",
+        "root": true,
+        "relatedIds": [],
+        "art": "art/CORE_BT_035.png"
+      }
+    }
+  }
+}

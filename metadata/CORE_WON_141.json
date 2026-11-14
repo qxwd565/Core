@@ -1,0 +1,80 @@
+{
+  "schema": "hscard-date-metadata-1",
+  "id": "CORE_WON_141",
+  "timezone": "Asia/Seoul",
+  "release": {
+    "date": "2021-03-31",
+    "status": "unverified"
+  },
+  "baselineStatus": "partially-verified",
+  "normalization": {
+    "datedExcludedFields": {
+      "2021-03-31": {
+        "nativeSetId": 1637,
+        "set": "CORE",
+        "chooseOne": false,
+        "installed": true,
+        "portrait": "HS8-027_M.psd:2a22e7dd97a14de43816e88c91c30d3a",
+        "flavor": "주전자와 판박이입니다.",
+        "nativeTags": [
+          {
+            "id": 45,
+            "name": "생명력",
+            "value": 3
+          },
+          {
+            "id": 47,
+            "name": "공격력",
+            "value": 3
+          },
+          {
+            "id": 48,
+            "name": "마나 비용",
+            "value": 3
+          },
+          {
+            "id": 199,
+            "name": "직업",
+            "value": 12
+          },
+          {
+            "id": 202,
+            "name": "카드 유형",
+            "value": 4
+          },
+          {
+            "id": 203,
+            "name": "희귀도",
+            "value": 1
+          },
+          {
+            "id": 218,
+            "name": "전투의 함성",
+            "value": 1
+          },
+          {
+            "id": 321,
+            "name": "수집 가능",
+            "value": 1
+          },
+          {
+            "id": 858,
+            "name": "게임 태그 858",
+            "value": 102687
+          },
+          {
+            "id": 1413,
+            "name": "게임 태그 1413",
+            "value": 102687
+          }
+        ],
+        "nativeRawText": "<b>전투의 함성:</b> 종족이 서로 다른 무작위 아군 하수인 셋에게 +1/+1을 부여합니다.",
+        "nativeTextBuilder": 0,
+        "englishName": "Menagerie Mug",
+        "root": true,
+        "relatedIds": [],
+        "art": "art/CORE_WON_141.png"
+      }
+    }
+  }
+}

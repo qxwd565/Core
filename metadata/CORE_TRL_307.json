@@ -1,0 +1,65 @@
+{
+  "schema": "hscard-date-metadata-1",
+  "id": "CORE_TRL_307",
+  "timezone": "Asia/Seoul",
+  "release": {
+    "date": "2021-03-31",
+    "status": "unverified"
+  },
+  "baselineStatus": "partially-verified",
+  "normalization": {
+    "datedExcludedFields": {
+      "2021-03-31": {
+        "nativeSetId": 1637,
+        "set": "CORE",
+        "chooseOne": false,
+        "installed": true,
+        "portrait": "HS15-047_S.psd:564562b6435dfef448acf718fac69299",
+        "flavor": "잠깐! 카메라 가지고 들어오시면 안 됩니다!",
+        "nativeTags": [
+          {
+            "id": 48,
+            "name": "마나 비용",
+            "value": 2
+          },
+          {
+            "id": 199,
+            "name": "직업",
+            "value": 5
+          },
+          {
+            "id": 202,
+            "name": "카드 유형",
+            "value": 5
+          },
+          {
+            "id": 203,
+            "name": "희귀도",
+            "value": 1
+          },
+          {
+            "id": 321,
+            "name": "수집 가능",
+            "value": 1
+          },
+          {
+            "id": 858,
+            "name": "게임 태그 858",
+            "value": 50028
+          },
+          {
+            "id": 1635,
+            "name": "주문 속성",
+            "value": 5
+          }
+        ],
+        "nativeRawText": "생명력을 #4 회복시킵니다.\n카드를 뽑습니다.",
+        "nativeTextBuilder": 0,
+        "englishName": "Flash of Light",
+        "root": true,
+        "relatedIds": [],
+        "art": "art/CORE_TRL_307.png"
+      }
+    }
+  }
+}

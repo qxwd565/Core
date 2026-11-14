@@ -7,99 +7,10 @@
     "type": "MINION",
     "cardClass": "NEUTRAL",
     "classes": [],
-    "nativeSetId": 1637,
-    "set": "CORE",
     "rarity": "EPIC",
-    "race": "",
-    "races": [],
-    "spellSchool": "",
     "cost": 4,
     "attack": 4,
     "health": 2,
-    "armor": 0,
-    "durability": 0,
-    "collectible": true,
-    "chooseOne": false,
-    "installed": true,
-    "portrait": "W5_030_D.psd:e6c061104024636419be152c385e82e2",
-    "flavor": "그에게 데빌사우루스 따윈 코웃음만 나옵니다. 조만간 크롤 칼 하나 들고 오닉시아를 잡으러 간다더군요.",
-    "nativeTags": [
-      {
-        "id": 45,
-        "name": "생명력",
-        "value": 2
-      },
-      {
-        "id": 47,
-        "name": "공격력",
-        "value": 4
-      },
-      {
-        "id": 48,
-        "name": "마나 비용",
-        "value": 4
-      },
-      {
-        "id": 114,
-        "name": "전설 속성",
-        "value": 0
-      },
-      {
-        "id": 199,
-        "name": "직업",
-        "value": 12
-      },
-      {
-        "id": 202,
-        "name": "카드 유형",
-        "value": 4
-      },
-      {
-        "id": 203,
-        "name": "희귀도",
-        "value": 4
-      },
-      {
-        "id": 218,
-        "name": "전투의 함성",
-        "value": 1
-      },
-      {
-        "id": 321,
-        "name": "수집 가능",
-        "value": 1
-      },
-      {
-        "id": 330,
-        "name": "효과 생성 시각 효과",
-        "value": 0
-      },
-      {
-        "id": 331,
-        "name": "효과 지속 시각 효과",
-        "value": 0
-      },
-      {
-        "id": 858,
-        "name": "게임 태그 858",
-        "value": 1657
-      },
-      {
-        "id": 1720,
-        "name": "교환성",
-        "value": 1
-      },
-      {
-        "id": 1743,
-        "name": "덱 행동 비용",
-        "value": 1
-      }
-    ],
-    "nativeRawText": "[x]<b>교환성</b>, <b>전투의 함성:</b>\n공격력이 7 이상인\n하수인을 처치합니다.",
-    "nativeTextBuilder": 0,
-    "englishName": "Big Game Hunter",
-    "root": true,
-    "relatedIds": [],
-    "art": "art/CORE_EX1_005.png"
+    "collectible": true
   }
 }

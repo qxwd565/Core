@@ -1,0 +1,85 @@
+{
+  "schema": "hscard-date-metadata-1",
+  "id": "CORE_ONY_018",
+  "timezone": "Asia/Seoul",
+  "release": {
+    "date": "2021-03-31",
+    "status": "unverified"
+  },
+  "baselineStatus": "partially-verified",
+  "normalization": {
+    "datedExcludedFields": {
+      "2021-03-31": {
+        "nativeSetId": 1637,
+        "set": "CORE",
+        "chooseOne": true,
+        "installed": true,
+        "portrait": "HS24-213_M.tif:d6b2ff8ee61e40bdb04307931a870e1c",
+        "flavor": "일부 드루이드들은 자연과 비전이 조화를 이룬 상태를 균형이라고 합니다. 하지만, 상대편과 자신의 생명력의 균형에 더 신경쓰는 이들도 있습니다.",
+        "nativeTags": [
+          {
+            "id": 45,
+            "name": "생명력",
+            "value": 5
+          },
+          {
+            "id": 47,
+            "name": "공격력",
+            "value": 4
+          },
+          {
+            "id": 48,
+            "name": "마나 비용",
+            "value": 5
+          },
+          {
+            "id": 199,
+            "name": "직업",
+            "value": 2
+          },
+          {
+            "id": 202,
+            "name": "카드 유형",
+            "value": 4
+          },
+          {
+            "id": 203,
+            "name": "희귀도",
+            "value": 3
+          },
+          {
+            "id": 321,
+            "name": "수집 가능",
+            "value": 1
+          },
+          {
+            "id": 443,
+            "name": "선택",
+            "value": 1
+          },
+          {
+            "id": 858,
+            "name": "게임 태그 858",
+            "value": 71241
+          },
+          {
+            "id": 1413,
+            "name": "게임 태그 1413",
+            "value": 71241
+          },
+          {
+            "id": 1824,
+            "name": "미니 세트",
+            "value": 1
+          }
+        ],
+        "nativeRawText": "[x]<b>선택 -</b> 내 영웅의 생명력을\n#8 회복시킵니다.\n또는 피해를 4 줍니다.",
+        "nativeTextBuilder": 0,
+        "englishName": "Boomkin",
+        "root": true,
+        "relatedIds": [],
+        "art": "art/CORE_ONY_018.png"
+      }
+    }
+  }
+}

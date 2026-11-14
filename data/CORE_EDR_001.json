@@ -7,74 +7,10 @@
     "type": "MINION",
     "cardClass": "MAGE",
     "classes": [],
-    "nativeSetId": 1637,
-    "set": "CORE",
     "rarity": "RARE",
-    "race": "",
-    "races": [],
-    "spellSchool": "",
     "cost": 3,
     "attack": 2,
     "health": 4,
-    "armor": 0,
-    "durability": 0,
-    "collectible": true,
-    "chooseOne": false,
-    "installed": true,
-    "portrait": "HS34-217_M.tif:bfff6ea9c1514b5bb9116b82d836872d",
-    "flavor": "제가 1994년에 LA에 있었을 때...",
-    "nativeTags": [
-      {
-        "id": 45,
-        "name": "생명력",
-        "value": 4
-      },
-      {
-        "id": 47,
-        "name": "공격력",
-        "value": 2
-      },
-      {
-        "id": 48,
-        "name": "마나 비용",
-        "value": 3
-      },
-      {
-        "id": 199,
-        "name": "직업",
-        "value": 4
-      },
-      {
-        "id": 202,
-        "name": "카드 유형",
-        "value": 4
-      },
-      {
-        "id": 203,
-        "name": "희귀도",
-        "value": 3
-      },
-      {
-        "id": 218,
-        "name": "전투의 함성",
-        "value": 1
-      },
-      {
-        "id": 321,
-        "name": "수집 가능",
-        "value": 1
-      },
-      {
-        "id": 4533,
-        "name": "제작 결과 능력",
-        "value": 1
-      }
-    ],
-    "nativeRawText": "[x]<b>전투의 함성</b>:&\n무작위 마법사 주문 둘을\n내 손으로 가져옵니다.",
-    "nativeTextBuilder": 0,
-    "englishName": "Babbling Bookcase",
-    "root": true,
-    "relatedIds": [],
-    "art": "art/CORE_EDR_001.png"
+    "collectible": true
   }
 }

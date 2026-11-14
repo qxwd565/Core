@@ -7,111 +7,14 @@
     "type": "MINION",
     "cardClass": "NEUTRAL",
     "classes": [],
-    "nativeSetId": 1637,
-    "set": "CORE",
     "rarity": "EPIC",
     "race": "야수",
     "races": [
       "BEAST"
     ],
-    "spellSchool": "",
     "cost": 3,
     "attack": 4,
     "health": 2,
-    "armor": 0,
-    "durability": 0,
-    "collectible": true,
-    "chooseOne": false,
-    "installed": true,
-    "portrait": "HS34-342_M.tif:7db9a545402549c2a0d0e32dda95dbad",
-    "flavor": "저 유성, 너무 가깝지 않아?",
-    "nativeTags": [
-      {
-        "id": 45,
-        "name": "생명력",
-        "value": 2
-      },
-      {
-        "id": 47,
-        "name": "공격력",
-        "value": 4
-      },
-      {
-        "id": 48,
-        "name": "마나 비용",
-        "value": 3
-      },
-      {
-        "id": 199,
-        "name": "직업",
-        "value": 12
-      },
-      {
-        "id": 200,
-        "name": "종족",
-        "value": 20
-      },
-      {
-        "id": 202,
-        "name": "카드 유형",
-        "value": 4
-      },
-      {
-        "id": 203,
-        "name": "희귀도",
-        "value": 4
-      },
-      {
-        "id": 218,
-        "name": "전투의 함성",
-        "value": 1
-      },
-      {
-        "id": 321,
-        "name": "수집 가능",
-        "value": 1
-      },
-      {
-        "id": 415,
-        "name": "발견",
-        "value": 1
-      },
-      {
-        "id": 858,
-        "name": "게임 태그 858",
-        "value": 119798
-      },
-      {
-        "id": 1413,
-        "name": "게임 태그 1413",
-        "value": 119798
-      },
-      {
-        "id": 3627,
-        "name": "어둠의 선물",
-        "value": 1
-      },
-      {
-        "id": 3934,
-        "name": "되돌리기",
-        "value": 1
-      },
-      {
-        "id": 4028,
-        "name": "유사",
-        "value": 1
-      },
-      {
-        "id": 4050,
-        "name": "게임 태그 4050",
-        "value": 1
-      }
-    ],
-    "nativeRawText": "<b>되돌리기</b>, <b>전투의 함성:</b> <b>어둠의_선물</b> 능력이 있는 야수를 <b>발견</b>합니다. <b>유사:</b> 그 야수의 비용이 (1) 감소합니다.",
-    "nativeTextBuilder": 0,
-    "englishName": "Raptor Herald",
-    "root": true,
-    "relatedIds": [],
-    "art": "art/CORE_EDR_004_2026.png"
+    "collectible": true
   }
 }

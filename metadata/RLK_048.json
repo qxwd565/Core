@@ -1,0 +1,70 @@
+{
+  "schema": "hscard-date-metadata-1",
+  "id": "RLK_048",
+  "timezone": "Asia/Seoul",
+  "release": {
+    "date": "2022-12-07",
+    "status": "unverified"
+  },
+  "baselineStatus": "partially-verified",
+  "normalization": {
+    "datedExcludedFields": {
+      "2022-12-07": {
+        "nativeSetId": 1637,
+        "set": "CORE",
+        "chooseOne": false,
+        "installed": true,
+        "portrait": "W10_A173.tif:59a3bdc7b6c849638ac5e53081efee48",
+        "flavor": "마법을 막는 주문이라니. 나중에 마법을 막는 주문을 막는 마법이 나오진 않겠죠?",
+        "nativeTags": [
+          {
+            "id": 48,
+            "name": "마나 비용",
+            "value": 3
+          },
+          {
+            "id": 199,
+            "name": "직업",
+            "value": 1
+          },
+          {
+            "id": 202,
+            "name": "카드 유형",
+            "value": 5
+          },
+          {
+            "id": 203,
+            "name": "희귀도",
+            "value": 3
+          },
+          {
+            "id": 321,
+            "name": "수집 가능",
+            "value": 1
+          },
+          {
+            "id": 1211,
+            "name": "모면",
+            "value": 1
+          },
+          {
+            "id": 1635,
+            "name": "주문 속성",
+            "value": 6
+          },
+          {
+            "id": 2198,
+            "name": "부정 룬",
+            "value": 1
+          }
+        ],
+        "nativeRawText": "내 하수인들에게 +1/+1과 <b>모면</b>을 부여합니다.",
+        "nativeTextBuilder": 0,
+        "englishName": "Anti-Magic Shell",
+        "root": true,
+        "relatedIds": [],
+        "art": "art/RLK_048.png"
+      }
+    }
+  }
+}

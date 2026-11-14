@@ -7,106 +7,14 @@
     "type": "MINION",
     "cardClass": "WARLOCK",
     "classes": [],
-    "nativeSetId": 1637,
-    "set": "CORE",
     "rarity": "COMMON",
     "race": "언데드",
     "races": [
       "UNDEAD"
     ],
-    "spellSchool": "",
     "cost": 2,
     "attack": 2,
     "health": 3,
-    "armor": 0,
-    "durability": 0,
-    "collectible": true,
-    "chooseOne": false,
-    "installed": true,
-    "portrait": "HS6-015_D.psd:48301170639771d4488566e2aa5ead03",
-    "flavor": "지금 바로 주문하세요! 이 엄청난 진공청소기가 단돈 39,900 골드! 당신의 영혼을 담보로 할부도 가능합니다.",
-    "nativeTags": [
-      {
-        "id": 45,
-        "name": "생명력",
-        "value": 3
-      },
-      {
-        "id": 47,
-        "name": "공격력",
-        "value": 2
-      },
-      {
-        "id": 48,
-        "name": "마나 비용",
-        "value": 2
-      },
-      {
-        "id": 199,
-        "name": "직업",
-        "value": 9
-      },
-      {
-        "id": 200,
-        "name": "종족",
-        "value": 11
-      },
-      {
-        "id": 202,
-        "name": "카드 유형",
-        "value": 4
-      },
-      {
-        "id": 203,
-        "name": "희귀도",
-        "value": 1
-      },
-      {
-        "id": 218,
-        "name": "전투의 함성",
-        "value": 1
-      },
-      {
-        "id": 321,
-        "name": "수집 가능",
-        "value": 1
-      },
-      {
-        "id": 415,
-        "name": "발견",
-        "value": 1
-      },
-      {
-        "id": 858,
-        "name": "게임 태그 858",
-        "value": 2895
-      },
-      {
-        "id": 1342,
-        "name": "발견 시각 효과",
-        "value": 1
-      },
-      {
-        "id": 1413,
-        "name": "게임 태그 1413",
-        "value": 102639
-      },
-      {
-        "id": 4533,
-        "name": "제작 결과 능력",
-        "value": 1
-      },
-      {
-        "id": 4578,
-        "name": "게임 태그 4578",
-        "value": 1
-      }
-    ],
-    "nativeRawText": "<b>전투의 함성</b>:&\n비용이 1인 카드를 발견합니다.",
-    "nativeTextBuilder": 0,
-    "englishName": "Dark Peddler",
-    "root": true,
-    "relatedIds": [],
-    "art": "art/CORE_WON_096.png"
+    "collectible": true
   }
 }

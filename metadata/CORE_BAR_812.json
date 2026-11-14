@@ -1,0 +1,82 @@
+{
+  "schema": "hscard-date-metadata-1",
+  "id": "CORE_BAR_812",
+  "timezone": "Asia/Seoul",
+  "release": {
+    "date": "2021-03-31",
+    "status": "unverified"
+  },
+  "baselineStatus": "partially-verified",
+  "normalization": {
+    "datedExcludedFields": {
+      "2021-03-31": {
+        "nativeSetId": 1637,
+        "set": "CORE",
+        "chooseOne": false,
+        "installed": true,
+        "portrait": "HS22-136_S.tif:81b258b2154f46288c37b282ff3a0053",
+        "flavor": "봐 줘서 배치기 입수를 시킨 것입니다.",
+        "nativeTags": [
+          {
+            "id": 48,
+            "name": "마나 비용",
+            "value": 3
+          },
+          {
+            "id": 199,
+            "name": "직업",
+            "value": 4
+          },
+          {
+            "id": 202,
+            "name": "카드 유형",
+            "value": 5
+          },
+          {
+            "id": 203,
+            "name": "희귀도",
+            "value": 1
+          },
+          {
+            "id": 219,
+            "name": "비밀",
+            "value": 1
+          },
+          {
+            "id": 321,
+            "name": "수집 가능",
+            "value": 1
+          },
+          {
+            "id": 858,
+            "name": "게임 태그 858",
+            "value": 63553
+          },
+          {
+            "id": 1413,
+            "name": "게임 태그 1413",
+            "value": 63553
+          },
+          {
+            "id": 1452,
+            "name": "수집품 관련 카드 데이터베이스 ID",
+            "value": 395
+          },
+          {
+            "id": 1635,
+            "name": "주문 속성",
+            "value": 3
+          }
+        ],
+        "nativeRawText": "<b>비밀:</b> 내 하수인이 공격받으면, 3/6 물의 정령을 소환합니다.",
+        "nativeTextBuilder": 0,
+        "englishName": "Oasis Ally",
+        "root": true,
+        "relatedIds": [
+          395
+        ],
+        "art": "art/CORE_BAR_812.png"
+      }
+    }
+  }
+}

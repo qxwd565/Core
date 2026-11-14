@@ -7,84 +7,8 @@
     "type": "SPELL",
     "cardClass": "HUNTER",
     "classes": [],
-    "nativeSetId": 1637,
-    "set": "CORE",
     "rarity": "RARE",
-    "race": "",
-    "races": [],
-    "spellSchool": "",
     "cost": 1,
-    "attack": 0,
-    "health": 0,
-    "armor": 0,
-    "durability": 0,
-    "collectible": true,
-    "chooseOne": false,
-    "installed": true,
-    "portrait": "WOW_PAR_011_D.psd:b7052e6d65ef6f9459be5c4731d5daaa",
-    "flavor": "어떤 카드를 덱에 넣어야 할지 결정 못 하는 소심한 분들을 위해!",
-    "nativeTags": [
-      {
-        "id": 48,
-        "name": "마나 비용",
-        "value": 1
-      },
-      {
-        "id": 199,
-        "name": "직업",
-        "value": 3
-      },
-      {
-        "id": 201,
-        "name": "진영",
-        "value": 3
-      },
-      {
-        "id": 202,
-        "name": "카드 유형",
-        "value": 5
-      },
-      {
-        "id": 203,
-        "name": "희귀도",
-        "value": 3
-      },
-      {
-        "id": 321,
-        "name": "수집 가능",
-        "value": 1
-      },
-      {
-        "id": 330,
-        "name": "효과 생성 시각 효과",
-        "value": 0
-      },
-      {
-        "id": 331,
-        "name": "효과 지속 시각 효과",
-        "value": 0
-      },
-      {
-        "id": 415,
-        "name": "발견",
-        "value": 1
-      },
-      {
-        "id": 858,
-        "name": "게임 태그 858",
-        "value": 1047
-      },
-      {
-        "id": 1342,
-        "name": "발견 시각 효과",
-        "value": 1
-      }
-    ],
-    "nativeRawText": "내 덱에서 카드를 <b>발견</b>합니다.",
-    "nativeTextBuilder": 0,
-    "englishName": "Tracking",
-    "root": true,
-    "relatedIds": [],
-    "art": "art/CORE_DS1_184.png"
+    "collectible": true
   }
 }

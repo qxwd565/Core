@@ -1,0 +1,65 @@
+{
+  "schema": "hscard-date-metadata-1",
+  "id": "RLK_709",
+  "timezone": "Asia/Seoul",
+  "release": {
+    "date": "2022-12-07",
+    "status": "unverified"
+  },
+  "baselineStatus": "partially-verified",
+  "normalization": {
+    "datedExcludedFields": {
+      "2022-12-07": {
+        "nativeSetId": 1637,
+        "set": "CORE",
+        "chooseOne": false,
+        "installed": true,
+        "portrait": "CLA-080_S.tif:71cae650fc63486590baa6e3f4e03f56",
+        "flavor": "황야의 땅 확장팩이었다면 희귀 카드로 나왔을 텐데.",
+        "nativeTags": [
+          {
+            "id": 48,
+            "name": "마나 비용",
+            "value": 4
+          },
+          {
+            "id": 199,
+            "name": "직업",
+            "value": 1
+          },
+          {
+            "id": 202,
+            "name": "카드 유형",
+            "value": 5
+          },
+          {
+            "id": 203,
+            "name": "희귀도",
+            "value": 1
+          },
+          {
+            "id": 321,
+            "name": "수집 가능",
+            "value": 1
+          },
+          {
+            "id": 1635,
+            "name": "주문 속성",
+            "value": 3
+          },
+          {
+            "id": 2197,
+            "name": "냉기 룬",
+            "value": 1
+          }
+        ],
+        "nativeRawText": "모든 적에게 피해를 $2 줍니다. 카드를 뽑습니다.",
+        "nativeTextBuilder": 0,
+        "englishName": "Remorseless Winter",
+        "root": true,
+        "relatedIds": [],
+        "art": "art/RLK_709.png"
+      }
+    }
+  }
+}

@@ -1,0 +1,95 @@
+{
+  "schema": "hscard-date-metadata-1",
+  "id": "CORE_GIL_623",
+  "timezone": "Asia/Seoul",
+  "release": {
+    "date": "2021-03-31",
+    "status": "unverified"
+  },
+  "baselineStatus": "partially-verified",
+  "normalization": {
+    "datedExcludedFields": {
+      "2021-03-31": {
+        "nativeSetId": 1637,
+        "set": "CORE",
+        "chooseOne": false,
+        "installed": true,
+        "portrait": "HS13-092_M.psd:e1d8e35c2ec77484d8a023bd9da56383",
+        "flavor": "손이 큰 사람들을 뭐라고 부르는지 아십니까? 작은 곰이라고 한다는군요.",
+        "nativeTags": [
+          {
+            "id": 45,
+            "name": "생명력",
+            "value": 12
+          },
+          {
+            "id": 47,
+            "name": "공격력",
+            "value": 3
+          },
+          {
+            "id": 48,
+            "name": "마나 비용",
+            "value": 5
+          },
+          {
+            "id": 114,
+            "name": "전설 속성",
+            "value": 0
+          },
+          {
+            "id": 190,
+            "name": "도발",
+            "value": 1
+          },
+          {
+            "id": 199,
+            "name": "직업",
+            "value": 12
+          },
+          {
+            "id": 200,
+            "name": "종족",
+            "value": 20
+          },
+          {
+            "id": 202,
+            "name": "카드 유형",
+            "value": 4
+          },
+          {
+            "id": 203,
+            "name": "희귀도",
+            "value": 3
+          },
+          {
+            "id": 218,
+            "name": "전투의 함성",
+            "value": 1
+          },
+          {
+            "id": 321,
+            "name": "수집 가능",
+            "value": 1
+          },
+          {
+            "id": 858,
+            "name": "게임 태그 858",
+            "value": 47346
+          },
+          {
+            "id": 1413,
+            "name": "게임 태그 1413",
+            "value": 47346
+          }
+        ],
+        "nativeRawText": "<b>도발</b>, <b>전투의 함성:</b> 상대편의 손에 있는\n카드 1장당 생명력을 1 잃습니다.",
+        "nativeTextBuilder": 0,
+        "englishName": "Witchwood Grizzly",
+        "root": true,
+        "relatedIds": [],
+        "art": "art/CORE_GIL_623.png"
+      }
+    }
+  }
+}

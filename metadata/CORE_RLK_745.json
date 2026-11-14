@@ -1,0 +1,100 @@
+{
+  "schema": "hscard-date-metadata-1",
+  "id": "CORE_RLK_745",
+  "timezone": "Asia/Seoul",
+  "release": {
+    "date": "2021-03-31",
+    "status": "unverified"
+  },
+  "baselineStatus": "partially-verified",
+  "normalization": {
+    "datedExcludedFields": {
+      "2021-03-31": {
+        "nativeSetId": 1637,
+        "set": "CORE",
+        "chooseOne": false,
+        "installed": true,
+        "portrait": "W12_A203_M.tif:4e322ed0d60d4c749df9616a902aa4d9",
+        "flavor": "악성 고름에 고통받고 있습니다.",
+        "nativeTags": [
+          {
+            "id": 32,
+            "name": "발동 효과 표시",
+            "value": 1
+          },
+          {
+            "id": 45,
+            "name": "생명력",
+            "value": 4
+          },
+          {
+            "id": 47,
+            "name": "공격력",
+            "value": 2
+          },
+          {
+            "id": 48,
+            "name": "마나 비용",
+            "value": 4
+          },
+          {
+            "id": 199,
+            "name": "직업",
+            "value": 1
+          },
+          {
+            "id": 200,
+            "name": "종족",
+            "value": 11
+          },
+          {
+            "id": 202,
+            "name": "카드 유형",
+            "value": 4
+          },
+          {
+            "id": 203,
+            "name": "희귀도",
+            "value": 1
+          },
+          {
+            "id": 321,
+            "name": "수집 가능",
+            "value": 1
+          },
+          {
+            "id": 858,
+            "name": "게임 태그 858",
+            "value": 82073
+          },
+          {
+            "id": 1085,
+            "name": "환생",
+            "value": 1
+          },
+          {
+            "id": 1413,
+            "name": "게임 태그 1413",
+            "value": 82073
+          },
+          {
+            "id": 2559,
+            "name": "시체",
+            "value": 1
+          },
+          {
+            "id": 4058,
+            "name": "시체 소모",
+            "value": 1
+          }
+        ],
+        "nativeRawText": "<b>환생</b>, 내 턴이 끝날 때,\n<b>시체</b>를 4개 소모해\n이 하수인을 복사하여\n소환합니다.",
+        "nativeTextBuilder": 0,
+        "englishName": "Malignant Horror",
+        "root": true,
+        "relatedIds": [],
+        "art": "art/CORE_RLK_745.png"
+      }
+    }
+  }
+}

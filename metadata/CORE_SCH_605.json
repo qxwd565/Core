@@ -1,0 +1,80 @@
+{
+  "schema": "hscard-date-metadata-1",
+  "id": "CORE_SCH_605",
+  "timezone": "Asia/Seoul",
+  "release": {
+    "date": "2021-03-31",
+    "status": "unverified"
+  },
+  "baselineStatus": "partially-verified",
+  "normalization": {
+    "datedExcludedFields": {
+      "2021-03-31": {
+        "nativeSetId": 1637,
+        "set": "CORE",
+        "chooseOne": false,
+        "installed": true,
+        "portrait": "HS20-092.tif:6f759e23519944cda304e7ee64e0b301",
+        "flavor": "\"호수에 괴물이 있다고?!\" \"괴물이 아니라 개리야.\"",
+        "nativeTags": [
+          {
+            "id": 45,
+            "name": "생명력",
+            "value": 6
+          },
+          {
+            "id": 47,
+            "name": "공격력",
+            "value": 4
+          },
+          {
+            "id": 48,
+            "name": "마나 비용",
+            "value": 5
+          },
+          {
+            "id": 199,
+            "name": "직업",
+            "value": 12
+          },
+          {
+            "id": 200,
+            "name": "종족",
+            "value": 20
+          },
+          {
+            "id": 202,
+            "name": "카드 유형",
+            "value": 4
+          },
+          {
+            "id": 203,
+            "name": "희귀도",
+            "value": 1
+          },
+          {
+            "id": 321,
+            "name": "수집 가능",
+            "value": 1
+          },
+          {
+            "id": 858,
+            "name": "게임 태그 858",
+            "value": 59452
+          },
+          {
+            "id": 1413,
+            "name": "게임 태그 1413",
+            "value": 59452
+          }
+        ],
+        "nativeRawText": "공격하는 대상 양옆의 하수인들에게도 피해를 줍니다.",
+        "nativeTextBuilder": 0,
+        "englishName": "Lake Thresher",
+        "root": true,
+        "relatedIds": [],
+        "art": "art/CORE_SCH_605.png"
+      }
+    }
+  }
+}

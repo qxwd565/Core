@@ -1,0 +1,85 @@
+{
+  "schema": "hscard-date-metadata-1",
+  "id": "CORE_OG_044",
+  "timezone": "Asia/Seoul",
+  "release": {
+    "date": "2021-03-31",
+    "status": "unverified"
+  },
+  "baselineStatus": "partially-verified",
+  "normalization": {
+    "datedExcludedFields": {
+      "2021-03-31": {
+        "nativeSetId": 1637,
+        "set": "CORE",
+        "chooseOne": true,
+        "installed": true,
+        "portrait": "HS7-112_D.psd:720593a5cf87d4a4381297b423e5c066",
+        "flavor": "매번 \"내가 세계수를 만들었을 시절에는 말이야...\"라는 말을 들먹입니다. 어휴, 지겨워서 원.",
+        "nativeTags": [
+          {
+            "id": 45,
+            "name": "생명력",
+            "value": 6
+          },
+          {
+            "id": 47,
+            "name": "공격력",
+            "value": 3
+          },
+          {
+            "id": 48,
+            "name": "마나 비용",
+            "value": 4
+          },
+          {
+            "id": 114,
+            "name": "전설 속성",
+            "value": 1
+          },
+          {
+            "id": 199,
+            "name": "직업",
+            "value": 2
+          },
+          {
+            "id": 202,
+            "name": "카드 유형",
+            "value": 4
+          },
+          {
+            "id": 203,
+            "name": "희귀도",
+            "value": 5
+          },
+          {
+            "id": 321,
+            "name": "수집 가능",
+            "value": 1
+          },
+          {
+            "id": 362,
+            "name": "지속 효과",
+            "value": 1
+          },
+          {
+            "id": 443,
+            "name": "선택",
+            "value": 1
+          },
+          {
+            "id": 858,
+            "name": "게임 태그 858",
+            "value": 38318
+          }
+        ],
+        "nativeRawText": "내 <b>선택</b> 효과의\n두 능력이 모두 발동합니다.",
+        "nativeTextBuilder": 0,
+        "englishName": "Fandral Staghelm",
+        "root": true,
+        "relatedIds": [],
+        "art": "art/CORE_OG_044.png"
+      }
+    }
+  }
+}

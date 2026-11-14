@@ -7,74 +7,9 @@
     "type": "SPELL",
     "cardClass": "DEATHKNIGHT",
     "classes": [],
-    "nativeSetId": 1637,
-    "set": "CORE",
     "rarity": "COMMON",
-    "race": "",
-    "races": [],
     "spellSchool": "FROST",
     "cost": 2,
-    "attack": 0,
-    "health": 0,
-    "armor": 0,
-    "durability": 0,
-    "collectible": true,
-    "chooseOne": false,
-    "installed": true,
-    "portrait": "HS37-206_S.tif:42c175667e0d4fcfafebd85b24e67156",
-    "flavor": "나중에 오는 사람을 위한 것입니다.",
-    "nativeTags": [
-      {
-        "id": 48,
-        "name": "마나 비용",
-        "value": 2
-      },
-      {
-        "id": 199,
-        "name": "직업",
-        "value": 1
-      },
-      {
-        "id": 202,
-        "name": "카드 유형",
-        "value": 5
-      },
-      {
-        "id": 203,
-        "name": "희귀도",
-        "value": 1
-      },
-      {
-        "id": 208,
-        "name": "빙결",
-        "value": 1
-      },
-      {
-        "id": 321,
-        "name": "수집 가능",
-        "value": 1
-      },
-      {
-        "id": 415,
-        "name": "발견",
-        "value": 1
-      },
-      {
-        "id": 1635,
-        "name": "주문 속성",
-        "value": 3
-      },
-      {
-        "id": 2197,
-        "name": "냉기 룬",
-        "value": 2
-      }
-    ],
-    "nativeRawText": "캐릭터를 <b>빙결</b>시킵니다.\n주문을 <b>발견</b>합니다.",
-    "nativeTextBuilder": 0,
-    "englishName": "Death's Advance",
-    "root": true,
-    "relatedIds": [],
-    "art": "art/CORE_CATA_009.png"
+    "collectible": true
   }
 }

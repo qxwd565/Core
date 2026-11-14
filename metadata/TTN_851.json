@@ -1,0 +1,95 @@
+{
+  "schema": "hscard-date-metadata-1",
+  "id": "TTN_851",
+  "timezone": "Asia/Seoul",
+  "release": {
+    "date": "2023-08-02",
+    "status": "unverified"
+  },
+  "baselineStatus": "partially-verified",
+  "normalization": {
+    "datedExcludedFields": {
+      "2023-08-02": {
+        "nativeSetId": 1637,
+        "set": "CORE",
+        "chooseOne": false,
+        "installed": true,
+        "portrait": "HS29-182_S.tif:833a88e43e3e4c2294ff31351371ee6a",
+        "flavor": "야수 퇴치에 완벽합니다. 특히 작은 야수들 말이죠. 더 정확히 말하자면 아주 작은 곤충이에요. 바로 개미에 저항합니다.",
+        "nativeTags": [
+          {
+            "id": 2,
+            "name": "효과 수치 1",
+            "value": 2
+          },
+          {
+            "id": 32,
+            "name": "발동 효과 표시",
+            "value": 1
+          },
+          {
+            "id": 48,
+            "name": "마나 비용",
+            "value": 2
+          },
+          {
+            "id": 199,
+            "name": "직업",
+            "value": 5
+          },
+          {
+            "id": 202,
+            "name": "카드 유형",
+            "value": 5
+          },
+          {
+            "id": 203,
+            "name": "희귀도",
+            "value": 1
+          },
+          {
+            "id": 321,
+            "name": "수집 가능",
+            "value": 1
+          },
+          {
+            "id": 535,
+            "name": "퀘스트 완료 조건",
+            "value": 2
+          },
+          {
+            "id": 1635,
+            "name": "주문 속성",
+            "value": 5
+          },
+          {
+            "id": 1724,
+            "name": "게임 태그 1724",
+            "value": 1
+          },
+          {
+            "id": 2311,
+            "name": "목표",
+            "value": 1
+          },
+          {
+            "id": 2329,
+            "name": "목표 지속 효과",
+            "value": 1
+          },
+          {
+            "id": 3429,
+            "name": "성기사 오라",
+            "value": 1
+          }
+        ],
+        "nativeRawText": "상대편의 주문의 비용이 (1) 증가합니다. 상대편의 @턴 동안 지속됩니다.",
+        "nativeTextBuilder": 7,
+        "englishName": "Resistance Aura",
+        "root": true,
+        "relatedIds": [],
+        "art": "art/TTN_851.png"
+      }
+    }
+  }
+}

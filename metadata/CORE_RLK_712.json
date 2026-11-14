@@ -1,0 +1,80 @@
+{
+  "schema": "hscard-date-metadata-1",
+  "id": "CORE_RLK_712",
+  "timezone": "Asia/Seoul",
+  "release": {
+    "date": "2021-03-31",
+    "status": "unverified"
+  },
+  "baselineStatus": "partially-verified",
+  "normalization": {
+    "datedExcludedFields": {
+      "2021-03-31": {
+        "nativeSetId": 1637,
+        "set": "CORE",
+        "chooseOne": false,
+        "installed": true,
+        "portrait": "HS27-120_S.tif:1bd6ce23569344ed8ea5ea6b00aeceff",
+        "flavor": "오늘 혈기 왕성한 친구들과 혈기 전환하러 왔나 보네요.",
+        "nativeTags": [
+          {
+            "id": 48,
+            "name": "마나 비용",
+            "value": 2
+          },
+          {
+            "id": 199,
+            "name": "직업",
+            "value": 1
+          },
+          {
+            "id": 202,
+            "name": "카드 유형",
+            "value": 5
+          },
+          {
+            "id": 203,
+            "name": "희귀도",
+            "value": 3
+          },
+          {
+            "id": 321,
+            "name": "수집 가능",
+            "value": 1
+          },
+          {
+            "id": 858,
+            "name": "게임 태그 858",
+            "value": 80664
+          },
+          {
+            "id": 1635,
+            "name": "주문 속성",
+            "value": 6
+          },
+          {
+            "id": 2196,
+            "name": "혈기 룬",
+            "value": 1
+          },
+          {
+            "id": 2559,
+            "name": "시체",
+            "value": 1
+          },
+          {
+            "id": 4058,
+            "name": "시체 소모",
+            "value": 1
+          }
+        ],
+        "nativeRawText": "내 손에 있는 모든 하수인에게 +1/+1을 부여합니다. <b>시체</b>를 2개 소모해 +1/+1을 더 부여합니다.",
+        "nativeTextBuilder": 0,
+        "englishName": "Blood Tap",
+        "root": true,
+        "relatedIds": [],
+        "art": "art/CORE_RLK_712.png"
+      }
+    }
+  }
+}

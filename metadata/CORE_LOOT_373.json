@@ -1,0 +1,75 @@
+{
+  "schema": "hscard-date-metadata-1",
+  "id": "CORE_LOOT_373",
+  "timezone": "Asia/Seoul",
+  "release": {
+    "date": "2021-03-31",
+    "status": "unverified"
+  },
+  "baselineStatus": "partially-verified",
+  "normalization": {
+    "datedExcludedFields": {
+      "2021-03-31": {
+        "nativeSetId": 1637,
+        "set": "CORE",
+        "chooseOne": false,
+        "installed": true,
+        "portrait": "HS12-183_S.psd:fd607beaa92979041a959ef9cf84a79d",
+        "flavor": "각성 효과가 5시간이 넘습니다!",
+        "nativeTags": [
+          {
+            "id": 48,
+            "name": "마나 비용",
+            "value": 3
+          },
+          {
+            "id": 199,
+            "name": "직업",
+            "value": 8
+          },
+          {
+            "id": 202,
+            "name": "카드 유형",
+            "value": 5
+          },
+          {
+            "id": 203,
+            "name": "희귀도",
+            "value": 1
+          },
+          {
+            "id": 321,
+            "name": "수집 가능",
+            "value": 1
+          },
+          {
+            "id": 349,
+            "name": "게임 태그 349",
+            "value": 1
+          },
+          {
+            "id": 858,
+            "name": "게임 태그 858",
+            "value": 46067
+          },
+          {
+            "id": 1413,
+            "name": "게임 태그 1413",
+            "value": 46067
+          },
+          {
+            "id": 1635,
+            "name": "주문 속성",
+            "value": 4
+          }
+        ],
+        "nativeRawText": "모든 아군 캐릭터에게 #12의 생명력을 무작위로 나누어 회복시킵니다.",
+        "nativeTextBuilder": 0,
+        "englishName": "Healing Rain",
+        "root": true,
+        "relatedIds": [],
+        "art": "art/CORE_LOOT_373.png"
+      }
+    }
+  }
+}

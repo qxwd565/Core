@@ -7,74 +7,9 @@
     "type": "SPELL",
     "cardClass": "DEATHKNIGHT",
     "classes": [],
-    "nativeSetId": 1637,
-    "set": "CORE",
     "rarity": "EPIC",
-    "race": "",
-    "races": [],
     "spellSchool": "SHADOW",
     "cost": 4,
-    "attack": 0,
-    "health": 0,
-    "armor": 0,
-    "durability": 0,
-    "collectible": true,
-    "chooseOne": false,
-    "installed": true,
-    "portrait": "HS27-247_S.tif:34f3438cbdf345a1abc3cfe331a9eb2f",
-    "flavor": "서 있을 뿐입니다... 매우 위협적으로.",
-    "nativeTags": [
-      {
-        "id": 48,
-        "name": "마나 비용",
-        "value": 4
-      },
-      {
-        "id": 199,
-        "name": "직업",
-        "value": 1
-      },
-      {
-        "id": 202,
-        "name": "카드 유형",
-        "value": 5
-      },
-      {
-        "id": 203,
-        "name": "희귀도",
-        "value": 4
-      },
-      {
-        "id": 321,
-        "name": "수집 가능",
-        "value": 1
-      },
-      {
-        "id": 1635,
-        "name": "주문 속성",
-        "value": 6
-      },
-      {
-        "id": 2198,
-        "name": "부정 룬",
-        "value": 3
-      },
-      {
-        "id": 2559,
-        "name": "시체",
-        "value": 1
-      },
-      {
-        "id": 4058,
-        "name": "시체 소모",
-        "value": 1
-      }
-    ],
-    "nativeRawText": "내 하수인들에게 공격력을 +1 부여합니다. <b>시체</b>를 5개 소모해 대신 공격력을 +3 부여합니다.",
-    "nativeTextBuilder": 0,
-    "englishName": "Grave Strength",
-    "root": true,
-    "relatedIds": [],
-    "art": "art/RLK_707.png"
+    "collectible": true
   }
 }

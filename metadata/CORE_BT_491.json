@@ -1,0 +1,65 @@
+{
+  "schema": "hscard-date-metadata-1",
+  "id": "CORE_BT_491",
+  "timezone": "Asia/Seoul",
+  "release": {
+    "date": "2021-03-31",
+    "status": "unverified"
+  },
+  "baselineStatus": "partially-verified",
+  "normalization": {
+    "datedExcludedFields": {
+      "2021-03-31": {
+        "nativeSetId": 1637,
+        "set": "CORE",
+        "chooseOne": false,
+        "installed": true,
+        "portrait": "HS19-025.tif:470d5d65da4c47069a3547c21090dad6",
+        "flavor": "영혼의 시야로도 오른쪽에서 어떤 카드가 뽑힐지는 알 수 없는 모양입니다.",
+        "nativeTags": [
+          {
+            "id": 48,
+            "name": "마나 비용",
+            "value": 2
+          },
+          {
+            "id": 199,
+            "name": "직업",
+            "value": 14
+          },
+          {
+            "id": 202,
+            "name": "카드 유형",
+            "value": 5
+          },
+          {
+            "id": 203,
+            "name": "희귀도",
+            "value": 1
+          },
+          {
+            "id": 321,
+            "name": "수집 가능",
+            "value": 1
+          },
+          {
+            "id": 858,
+            "name": "게임 태그 858",
+            "value": 58453
+          },
+          {
+            "id": 1333,
+            "name": "추방자",
+            "value": 1
+          }
+        ],
+        "nativeRawText": "카드를 뽑습니다.\n<b>추방자:</b> 카드를 추가로 뽑습니다.",
+        "nativeTextBuilder": 0,
+        "englishName": "Spectral Sight",
+        "root": true,
+        "relatedIds": [],
+        "art": "art/CORE_BT_491.png"
+      }
+    }
+  }
+}

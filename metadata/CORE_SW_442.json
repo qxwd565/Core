@@ -1,0 +1,70 @@
+{
+  "schema": "hscard-date-metadata-1",
+  "id": "CORE_SW_442",
+  "timezone": "Asia/Seoul",
+  "release": {
+    "date": "2021-03-31",
+    "status": "unverified"
+  },
+  "baselineStatus": "partially-verified",
+  "normalization": {
+    "datedExcludedFields": {
+      "2021-03-31": {
+        "nativeSetId": 1637,
+        "set": "CORE",
+        "chooseOne": false,
+        "installed": true,
+        "portrait": "HS23-039_S.tif:4aea688a14cb47098027b5ffee87144c",
+        "flavor": "빛의 파편과 공허의 파편. 무엇을 선택하시겠습니까?",
+        "nativeTags": [
+          {
+            "id": 48,
+            "name": "마나 비용",
+            "value": 4
+          },
+          {
+            "id": 199,
+            "name": "직업",
+            "value": 6
+          },
+          {
+            "id": 202,
+            "name": "카드 유형",
+            "value": 5
+          },
+          {
+            "id": 203,
+            "name": "희귀도",
+            "value": 1
+          },
+          {
+            "id": 321,
+            "name": "수집 가능",
+            "value": 1
+          },
+          {
+            "id": 685,
+            "name": "생명력 흡수",
+            "value": 1
+          },
+          {
+            "id": 858,
+            "name": "게임 태그 858",
+            "value": 64392
+          },
+          {
+            "id": 1635,
+            "name": "주문 속성",
+            "value": 6
+          }
+        ],
+        "nativeRawText": "<b>생명력 흡수</b>\n피해를 $4 줍니다.",
+        "nativeTextBuilder": 0,
+        "englishName": "Void Shard",
+        "root": true,
+        "relatedIds": [],
+        "art": "art/CORE_SW_442.png"
+      }
+    }
+  }
+}

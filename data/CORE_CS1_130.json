@@ -7,74 +7,9 @@
     "type": "SPELL",
     "cardClass": "PRIEST",
     "classes": [],
-    "nativeSetId": 1637,
-    "set": "CORE",
     "rarity": "COMMON",
-    "race": "",
-    "races": [],
     "spellSchool": "HOLY",
     "cost": 1,
-    "attack": 0,
-    "health": 0,
-    "armor": 0,
-    "durability": 0,
-    "collectible": true,
-    "chooseOne": false,
-    "installed": true,
-    "portrait": "WoW_CHI_014_D.psd:3749ebd4893530a42bc9e62f3164a973",
-    "flavor": "생각은 성스럽게, 주먹은 상스럽게.",
-    "nativeTags": [
-      {
-        "id": 48,
-        "name": "마나 비용",
-        "value": 1
-      },
-      {
-        "id": 199,
-        "name": "직업",
-        "value": 6
-      },
-      {
-        "id": 201,
-        "name": "진영",
-        "value": 3
-      },
-      {
-        "id": 202,
-        "name": "카드 유형",
-        "value": 5
-      },
-      {
-        "id": 203,
-        "name": "희귀도",
-        "value": 1
-      },
-      {
-        "id": 251,
-        "name": "게임 태그 251",
-        "value": 5
-      },
-      {
-        "id": 321,
-        "name": "수집 가능",
-        "value": 1
-      },
-      {
-        "id": 858,
-        "name": "게임 태그 858",
-        "value": 279
-      },
-      {
-        "id": 1635,
-        "name": "주문 속성",
-        "value": 5
-      }
-    ],
-    "nativeRawText": "하수인에게 피해를 $3 줍니다.",
-    "nativeTextBuilder": 0,
-    "englishName": "Holy Smite",
-    "root": true,
-    "relatedIds": [],
-    "art": "art/CORE_CS1_130.png"
+    "collectible": true
   }
 }

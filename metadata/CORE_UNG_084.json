@@ -1,0 +1,90 @@
+{
+  "schema": "hscard-date-metadata-1",
+  "id": "CORE_UNG_084",
+  "timezone": "Asia/Seoul",
+  "release": {
+    "date": "2021-03-31",
+    "status": "unverified"
+  },
+  "baselineStatus": "partially-verified",
+  "normalization": {
+    "datedExcludedFields": {
+      "2021-03-31": {
+        "nativeSetId": 1637,
+        "set": "CORE",
+        "chooseOne": false,
+        "installed": true,
+        "portrait": "HS10-060_M.psd:40f982cfab0cfa54dab7134cb3f6c7cf",
+        "flavor": "화산을 조류용 욕조로 쓰면 이렇게 됩니다.",
+        "nativeTags": [
+          {
+            "id": 45,
+            "name": "생명력",
+            "value": 4
+          },
+          {
+            "id": 47,
+            "name": "공격력",
+            "value": 3
+          },
+          {
+            "id": 48,
+            "name": "마나 비용",
+            "value": 4
+          },
+          {
+            "id": 199,
+            "name": "직업",
+            "value": 12
+          },
+          {
+            "id": 200,
+            "name": "종족",
+            "value": 18
+          },
+          {
+            "id": 202,
+            "name": "카드 유형",
+            "value": 4
+          },
+          {
+            "id": 203,
+            "name": "희귀도",
+            "value": 1
+          },
+          {
+            "id": 218,
+            "name": "전투의 함성",
+            "value": 1
+          },
+          {
+            "id": 321,
+            "name": "수집 가능",
+            "value": 1
+          },
+          {
+            "id": 858,
+            "name": "게임 태그 858",
+            "value": 41260
+          },
+          {
+            "id": 1413,
+            "name": "게임 태그 1413",
+            "value": 41260
+          },
+          {
+            "id": 2542,
+            "name": "게임 태그 2542",
+            "value": 1
+          }
+        ],
+        "nativeRawText": "<b>전투의 함성:</b>\n피해를 3 줍니다.",
+        "nativeTextBuilder": 0,
+        "englishName": "Fire Plume Phoenix",
+        "root": true,
+        "relatedIds": [],
+        "art": "art/CORE_UNG_084.png"
+      }
+    }
+  }
+}

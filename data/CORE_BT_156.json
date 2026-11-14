@@ -7,96 +7,14 @@
     "type": "MINION",
     "cardClass": "NEUTRAL",
     "classes": [],
-    "nativeSetId": 1637,
-    "set": "CORE",
     "rarity": "COMMON",
     "race": "악마",
     "races": [
       "DEMON"
     ],
-    "spellSchool": "",
     "cost": 2,
     "attack": 3,
     "health": 5,
-    "armor": 0,
-    "durability": 0,
-    "collectible": true,
-    "chooseOne": false,
-    "installed": true,
-    "portrait": "HS19-272.tif:d6ce35f6f5ff4b5caa4eeaa7990c57d1",
-    "flavor": "급할수록 돌아가야 하는 법이죠.",
-    "nativeTags": [
-      {
-        "id": 45,
-        "name": "생명력",
-        "value": 5
-      },
-      {
-        "id": 47,
-        "name": "공격력",
-        "value": 3
-      },
-      {
-        "id": 48,
-        "name": "마나 비용",
-        "value": 2
-      },
-      {
-        "id": 199,
-        "name": "직업",
-        "value": 12
-      },
-      {
-        "id": 200,
-        "name": "종족",
-        "value": 15
-      },
-      {
-        "id": 202,
-        "name": "카드 유형",
-        "value": 4
-      },
-      {
-        "id": 203,
-        "name": "희귀도",
-        "value": 1
-      },
-      {
-        "id": 321,
-        "name": "수집 가능",
-        "value": 1
-      },
-      {
-        "id": 791,
-        "name": "속공",
-        "value": 1
-      },
-      {
-        "id": 858,
-        "name": "게임 태그 858",
-        "value": 56820
-      },
-      {
-        "id": 1413,
-        "name": "게임 태그 1413",
-        "value": 56820
-      },
-      {
-        "id": 1518,
-        "name": "휴면",
-        "value": 1
-      },
-      {
-        "id": 1652,
-        "name": "게임 태그 1652",
-        "value": 1
-      }
-    ],
-    "nativeRawText": "<b>속공</b>, 2턴 동안\n<b>휴면</b> 상태입니다.",
-    "nativeTextBuilder": 0,
-    "englishName": "Imprisoned Vilefiend",
-    "root": true,
-    "relatedIds": [],
-    "art": "art/CORE_BT_156.png"
+    "collectible": true
   }
 }

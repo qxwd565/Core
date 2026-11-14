@@ -1,0 +1,90 @@
+{
+  "schema": "hscard-date-metadata-1",
+  "id": "CORE_REV_023",
+  "timezone": "Asia/Seoul",
+  "release": {
+    "date": "2021-03-31",
+    "status": "unverified"
+  },
+  "baselineStatus": "partially-verified",
+  "normalization": {
+    "datedExcludedFields": {
+      "2021-03-31": {
+        "nativeSetId": 1637,
+        "set": "CORE",
+        "chooseOne": false,
+        "installed": true,
+        "portrait": "HS26-093_M.tif:709190e985ad4732b77651e2936c464f",
+        "flavor": "\"참 나, 대영주님께서 좀 더 개방된 공간을 원하셨다니까.\"",
+        "nativeTags": [
+          {
+            "id": 45,
+            "name": "생명력",
+            "value": 3
+          },
+          {
+            "id": 47,
+            "name": "공격력",
+            "value": 3
+          },
+          {
+            "id": 48,
+            "name": "마나 비용",
+            "value": 3
+          },
+          {
+            "id": 199,
+            "name": "직업",
+            "value": 12
+          },
+          {
+            "id": 202,
+            "name": "카드 유형",
+            "value": 4
+          },
+          {
+            "id": 203,
+            "name": "희귀도",
+            "value": 4
+          },
+          {
+            "id": 218,
+            "name": "전투의 함성",
+            "value": 1
+          },
+          {
+            "id": 321,
+            "name": "수집 가능",
+            "value": 1
+          },
+          {
+            "id": 858,
+            "name": "게임 태그 858",
+            "value": 79990
+          },
+          {
+            "id": 1413,
+            "name": "게임 태그 1413",
+            "value": 79990
+          },
+          {
+            "id": 1720,
+            "name": "교환성",
+            "value": 1
+          },
+          {
+            "id": 1743,
+            "name": "덱 행동 비용",
+            "value": 1
+          }
+        ],
+        "nativeRawText": "<b>교환성</b>\n<b>전투의 함성:</b> 적 장소를 파괴합니다.",
+        "nativeTextBuilder": 0,
+        "englishName": "Demolition Renovator",
+        "root": true,
+        "relatedIds": [],
+        "art": "art/CORE_REV_023.png"
+      }
+    }
+  }
+}

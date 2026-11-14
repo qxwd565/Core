@@ -7,84 +7,10 @@
     "type": "MINION",
     "cardClass": "MAGE",
     "classes": [],
-    "nativeSetId": 1637,
-    "set": "CORE",
     "rarity": "EPIC",
-    "race": "",
-    "races": [],
-    "spellSchool": "",
     "cost": 7,
     "attack": 5,
     "health": 5,
-    "armor": 0,
-    "durability": 0,
-    "collectible": true,
-    "chooseOne": false,
-    "installed": true,
-    "portrait": "HS14-023_M.psd:ebbeeb15a9c64e14abe6a45caf554a52",
-    "flavor": "안토니다스가 등장할 징조로군요.",
-    "nativeTags": [
-      {
-        "id": 45,
-        "name": "생명력",
-        "value": 5
-      },
-      {
-        "id": 47,
-        "name": "공격력",
-        "value": 5
-      },
-      {
-        "id": 48,
-        "name": "마나 비용",
-        "value": 7
-      },
-      {
-        "id": 199,
-        "name": "직업",
-        "value": 4
-      },
-      {
-        "id": 202,
-        "name": "카드 유형",
-        "value": 4
-      },
-      {
-        "id": 203,
-        "name": "희귀도",
-        "value": 4
-      },
-      {
-        "id": 218,
-        "name": "전투의 함성",
-        "value": 1
-      },
-      {
-        "id": 321,
-        "name": "수집 가능",
-        "value": 1
-      },
-      {
-        "id": 858,
-        "name": "게임 태그 858",
-        "value": 48195
-      },
-      {
-        "id": 1413,
-        "name": "게임 태그 1413",
-        "value": 48195
-      },
-      {
-        "id": 4533,
-        "name": "제작 결과 능력",
-        "value": 1
-      }
-    ],
-    "nativeRawText": "<b>전투의 함성</b>:& 내 손에 있는 카드 수와 같은 비용의 무작위 하수인을 소환합니다.",
-    "nativeTextBuilder": 0,
-    "englishName": "Astromancer",
-    "root": true,
-    "relatedIds": [],
-    "art": "art/CORE_BOT_256.png"
+    "collectible": true
   }
 }

@@ -1,0 +1,80 @@
+{
+  "schema": "hscard-date-metadata-1",
+  "id": "CORE_NEW1_021",
+  "timezone": "Asia/Seoul",
+  "release": {
+    "date": "2021-03-31",
+    "status": "unverified"
+  },
+  "baselineStatus": "partially-verified",
+  "normalization": {
+    "datedExcludedFields": {
+      "2021-03-31": {
+        "nativeSetId": 1637,
+        "set": "CORE",
+        "chooseOne": false,
+        "installed": true,
+        "portrait": "W2_209_D.psd:3d115c3e66cedde428f9ce1b65355f54",
+        "flavor": "그의 예언은 가끔씩 들어맞습니다. 특히 대격변이 한창인 와중에 자신에게 파멸이 찾아올 거라는 말은 분명히 맞았습니다.",
+        "nativeTags": [
+          {
+            "id": 32,
+            "name": "발동 효과 표시",
+            "value": 1
+          },
+          {
+            "id": 45,
+            "name": "생명력",
+            "value": 7
+          },
+          {
+            "id": 48,
+            "name": "마나 비용",
+            "value": 2
+          },
+          {
+            "id": 199,
+            "name": "직업",
+            "value": 12
+          },
+          {
+            "id": 202,
+            "name": "카드 유형",
+            "value": 4
+          },
+          {
+            "id": 203,
+            "name": "희귀도",
+            "value": 4
+          },
+          {
+            "id": 321,
+            "name": "수집 가능",
+            "value": 1
+          },
+          {
+            "id": 858,
+            "name": "게임 태그 858",
+            "value": 138
+          },
+          {
+            "id": 4533,
+            "name": "제작 결과 능력",
+            "value": 1
+          },
+          {
+            "id": 4547,
+            "name": "게임 태그 4547",
+            "value": 1
+          }
+        ],
+        "nativeRawText": "내 턴이 시작될 때,& 모든 하수인을 처치합니다.",
+        "nativeTextBuilder": 0,
+        "englishName": "Doomsayer",
+        "root": true,
+        "relatedIds": [],
+        "art": "art/CORE_NEW1_021.png"
+      }
+    }
+  }
+}

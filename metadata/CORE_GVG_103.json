@@ -1,0 +1,85 @@
+{
+  "schema": "hscard-date-metadata-1",
+  "id": "CORE_GVG_103",
+  "timezone": "Asia/Seoul",
+  "release": {
+    "date": "2021-03-31",
+    "status": "unverified"
+  },
+  "baselineStatus": "partially-verified",
+  "normalization": {
+    "datedExcludedFields": {
+      "2021-03-31": {
+        "nativeSetId": 1637,
+        "set": "CORE",
+        "chooseOne": false,
+        "installed": true,
+        "portrait": "WV12_a005_D.psd:ae13df5676088634c9dd187e89a76bdc",
+        "flavor": "소형 기계는 너무 크고 극소형 기계는 너무 작다고 하시는 분들께 권해드립니다.",
+        "nativeTags": [
+          {
+            "id": 32,
+            "name": "발동 효과 표시",
+            "value": 1
+          },
+          {
+            "id": 45,
+            "name": "생명력",
+            "value": 2
+          },
+          {
+            "id": 47,
+            "name": "공격력",
+            "value": 1
+          },
+          {
+            "id": 48,
+            "name": "마나 비용",
+            "value": 2
+          },
+          {
+            "id": 199,
+            "name": "직업",
+            "value": 12
+          },
+          {
+            "id": 200,
+            "name": "종족",
+            "value": 17
+          },
+          {
+            "id": 202,
+            "name": "카드 유형",
+            "value": 4
+          },
+          {
+            "id": 203,
+            "name": "희귀도",
+            "value": 1
+          },
+          {
+            "id": 321,
+            "name": "수집 가능",
+            "value": 1
+          },
+          {
+            "id": 858,
+            "name": "게임 태그 858",
+            "value": 2071
+          },
+          {
+            "id": 1413,
+            "name": "게임 태그 1413",
+            "value": 2071
+          }
+        ],
+        "nativeRawText": "매 턴이 시작될 때, 공격력을 +1 얻습니다.",
+        "nativeTextBuilder": 0,
+        "englishName": "Micro Machine",
+        "root": true,
+        "relatedIds": [],
+        "art": "art/CORE_GVG_103.png"
+      }
+    }
+  }
+}

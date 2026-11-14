@@ -7,84 +7,10 @@
     "type": "MINION",
     "cardClass": "NEUTRAL",
     "classes": [],
-    "nativeSetId": 1637,
-    "set": "CORE",
     "rarity": "LEGENDARY",
-    "race": "",
-    "races": [],
-    "spellSchool": "",
     "cost": 9,
     "attack": 5,
     "health": 5,
-    "armor": 0,
-    "durability": 0,
-    "collectible": true,
-    "chooseOne": false,
-    "installed": true,
-    "portrait": "LC27-061_M.tif:cbbe7520382a420289d8a02f6b412ea0",
-    "flavor": "휴대용 하스스톤을 소개합니다!",
-    "nativeTags": [
-      {
-        "id": 45,
-        "name": "생명력",
-        "value": 5
-      },
-      {
-        "id": 47,
-        "name": "공격력",
-        "value": 5
-      },
-      {
-        "id": 48,
-        "name": "마나 비용",
-        "value": 9
-      },
-      {
-        "id": 114,
-        "name": "전설 속성",
-        "value": 1
-      },
-      {
-        "id": 199,
-        "name": "직업",
-        "value": 12
-      },
-      {
-        "id": 202,
-        "name": "카드 유형",
-        "value": 4
-      },
-      {
-        "id": 203,
-        "name": "희귀도",
-        "value": 5
-      },
-      {
-        "id": 218,
-        "name": "전투의 함성",
-        "value": 1
-      },
-      {
-        "id": 321,
-        "name": "수집 가능",
-        "value": 1
-      },
-      {
-        "id": 858,
-        "name": "게임 태그 858",
-        "value": 102691
-      },
-      {
-        "id": 1413,
-        "name": "게임 태그 1413",
-        "value": 102691
-      }
-    ],
-    "nativeRawText": "[x]<b>전투의 함성:</b>\n정규 카드 팩을 개봉합니다.\n그 팩에서 나오는 모든\n카드를 냅니다.",
-    "nativeTextBuilder": 0,
-    "englishName": "Avatar of Hearthstone",
-    "root": true,
-    "relatedIds": [],
-    "art": "art/CORE_WON_145.png"
+    "collectible": true
   }
 }

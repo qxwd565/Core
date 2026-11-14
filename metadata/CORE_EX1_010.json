@@ -1,0 +1,95 @@
+{
+  "schema": "hscard-date-metadata-1",
+  "id": "CORE_EX1_010",
+  "timezone": "Asia/Seoul",
+  "release": {
+    "date": "2021-03-31",
+    "status": "unverified"
+  },
+  "baselineStatus": "partially-verified",
+  "normalization": {
+    "datedExcludedFields": {
+      "2021-03-31": {
+        "nativeSetId": 1637,
+        "set": "CORE",
+        "chooseOne": false,
+        "installed": true,
+        "portrait": "W14_a113_D.png:14783e05e2dc3054988ea90cc9bf86a4",
+        "flavor": "늑대인간이 침투하지 못하게 만드는 방법은 간단합니다. 함정 위에 개껌을 던져두세요.",
+        "nativeTags": [
+          {
+            "id": 45,
+            "name": "생명력",
+            "value": 1
+          },
+          {
+            "id": 47,
+            "name": "공격력",
+            "value": 2
+          },
+          {
+            "id": 48,
+            "name": "마나 비용",
+            "value": 1
+          },
+          {
+            "id": 114,
+            "name": "전설 속성",
+            "value": 0
+          },
+          {
+            "id": 191,
+            "name": "은신",
+            "value": 1
+          },
+          {
+            "id": 199,
+            "name": "직업",
+            "value": 12
+          },
+          {
+            "id": 201,
+            "name": "진영",
+            "value": 2
+          },
+          {
+            "id": 202,
+            "name": "카드 유형",
+            "value": 4
+          },
+          {
+            "id": 203,
+            "name": "희귀도",
+            "value": 1
+          },
+          {
+            "id": 251,
+            "name": "게임 태그 251",
+            "value": 6
+          },
+          {
+            "id": 268,
+            "name": "게임 태그 268",
+            "value": 2
+          },
+          {
+            "id": 321,
+            "name": "수집 가능",
+            "value": 1
+          },
+          {
+            "id": 858,
+            "name": "게임 태그 858",
+            "value": 994
+          }
+        ],
+        "nativeRawText": "<b>은신</b>",
+        "nativeTextBuilder": 0,
+        "englishName": "Worgen Infiltrator",
+        "root": true,
+        "relatedIds": [],
+        "art": "art/CORE_EX1_010.png"
+      }
+    }
+  }
+}

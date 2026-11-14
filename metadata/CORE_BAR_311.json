@@ -1,0 +1,80 @@
+{
+  "schema": "hscard-date-metadata-1",
+  "id": "CORE_BAR_311",
+  "timezone": "Asia/Seoul",
+  "release": {
+    "date": "2021-03-31",
+    "status": "unverified"
+  },
+  "baselineStatus": "partially-verified",
+  "normalization": {
+    "datedExcludedFields": {
+      "2021-03-31": {
+        "nativeSetId": 1637,
+        "set": "CORE",
+        "chooseOne": false,
+        "installed": true,
+        "portrait": "HS22-049_S.tif:985f844f2f3e4279ab770881b1c1e172",
+        "flavor": "“어쩌다가 울둠에서 이걸 놓쳤지?” — 라팜",
+        "nativeTags": [
+          {
+            "id": 48,
+            "name": "마나 비용",
+            "value": 3
+          },
+          {
+            "id": 199,
+            "name": "직업",
+            "value": 6
+          },
+          {
+            "id": 202,
+            "name": "카드 유형",
+            "value": 5
+          },
+          {
+            "id": 203,
+            "name": "희귀도",
+            "value": 1
+          },
+          {
+            "id": 321,
+            "name": "수집 가능",
+            "value": 1
+          },
+          {
+            "id": 349,
+            "name": "게임 태그 349",
+            "value": 1
+          },
+          {
+            "id": 685,
+            "name": "생명력 흡수",
+            "value": 1
+          },
+          {
+            "id": 858,
+            "name": "게임 태그 858",
+            "value": 62875
+          },
+          {
+            "id": 1413,
+            "name": "게임 태그 1413",
+            "value": 62875
+          },
+          {
+            "id": 1635,
+            "name": "주문 속성",
+            "value": 6
+          }
+        ],
+        "nativeRawText": "<b>생명력 흡수</b>\n모든 적 하수인에게\n$4의 피해를 무작위로 나누어 입힙니다.",
+        "nativeTextBuilder": 0,
+        "englishName": "Devouring Plague",
+        "root": true,
+        "relatedIds": [],
+        "art": "art/CORE_BAR_311.png"
+      }
+    }
+  }
+}

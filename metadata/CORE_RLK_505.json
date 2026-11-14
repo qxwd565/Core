@@ -1,0 +1,95 @@
+{
+  "schema": "hscard-date-metadata-1",
+  "id": "CORE_RLK_505",
+  "timezone": "Asia/Seoul",
+  "release": {
+    "date": "2021-03-31",
+    "status": "unverified"
+  },
+  "baselineStatus": "partially-verified",
+  "normalization": {
+    "datedExcludedFields": {
+      "2021-03-31": {
+        "nativeSetId": 1637,
+        "set": "CORE",
+        "chooseOne": false,
+        "installed": true,
+        "portrait": "CLA-083_M.tif:869f3373d09e4cebaf189dc696b893a3",
+        "flavor": "추가로 칼슘을 1000mg 부여합니다.",
+        "nativeTags": [
+          {
+            "id": 45,
+            "name": "생명력",
+            "value": 5
+          },
+          {
+            "id": 47,
+            "name": "공격력",
+            "value": 5
+          },
+          {
+            "id": 48,
+            "name": "마나 비용",
+            "value": 6
+          },
+          {
+            "id": 199,
+            "name": "직업",
+            "value": 1
+          },
+          {
+            "id": 200,
+            "name": "종족",
+            "value": 11
+          },
+          {
+            "id": 202,
+            "name": "카드 유형",
+            "value": 4
+          },
+          {
+            "id": 203,
+            "name": "희귀도",
+            "value": 3
+          },
+          {
+            "id": 218,
+            "name": "전투의 함성",
+            "value": 1
+          },
+          {
+            "id": 321,
+            "name": "수집 가능",
+            "value": 1
+          },
+          {
+            "id": 858,
+            "name": "게임 태그 858",
+            "value": 80822
+          },
+          {
+            "id": 2197,
+            "name": "냉기 룬",
+            "value": 2
+          },
+          {
+            "id": 2559,
+            "name": "시체",
+            "value": 1
+          },
+          {
+            "id": 4058,
+            "name": "시체 소모",
+            "value": 1
+          }
+        ],
+        "nativeRawText": "<b>전투의 함성:</b> <b>시체</b>를 최대 5개 소모합니다. 소모한 시체의 수만큼 무작위 적에게 피해를 2씩 줍니다.",
+        "nativeTextBuilder": 0,
+        "englishName": "Marrow Manipulator",
+        "root": true,
+        "relatedIds": [],
+        "art": "art/CORE_RLK_505.png"
+      }
+    }
+  }
+}

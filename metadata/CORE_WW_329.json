@@ -1,0 +1,95 @@
+{
+  "schema": "hscard-date-metadata-1",
+  "id": "CORE_WW_329",
+  "timezone": "Asia/Seoul",
+  "release": {
+    "date": "2021-03-31",
+    "status": "unverified"
+  },
+  "baselineStatus": "partially-verified",
+  "normalization": {
+    "datedExcludedFields": {
+      "2021-03-31": {
+        "nativeSetId": 1637,
+        "set": "CORE",
+        "chooseOne": false,
+        "installed": true,
+        "portrait": "HS30-147_M.tif:56fafe5898cb1154fba0d0c3d72dc0c3",
+        "flavor": "다이너마이트 뭉치 하나 던지자고 거대 로봇에 탑승할 필요는 있었나요?",
+        "nativeTags": [
+          {
+            "id": 45,
+            "name": "생명력",
+            "value": 4
+          },
+          {
+            "id": 47,
+            "name": "공격력",
+            "value": 3
+          },
+          {
+            "id": 48,
+            "name": "마나 비용",
+            "value": 4
+          },
+          {
+            "id": 190,
+            "name": "도발",
+            "value": 1
+          },
+          {
+            "id": 199,
+            "name": "직업",
+            "value": 10
+          },
+          {
+            "id": 200,
+            "name": "종족",
+            "value": 17
+          },
+          {
+            "id": 202,
+            "name": "카드 유형",
+            "value": 4
+          },
+          {
+            "id": 203,
+            "name": "희귀도",
+            "value": 1
+          },
+          {
+            "id": 218,
+            "name": "전투의 함성",
+            "value": 1
+          },
+          {
+            "id": 321,
+            "name": "수집 가능",
+            "value": 1
+          },
+          {
+            "id": 858,
+            "name": "게임 태그 858",
+            "value": 100062
+          },
+          {
+            "id": 1413,
+            "name": "게임 태그 1413",
+            "value": 100062
+          },
+          {
+            "id": 4533,
+            "name": "제작 결과 능력",
+            "value": 1
+          }
+        ],
+        "nativeRawText": "[x]<b>도발</b>, <b>전투의 함성</b>:& 내 손에\n있는 모든 <b>도발</b> 하수인에게\n+2/+2를 부여합니다.",
+        "nativeTextBuilder": 0,
+        "englishName": "Detonation Juggernaut",
+        "root": true,
+        "relatedIds": [],
+        "art": "art/CORE_WW_329.png"
+      }
+    }
+  }
+}

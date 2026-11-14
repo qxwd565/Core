@@ -1,0 +1,80 @@
+{
+  "schema": "hscard-date-metadata-1",
+  "id": "CORE_LOOT_137",
+  "timezone": "Asia/Seoul",
+  "release": {
+    "date": "2021-03-31",
+    "status": "unverified"
+  },
+  "baselineStatus": "partially-verified",
+  "normalization": {
+    "datedExcludedFields": {
+      "2021-03-31": {
+        "nativeSetId": 1637,
+        "set": "CORE",
+        "chooseOne": false,
+        "installed": true,
+        "portrait": "HS12-091a_M.psd:eac1189da6e46b54ca69fcac41703044",
+        "flavor": "전투 중에 잠들면 어쩌나 걱정이 됩니다.",
+        "nativeTags": [
+          {
+            "id": 45,
+            "name": "생명력",
+            "value": 12
+          },
+          {
+            "id": 47,
+            "name": "공격력",
+            "value": 6
+          },
+          {
+            "id": 48,
+            "name": "마나 비용",
+            "value": 9
+          },
+          {
+            "id": 190,
+            "name": "도발",
+            "value": 1
+          },
+          {
+            "id": 199,
+            "name": "직업",
+            "value": 12
+          },
+          {
+            "id": 200,
+            "name": "종족",
+            "value": 24
+          },
+          {
+            "id": 202,
+            "name": "카드 유형",
+            "value": 4
+          },
+          {
+            "id": 203,
+            "name": "희귀도",
+            "value": 1
+          },
+          {
+            "id": 321,
+            "name": "수집 가능",
+            "value": 1
+          },
+          {
+            "id": 858,
+            "name": "게임 태그 858",
+            "value": 43494
+          }
+        ],
+        "nativeRawText": "<b>도발</b>",
+        "nativeTextBuilder": 0,
+        "englishName": "Sleepy Dragon",
+        "root": true,
+        "relatedIds": [],
+        "art": "art/CORE_LOOT_137.png"
+      }
+    }
+  }
+}

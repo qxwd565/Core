@@ -1,0 +1,65 @@
+{
+  "schema": "hscard-date-metadata-1",
+  "id": "CORE_BT_292",
+  "timezone": "Asia/Seoul",
+  "release": {
+    "date": "2021-03-31",
+    "status": "unverified"
+  },
+  "baselineStatus": "partially-verified",
+  "normalization": {
+    "datedExcludedFields": {
+      "2021-03-31": {
+        "nativeSetId": 1637,
+        "set": "CORE",
+        "chooseOne": false,
+        "installed": true,
+        "portrait": "HS19-075.tif:342acb68ffd8493ca1732524544a809a",
+        "flavor": "아달의 수호자가 되는 것은 험난하지만 위대한 업적이라 할 수 있습니다.",
+        "nativeTags": [
+          {
+            "id": 48,
+            "name": "마나 비용",
+            "value": 2
+          },
+          {
+            "id": 199,
+            "name": "직업",
+            "value": 5
+          },
+          {
+            "id": 202,
+            "name": "카드 유형",
+            "value": 5
+          },
+          {
+            "id": 203,
+            "name": "희귀도",
+            "value": 1
+          },
+          {
+            "id": 321,
+            "name": "수집 가능",
+            "value": 1
+          },
+          {
+            "id": 858,
+            "name": "게임 태그 858",
+            "value": 57546
+          },
+          {
+            "id": 1635,
+            "name": "주문 속성",
+            "value": 5
+          }
+        ],
+        "nativeRawText": "하수인에게 +2/+1을 부여합니다. 카드를 뽑습니다.",
+        "nativeTextBuilder": 0,
+        "englishName": "Hand of A'dal",
+        "root": true,
+        "relatedIds": [],
+        "art": "art/CORE_BT_292.png"
+      }
+    }
+  }
+}

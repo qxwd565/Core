@@ -7,88 +7,8 @@
     "type": "SPELL",
     "cardClass": "DRUID",
     "classes": [],
-    "nativeSetId": 1637,
-    "set": "CORE",
     "rarity": "COMMON",
-    "race": "",
-    "races": [],
-    "spellSchool": "",
     "cost": 2,
-    "attack": 0,
-    "health": 0,
-    "armor": 0,
-    "durability": 0,
-    "collectible": true,
-    "chooseOne": true,
-    "installed": true,
-    "portrait": "W17_a030_D.psd:f3e7bd574425c3940af3c63e73ad60eb",
-    "flavor": "표범을 만났을 땐 표범과 눈을 마주치지 마십시오. 아니, '계속 표범의 눈을 보십시오'였던가? 뭐 둘 중 하나였던 것 같습니다.",
-    "nativeTags": [
-      {
-        "id": 48,
-        "name": "마나 비용",
-        "value": 2
-      },
-      {
-        "id": 114,
-        "name": "전설 속성",
-        "value": 0
-      },
-      {
-        "id": 199,
-        "name": "직업",
-        "value": 2
-      },
-      {
-        "id": 201,
-        "name": "진영",
-        "value": 3
-      },
-      {
-        "id": 202,
-        "name": "카드 유형",
-        "value": 5
-      },
-      {
-        "id": 203,
-        "name": "희귀도",
-        "value": 1
-      },
-      {
-        "id": 321,
-        "name": "수집 가능",
-        "value": 1
-      },
-      {
-        "id": 330,
-        "name": "효과 생성 시각 효과",
-        "value": 0
-      },
-      {
-        "id": 331,
-        "name": "효과 지속 시각 효과",
-        "value": 0
-      },
-      {
-        "id": 443,
-        "name": "선택",
-        "value": 1
-      },
-      {
-        "id": 858,
-        "name": "게임 태그 858",
-        "value": 503
-      }
-    ],
-    "nativeRawText": "<b>선택 -</b> 내 하수인들에게 +1/+1을 부여합니다. 또는 3/2 표범을 소환합니다.",
-    "nativeTextBuilder": 0,
-    "englishName": "Power of the Wild",
-    "root": true,
-    "relatedIds": [
-      835,
-      60,
-      812
-    ],
-    "art": "art/CORE_EX1_160.png"
+    "collectible": true
   }
 }

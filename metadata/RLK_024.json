@@ -1,0 +1,65 @@
+{
+  "schema": "hscard-date-metadata-1",
+  "id": "RLK_024",
+  "timezone": "Asia/Seoul",
+  "release": {
+    "date": "2022-12-07",
+    "status": "unverified"
+  },
+  "baselineStatus": "partially-verified",
+  "normalization": {
+    "datedExcludedFields": {
+      "2022-12-07": {
+        "nativeSetId": 1637,
+        "set": "CORE",
+        "chooseOne": false,
+        "installed": true,
+        "portrait": "CLA-072_S.tif:c694b1d261e14c9fb06678b506a34cbf",
+        "flavor": "큰 하수인에게 쓰다니 겁먹었나요?",
+        "nativeTags": [
+          {
+            "id": 48,
+            "name": "마나 비용",
+            "value": 4
+          },
+          {
+            "id": 199,
+            "name": "직업",
+            "value": 1
+          },
+          {
+            "id": 202,
+            "name": "카드 유형",
+            "value": 5
+          },
+          {
+            "id": 203,
+            "name": "희귀도",
+            "value": 1
+          },
+          {
+            "id": 321,
+            "name": "수집 가능",
+            "value": 1
+          },
+          {
+            "id": 685,
+            "name": "생명력 흡수",
+            "value": 1
+          },
+          {
+            "id": 2196,
+            "name": "혈기 룬",
+            "value": 1
+          }
+        ],
+        "nativeRawText": "<b>생명력 흡수</b>\n하수인에게 피해를\n$6 줍니다.",
+        "nativeTextBuilder": 0,
+        "englishName": "Death Strike",
+        "root": true,
+        "relatedIds": [],
+        "art": "art/RLK_024.png"
+      }
+    }
+  }
+}

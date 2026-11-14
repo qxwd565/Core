@@ -1,0 +1,85 @@
+{
+  "schema": "hscard-date-metadata-1",
+  "id": "CORE_AV_107",
+  "timezone": "Asia/Seoul",
+  "release": {
+    "date": "2021-03-31",
+    "status": "unverified"
+  },
+  "baselineStatus": "partially-verified",
+  "normalization": {
+    "datedExcludedFields": {
+      "2021-03-31": {
+        "nativeSetId": 1637,
+        "set": "CORE",
+        "chooseOne": false,
+        "installed": true,
+        "portrait": "HS24-138_S.tif:4a0ed295d7b54606a7bb7649afd69fda",
+        "flavor": "\"얼어붙는 것보다 차가운 게 있을까?\"에 대한 해답입니다.",
+        "nativeTags": [
+          {
+            "id": 48,
+            "name": "마나 비용",
+            "value": 6
+          },
+          {
+            "id": 199,
+            "name": "직업",
+            "value": 8
+          },
+          {
+            "id": 202,
+            "name": "카드 유형",
+            "value": 5
+          },
+          {
+            "id": 203,
+            "name": "희귀도",
+            "value": 3
+          },
+          {
+            "id": 208,
+            "name": "빙결",
+            "value": 1
+          },
+          {
+            "id": 321,
+            "name": "수집 가능",
+            "value": 1
+          },
+          {
+            "id": 415,
+            "name": "발견",
+            "value": 1
+          },
+          {
+            "id": 858,
+            "name": "게임 태그 858",
+            "value": 67192
+          },
+          {
+            "id": 1342,
+            "name": "발견 시각 효과",
+            "value": 1
+          },
+          {
+            "id": 1413,
+            "name": "게임 태그 1413",
+            "value": 67192
+          },
+          {
+            "id": 1635,
+            "name": "주문 속성",
+            "value": 3
+          }
+        ],
+        "nativeRawText": "비용이 8인 하수인을 <b>발견</b>합니다. 그 하수인을 소환하고 <b>빙결</b> 상태로 만듭니다.",
+        "nativeTextBuilder": 0,
+        "englishName": "Glaciate",
+        "root": true,
+        "relatedIds": [],
+        "art": "art/CORE_AV_107.png"
+      }
+    }
+  }
+}

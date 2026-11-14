@@ -1,0 +1,90 @@
+{
+  "schema": "hscard-date-metadata-1",
+  "id": "CORE_CS2_029",
+  "timezone": "Asia/Seoul",
+  "release": {
+    "date": "2021-03-31",
+    "status": "unverified"
+  },
+  "baselineStatus": "partially-verified",
+  "normalization": {
+    "datedExcludedFields": {
+      "2021-03-31": {
+        "nativeSetId": 1637,
+        "set": "CORE",
+        "chooseOne": false,
+        "installed": true,
+        "portrait": "W15_A087_D.psd:c33a12d3e475a6241a38c9f3456d84c2",
+        "flavor": "이 주문은 뭐든 불태울 때 좋습니다. 혹시 뭔가 살짝 굽거나 따뜻하게 만드는 주문을 찾으셨다면 죄송합니다.",
+        "nativeTags": [
+          {
+            "id": 48,
+            "name": "마나 비용",
+            "value": 4
+          },
+          {
+            "id": 199,
+            "name": "직업",
+            "value": 4
+          },
+          {
+            "id": 201,
+            "name": "진영",
+            "value": 3
+          },
+          {
+            "id": 202,
+            "name": "카드 유형",
+            "value": 5
+          },
+          {
+            "id": 203,
+            "name": "희귀도",
+            "value": 1
+          },
+          {
+            "id": 251,
+            "name": "게임 태그 251",
+            "value": 3
+          },
+          {
+            "id": 268,
+            "name": "게임 태그 268",
+            "value": 2
+          },
+          {
+            "id": 321,
+            "name": "수집 가능",
+            "value": 1
+          },
+          {
+            "id": 330,
+            "name": "효과 생성 시각 효과",
+            "value": 0
+          },
+          {
+            "id": 331,
+            "name": "효과 지속 시각 효과",
+            "value": 0
+          },
+          {
+            "id": 858,
+            "name": "게임 태그 858",
+            "value": 315
+          },
+          {
+            "id": 1635,
+            "name": "주문 속성",
+            "value": 2
+          }
+        ],
+        "nativeRawText": "피해를 $6 줍니다.",
+        "nativeTextBuilder": 0,
+        "englishName": "Fireball",
+        "root": true,
+        "relatedIds": [],
+        "art": "art/CORE_CS2_029.png"
+      }
+    }
+  }
+}

@@ -1,0 +1,90 @@
+{
+  "schema": "hscard-date-metadata-1",
+  "id": "CORE_CS2_032",
+  "timezone": "Asia/Seoul",
+  "release": {
+    "date": "2021-03-31",
+    "status": "unverified"
+  },
+  "baselineStatus": "partially-verified",
+  "normalization": {
+    "datedExcludedFields": {
+      "2021-03-31": {
+        "nativeSetId": 1637,
+        "set": "CORE",
+        "chooseOne": false,
+        "installed": true,
+        "portrait": "WOW_SPE_006(b)_D.psd:d553e8ce7d68785408614a0e669951fb",
+        "flavor": "바닥에 불이 붙었을 땐, 멈춰서서 엎드리고 굴러서는 <i>절대</i> 안 됩니다.",
+        "nativeTags": [
+          {
+            "id": 48,
+            "name": "마나 비용",
+            "value": 7
+          },
+          {
+            "id": 199,
+            "name": "직업",
+            "value": 4
+          },
+          {
+            "id": 201,
+            "name": "진영",
+            "value": 3
+          },
+          {
+            "id": 202,
+            "name": "카드 유형",
+            "value": 5
+          },
+          {
+            "id": 203,
+            "name": "희귀도",
+            "value": 4
+          },
+          {
+            "id": 251,
+            "name": "게임 태그 251",
+            "value": 1
+          },
+          {
+            "id": 268,
+            "name": "게임 태그 268",
+            "value": 2
+          },
+          {
+            "id": 321,
+            "name": "수집 가능",
+            "value": 1
+          },
+          {
+            "id": 330,
+            "name": "효과 생성 시각 효과",
+            "value": 0
+          },
+          {
+            "id": 331,
+            "name": "효과 지속 시각 효과",
+            "value": 0
+          },
+          {
+            "id": 858,
+            "name": "게임 태그 858",
+            "value": 1004
+          },
+          {
+            "id": 1635,
+            "name": "주문 속성",
+            "value": 2
+          }
+        ],
+        "nativeRawText": "[x]모든 적 하수인에게\n피해를 $5 줍니다.",
+        "nativeTextBuilder": 0,
+        "englishName": "Flamestrike",
+        "root": true,
+        "relatedIds": [],
+        "art": "art/CORE_CS2_032.png"
+      }
+    }
+  }
+}

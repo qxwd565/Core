@@ -7,49 +7,8 @@
     "type": "SPELL",
     "cardClass": "NEUTRAL",
     "classes": [],
-    "nativeSetId": 1637,
-    "set": "CORE",
     "rarity": null,
-    "race": "",
-    "races": [],
-    "spellSchool": "",
     "cost": 0,
-    "attack": 0,
-    "health": 0,
-    "armor": 0,
-    "durability": 0,
-    "collectible": false,
-    "chooseOne": false,
-    "installed": true,
-    "portrait": "coin_D.psd:5839c0547088885449a462a81548aca9",
-    "flavor": "",
-    "nativeTags": [
-      {
-        "id": 199,
-        "name": "직업",
-        "value": 12
-      },
-      {
-        "id": 202,
-        "name": "카드 유형",
-        "value": 5
-      },
-      {
-        "id": 1107,
-        "name": "HIDE_WATERMARK",
-        "value": 1
-      },
-      {
-        "id": 2088,
-        "name": "COIN_CARD",
-        "value": 1
-      }
-    ],
-    "nativeRawText": "이번 턴에만 마나 수정을 1개 얻습니다.",
-    "nativeTextBuilder": 0,
-    "englishName": "The Coin",
-    "root": false,
-    "relatedIds": [],
-    "art": "art/GAME_005.png"
+    "collectible": false
   }
 }

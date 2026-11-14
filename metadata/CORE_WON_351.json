@@ -1,0 +1,80 @@
+{
+  "schema": "hscard-date-metadata-1",
+  "id": "CORE_WON_351",
+  "timezone": "Asia/Seoul",
+  "release": {
+    "date": "2021-03-31",
+    "status": "unverified"
+  },
+  "baselineStatus": "partially-verified",
+  "normalization": {
+    "datedExcludedFields": {
+      "2021-03-31": {
+        "nativeSetId": 1637,
+        "set": "CORE",
+        "chooseOne": false,
+        "installed": true,
+        "portrait": "HS9-038_M.psd:4a19a0ead46005944895655d9c5fffa9",
+        "flavor": "\"아, 그냥 여가 시간에만 하는 거예요. 주중에는 저도 출근해야 하거든요.\"",
+        "nativeTags": [
+          {
+            "id": 45,
+            "name": "생명력",
+            "value": 2
+          },
+          {
+            "id": 47,
+            "name": "공격력",
+            "value": 1
+          },
+          {
+            "id": 48,
+            "name": "마나 비용",
+            "value": 1
+          },
+          {
+            "id": 199,
+            "name": "직업",
+            "value": 12
+          },
+          {
+            "id": 200,
+            "name": "종족",
+            "value": 23
+          },
+          {
+            "id": 202,
+            "name": "카드 유형",
+            "value": 4
+          },
+          {
+            "id": 203,
+            "name": "희귀도",
+            "value": 3
+          },
+          {
+            "id": 321,
+            "name": "수집 가능",
+            "value": 1
+          },
+          {
+            "id": 858,
+            "name": "게임 태그 858",
+            "value": 40608
+          },
+          {
+            "id": 1413,
+            "name": "게임 태그 1413",
+            "value": 106467
+          }
+        ],
+        "nativeRawText": "내 영웅이 무기를 장착하고 있으면 공격력을 +2 얻습니다.",
+        "nativeTextBuilder": 0,
+        "englishName": "Small-Time Buccaneer",
+        "root": true,
+        "relatedIds": [],
+        "art": "art/CORE_WON_351.png"
+      }
+    }
+  }
+}

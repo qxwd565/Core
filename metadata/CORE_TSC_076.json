@@ -1,0 +1,79 @@
+{
+  "schema": "hscard-date-metadata-1",
+  "id": "CORE_TSC_076",
+  "timezone": "Asia/Seoul",
+  "release": {
+    "date": "2021-03-31",
+    "status": "unverified"
+  },
+  "baselineStatus": "partially-verified",
+  "normalization": {
+    "datedExcludedFields": {
+      "2021-03-31": {
+        "nativeSetId": 1637,
+        "set": "CORE",
+        "chooseOne": false,
+        "installed": true,
+        "portrait": "HS25-217_S.tif:8c9eb4bea55649c78d196b81369aef2c",
+        "flavor": "'<b>죽음의 메아리:</b> 영생을 잃음.' 능력이 숨겨져 있습니다.",
+        "nativeTags": [
+          {
+            "id": 48,
+            "name": "마나 비용",
+            "value": 7
+          },
+          {
+            "id": 190,
+            "name": "도발",
+            "value": 1
+          },
+          {
+            "id": 199,
+            "name": "직업",
+            "value": 5
+          },
+          {
+            "id": 202,
+            "name": "카드 유형",
+            "value": 5
+          },
+          {
+            "id": 203,
+            "name": "희귀도",
+            "value": 1
+          },
+          {
+            "id": 321,
+            "name": "수집 가능",
+            "value": 1
+          },
+          {
+            "id": 858,
+            "name": "게임 태그 858",
+            "value": 80112
+          },
+          {
+            "id": 1413,
+            "name": "게임 태그 1413",
+            "value": 80112
+          },
+          {
+            "id": 1635,
+            "name": "주문 속성",
+            "value": 5
+          }
+        ],
+        "nativeRawText": "<b>도발</b> 능력이 있는 4/8, 2/4, 1/2 정령을 소환합니다.",
+        "nativeTextBuilder": 0,
+        "englishName": "Immortalized in Stone",
+        "root": true,
+        "relatedIds": [
+          80113,
+          80115,
+          80116
+        ],
+        "art": "art/CORE_TSC_076.png"
+      }
+    }
+  }
+}

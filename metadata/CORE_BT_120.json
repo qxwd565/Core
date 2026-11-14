@@ -1,0 +1,80 @@
+{
+  "schema": "hscard-date-metadata-1",
+  "id": "CORE_BT_120",
+  "timezone": "Asia/Seoul",
+  "release": {
+    "date": "2021-03-31",
+    "status": "unverified"
+  },
+  "baselineStatus": "partially-verified",
+  "normalization": {
+    "datedExcludedFields": {
+      "2021-03-31": {
+        "nativeSetId": 1637,
+        "set": "CORE",
+        "chooseOne": false,
+        "installed": true,
+        "portrait": "HS19-044.tif:ff2364e4538147ee8c105d9741d69fba",
+        "flavor": "강한 자가 살아남는 게 아니라, 살아남는 자가 강한 법이죠.",
+        "nativeTags": [
+          {
+            "id": 45,
+            "name": "생명력",
+            "value": 10
+          },
+          {
+            "id": 47,
+            "name": "공격력",
+            "value": 1
+          },
+          {
+            "id": 48,
+            "name": "마나 비용",
+            "value": 3
+          },
+          {
+            "id": 199,
+            "name": "직업",
+            "value": 10
+          },
+          {
+            "id": 202,
+            "name": "카드 유형",
+            "value": 4
+          },
+          {
+            "id": 203,
+            "name": "희귀도",
+            "value": 4
+          },
+          {
+            "id": 218,
+            "name": "전투의 함성",
+            "value": 1
+          },
+          {
+            "id": 321,
+            "name": "수집 가능",
+            "value": 1
+          },
+          {
+            "id": 858,
+            "name": "게임 태그 858",
+            "value": 56507
+          },
+          {
+            "id": 1413,
+            "name": "게임 태그 1413",
+            "value": 56507
+          }
+        ],
+        "nativeRawText": "<b>전투의 함성:</b> 적 하수인을 선택합니다. 그 하수인과 죽을 때까지 싸웁니다!",
+        "nativeTextBuilder": 0,
+        "englishName": "Warmaul Challenger",
+        "root": true,
+        "relatedIds": [],
+        "art": "art/CORE_BT_120.png"
+      }
+    }
+  }
+}

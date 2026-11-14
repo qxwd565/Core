@@ -7,84 +7,9 @@
     "type": "SPELL",
     "cardClass": "ROGUE",
     "classes": [],
-    "nativeSetId": 1637,
-    "set": "CORE",
     "rarity": "LEGENDARY",
-    "race": "",
-    "races": [],
     "spellSchool": "SHADOW",
     "cost": 0,
-    "attack": 0,
-    "health": 0,
-    "armor": 0,
-    "durability": 0,
-    "collectible": true,
-    "chooseOne": false,
-    "installed": true,
-    "portrait": "HS27-202_S.tif:f92a30fdf6ad47708aa4997016e1570c",
-    "flavor": "내가 주문을 시전할 때마다, 그 카드 설명으로 변신합니다.",
-    "nativeTags": [
-      {
-        "id": 114,
-        "name": "전설 속성",
-        "value": 1
-      },
-      {
-        "id": 199,
-        "name": "직업",
-        "value": 7
-      },
-      {
-        "id": 202,
-        "name": "카드 유형",
-        "value": 5
-      },
-      {
-        "id": 203,
-        "name": "희귀도",
-        "value": 5
-      },
-      {
-        "id": 321,
-        "name": "수집 가능",
-        "value": 1
-      },
-      {
-        "id": 402,
-        "name": "능력치 숨김",
-        "value": 1
-      },
-      {
-        "id": 858,
-        "name": "게임 태그 858",
-        "value": 86092
-      },
-      {
-        "id": 1020,
-        "name": "사용할 수 없음",
-        "value": 1
-      },
-      {
-        "id": 1413,
-        "name": "게임 태그 1413",
-        "value": 86092
-      },
-      {
-        "id": 1544,
-        "name": "게임 태그 1544",
-        "value": 1
-      },
-      {
-        "id": 1635,
-        "name": "주문 속성",
-        "value": 6
-      }
-    ],
-    "nativeRawText": "내가 주문을 시전할 때마다 그 카드로 변신합니다.",
-    "nativeTextBuilder": 0,
-    "englishName": "Shadow of Demise",
-    "root": true,
-    "relatedIds": [],
-    "art": "art/CORE_RLK_567.png"
+    "collectible": true
   }
 }

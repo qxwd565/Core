@@ -1,0 +1,75 @@
+{
+  "schema": "hscard-date-metadata-1",
+  "id": "CORE_BT_801",
+  "timezone": "Asia/Seoul",
+  "release": {
+    "date": "2021-03-31",
+    "status": "unverified"
+  },
+  "baselineStatus": "partially-verified",
+  "normalization": {
+    "datedExcludedFields": {
+      "2021-03-31": {
+        "nativeSetId": 1637,
+        "set": "CORE",
+        "chooseOne": false,
+        "installed": true,
+        "portrait": "HS19-018.tif:e7055ff2200a421db5e894b8dfb70e3d",
+        "flavor": "\"눈에서 빔!\"",
+        "nativeTags": [
+          {
+            "id": 48,
+            "name": "마나 비용",
+            "value": 3
+          },
+          {
+            "id": 199,
+            "name": "직업",
+            "value": 14
+          },
+          {
+            "id": 202,
+            "name": "카드 유형",
+            "value": 5
+          },
+          {
+            "id": 203,
+            "name": "희귀도",
+            "value": 4
+          },
+          {
+            "id": 321,
+            "name": "수집 가능",
+            "value": 1
+          },
+          {
+            "id": 685,
+            "name": "생명력 흡수",
+            "value": 1
+          },
+          {
+            "id": 858,
+            "name": "게임 태그 858",
+            "value": 58183
+          },
+          {
+            "id": 1333,
+            "name": "추방자",
+            "value": 1
+          },
+          {
+            "id": 1635,
+            "name": "주문 속성",
+            "value": 7
+          }
+        ],
+        "nativeRawText": "[x]<b>생명력 흡수</b>\n하수인에게 피해를 $3 줍니다.\n<b>추방자:</b> 비용이 (1)이 됩니다.",
+        "nativeTextBuilder": 0,
+        "englishName": "Eye Beam",
+        "root": true,
+        "relatedIds": [],
+        "art": "art/CORE_BT_801.png"
+      }
+    }
+  }
+}

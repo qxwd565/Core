@@ -7,89 +7,10 @@
     "type": "MINION",
     "cardClass": "PRIEST",
     "classes": [],
-    "nativeSetId": 1637,
-    "set": "CORE",
     "rarity": "COMMON",
-    "race": "",
-    "races": [],
-    "spellSchool": "",
     "cost": 1,
     "attack": 1,
     "health": 2,
-    "armor": 0,
-    "durability": 0,
-    "collectible": true,
-    "chooseOne": false,
-    "installed": true,
-    "portrait": "HS27-073_M.tif:1a0f9d150b62412e8a9402541aa38b05",
-    "flavor": "제법 멋지지 않나요?",
-    "nativeTags": [
-      {
-        "id": 45,
-        "name": "생명력",
-        "value": 2
-      },
-      {
-        "id": 47,
-        "name": "공격력",
-        "value": 1
-      },
-      {
-        "id": 48,
-        "name": "마나 비용",
-        "value": 1
-      },
-      {
-        "id": 199,
-        "name": "직업",
-        "value": 6
-      },
-      {
-        "id": 202,
-        "name": "카드 유형",
-        "value": 4
-      },
-      {
-        "id": 203,
-        "name": "희귀도",
-        "value": 1
-      },
-      {
-        "id": 218,
-        "name": "전투의 함성",
-        "value": 1
-      },
-      {
-        "id": 321,
-        "name": "수집 가능",
-        "value": 1
-      },
-      {
-        "id": 858,
-        "name": "게임 태그 858",
-        "value": 84204
-      },
-      {
-        "id": 1413,
-        "name": "게임 태그 1413",
-        "value": 84204
-      },
-      {
-        "id": 4533,
-        "name": "제작 결과 능력",
-        "value": 1
-      },
-      {
-        "id": 4548,
-        "name": "게임 태그 4548",
-        "value": 1
-      }
-    ],
-    "nativeRawText": "<b>전투의 함성:</b> 내 손에 암흑 주문이 있으면,& +1/+1을 얻습니다.",
-    "nativeTextBuilder": 0,
-    "englishName": "Crystalsmith Cultist",
-    "root": true,
-    "relatedIds": [],
-    "art": "art/CORE_RLK_814.png"
+    "collectible": true
   }
 }

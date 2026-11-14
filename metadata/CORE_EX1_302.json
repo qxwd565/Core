@@ -1,0 +1,80 @@
+{
+  "schema": "hscard-date-metadata-1",
+  "id": "CORE_EX1_302",
+  "timezone": "Asia/Seoul",
+  "release": {
+    "date": "2021-03-31",
+    "status": "unverified"
+  },
+  "baselineStatus": "partially-verified",
+  "normalization": {
+    "datedExcludedFields": {
+      "2021-03-31": {
+        "nativeSetId": 1637,
+        "set": "CORE",
+        "chooseOne": false,
+        "installed": true,
+        "portrait": "W17_a028_D.psd:8b7f477edf0cc8b46a2fd69064cae4fe",
+        "flavor": "굳이 마나를 해골 모양으로 변형시킨 노력이 가상하지 않습니까? 상으로 카드 1장은 줍시다.",
+        "nativeTags": [
+          {
+            "id": 48,
+            "name": "마나 비용",
+            "value": 1
+          },
+          {
+            "id": 199,
+            "name": "직업",
+            "value": 9
+          },
+          {
+            "id": 201,
+            "name": "진영",
+            "value": 3
+          },
+          {
+            "id": 202,
+            "name": "카드 유형",
+            "value": 5
+          },
+          {
+            "id": 203,
+            "name": "희귀도",
+            "value": 1
+          },
+          {
+            "id": 251,
+            "name": "게임 태그 251",
+            "value": 1
+          },
+          {
+            "id": 268,
+            "name": "게임 태그 268",
+            "value": 2
+          },
+          {
+            "id": 321,
+            "name": "수집 가능",
+            "value": 1
+          },
+          {
+            "id": 858,
+            "name": "게임 태그 858",
+            "value": 1092
+          },
+          {
+            "id": 1635,
+            "name": "주문 속성",
+            "value": 6
+          }
+        ],
+        "nativeRawText": "하수인에게 피해를 $1 줍니다.\n그 하수인이 죽으면 카드를 뽑습니다.",
+        "nativeTextBuilder": 0,
+        "englishName": "Mortal Coil",
+        "root": true,
+        "relatedIds": [],
+        "art": "art/CORE_EX1_302.png"
+      }
+    }
+  }
+}

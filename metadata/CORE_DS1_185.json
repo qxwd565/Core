@@ -1,0 +1,75 @@
+{
+  "schema": "hscard-date-metadata-1",
+  "id": "CORE_DS1_185",
+  "timezone": "Asia/Seoul",
+  "release": {
+    "date": "2021-03-31",
+    "status": "unverified"
+  },
+  "baselineStatus": "partially-verified",
+  "normalization": {
+    "datedExcludedFields": {
+      "2021-03-31": {
+        "nativeSetId": 1637,
+        "set": "CORE",
+        "chooseOne": false,
+        "installed": true,
+        "portrait": "W10_A198_D.psd:5b657e27257dc4d47b4ee0727cd53dac",
+        "flavor": "예전엔 마법사들이 신비한 화살을 만들어 사냥꾼들에게 팔았습니다. 그러다 사냥꾼들이 아예 마법을 직접 배워 신비한 화살을 만들기 시작하면서, 스톰윈드는 작은 경기 침체에 시달렸다죠.",
+        "nativeTags": [
+          {
+            "id": 48,
+            "name": "마나 비용",
+            "value": 1
+          },
+          {
+            "id": 199,
+            "name": "직업",
+            "value": 3
+          },
+          {
+            "id": 201,
+            "name": "진영",
+            "value": 3
+          },
+          {
+            "id": 202,
+            "name": "카드 유형",
+            "value": 5
+          },
+          {
+            "id": 203,
+            "name": "희귀도",
+            "value": 3
+          },
+          {
+            "id": 251,
+            "name": "게임 태그 251",
+            "value": 8
+          },
+          {
+            "id": 321,
+            "name": "수집 가능",
+            "value": 1
+          },
+          {
+            "id": 858,
+            "name": "게임 태그 858",
+            "value": 877
+          },
+          {
+            "id": 1635,
+            "name": "주문 속성",
+            "value": 1
+          }
+        ],
+        "nativeRawText": "피해를 $2 줍니다.",
+        "nativeTextBuilder": 0,
+        "englishName": "Arcane Shot",
+        "root": true,
+        "relatedIds": [],
+        "art": "art/CORE_DS1_185.png"
+      }
+    }
+  }
+}

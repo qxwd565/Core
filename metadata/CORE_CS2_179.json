@@ -1,0 +1,90 @@
+{
+  "schema": "hscard-date-metadata-1",
+  "id": "CORE_CS2_179",
+  "timezone": "Asia/Seoul",
+  "release": {
+    "date": "2021-03-31",
+    "status": "unverified"
+  },
+  "baselineStatus": "partially-verified",
+  "normalization": {
+    "datedExcludedFields": {
+      "2021-03-31": {
+        "nativeSetId": 1637,
+        "set": "CORE",
+        "chooseOne": false,
+        "installed": true,
+        "portrait": "W3_018_D.psd:bd63e14778e22df4ab45adab49c35cfc",
+        "flavor": "센진 마을은 쾌적합니다. 트롤과 먼지만 감당할 수 있으면요.",
+        "nativeTags": [
+          {
+            "id": 45,
+            "name": "생명력",
+            "value": 5
+          },
+          {
+            "id": 47,
+            "name": "공격력",
+            "value": 3
+          },
+          {
+            "id": 48,
+            "name": "마나 비용",
+            "value": 4
+          },
+          {
+            "id": 190,
+            "name": "도발",
+            "value": 1
+          },
+          {
+            "id": 199,
+            "name": "직업",
+            "value": 12
+          },
+          {
+            "id": 201,
+            "name": "진영",
+            "value": 1
+          },
+          {
+            "id": 202,
+            "name": "카드 유형",
+            "value": 4
+          },
+          {
+            "id": 203,
+            "name": "희귀도",
+            "value": 1
+          },
+          {
+            "id": 251,
+            "name": "게임 태그 251",
+            "value": 1
+          },
+          {
+            "id": 268,
+            "name": "게임 태그 268",
+            "value": 2
+          },
+          {
+            "id": 321,
+            "name": "수집 가능",
+            "value": 1
+          },
+          {
+            "id": 858,
+            "name": "게임 태그 858",
+            "value": 635
+          }
+        ],
+        "nativeRawText": "<b>도발</b>",
+        "nativeTextBuilder": 0,
+        "englishName": "Sen'jin Shieldmasta",
+        "root": true,
+        "relatedIds": [],
+        "art": "art/CORE_CS2_179.png"
+      }
+    }
+  }
+}

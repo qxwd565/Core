@@ -7,86 +7,14 @@
     "type": "MINION",
     "cardClass": "NEUTRAL",
     "classes": [],
-    "nativeSetId": 1637,
-    "set": "CORE",
     "rarity": "COMMON",
     "race": "야수",
     "races": [
       "BEAST"
     ],
-    "spellSchool": "",
     "cost": 1,
     "attack": 2,
     "health": 1,
-    "armor": 0,
-    "durability": 0,
-    "collectible": true,
-    "chooseOne": false,
-    "installed": true,
-    "portrait": "HS13-243_M.psd:918fd812dbc52ae4eba2a5aba636bf40",
-    "flavor": "드루이드만이 예쁘다고 할 얼굴입니다.",
-    "nativeTags": [
-      {
-        "id": 45,
-        "name": "생명력",
-        "value": 1
-      },
-      {
-        "id": 47,
-        "name": "공격력",
-        "value": 2
-      },
-      {
-        "id": 48,
-        "name": "마나 비용",
-        "value": 1
-      },
-      {
-        "id": 199,
-        "name": "직업",
-        "value": 12
-      },
-      {
-        "id": 200,
-        "name": "종족",
-        "value": 20
-      },
-      {
-        "id": 202,
-        "name": "카드 유형",
-        "value": 4
-      },
-      {
-        "id": 203,
-        "name": "희귀도",
-        "value": 1
-      },
-      {
-        "id": 321,
-        "name": "수집 가능",
-        "value": 1
-      },
-      {
-        "id": 685,
-        "name": "생명력 흡수",
-        "value": 1
-      },
-      {
-        "id": 858,
-        "name": "게임 태그 858",
-        "value": 47072
-      },
-      {
-        "id": 1413,
-        "name": "게임 태그 1413",
-        "value": 47072
-      }
-    ],
-    "nativeRawText": "<b>생명력 흡수</b>",
-    "nativeTextBuilder": 0,
-    "englishName": "Swamp Leech",
-    "root": true,
-    "relatedIds": [],
-    "art": "art/CORE_GIL_558.png"
+    "collectible": true
   }
 }

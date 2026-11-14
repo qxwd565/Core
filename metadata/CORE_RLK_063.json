@@ -1,0 +1,82 @@
+{
+  "schema": "hscard-date-metadata-1",
+  "id": "CORE_RLK_063",
+  "timezone": "Asia/Seoul",
+  "release": {
+    "date": "2021-03-31",
+    "status": "unverified"
+  },
+  "baselineStatus": "partially-verified",
+  "normalization": {
+    "datedExcludedFields": {
+      "2021-03-31": {
+        "nativeSetId": 1637,
+        "set": "CORE",
+        "chooseOne": false,
+        "installed": true,
+        "portrait": "HS27-128_S.tif:3c6384e73b64474c89a53a8cf7f892a9",
+        "flavor": "끔찍한 파괴를 불러일으키는 입김이지만, 산뜻한 박하 향이 나죠!",
+        "nativeTags": [
+          {
+            "id": 48,
+            "name": "마나 비용",
+            "value": 7
+          },
+          {
+            "id": 199,
+            "name": "직업",
+            "value": 1
+          },
+          {
+            "id": 202,
+            "name": "카드 유형",
+            "value": 5
+          },
+          {
+            "id": 203,
+            "name": "희귀도",
+            "value": 4
+          },
+          {
+            "id": 208,
+            "name": "빙결",
+            "value": 1
+          },
+          {
+            "id": 321,
+            "name": "수집 가능",
+            "value": 1
+          },
+          {
+            "id": 858,
+            "name": "게임 태그 858",
+            "value": 78355
+          },
+          {
+            "id": 1452,
+            "name": "수집품 관련 카드 데이터베이스 ID",
+            "value": 87085
+          },
+          {
+            "id": 1635,
+            "name": "주문 속성",
+            "value": 3
+          },
+          {
+            "id": 2197,
+            "name": "냉기 룬",
+            "value": 3
+          }
+        ],
+        "nativeRawText": "피해를 $5 줍니다. 모든 적 하수인을 <b>빙결</b> 상태로 만듭니다. 5/5 서리고룡을 소환합니다.",
+        "nativeTextBuilder": 0,
+        "englishName": "Frostwyrm's Fury",
+        "root": true,
+        "relatedIds": [
+          87085
+        ],
+        "art": "art/CORE_RLK_063.png"
+      }
+    }
+  }
+}

@@ -1,0 +1,80 @@
+{
+  "schema": "hscard-date-metadata-1",
+  "id": "CS3_020",
+  "timezone": "Asia/Seoul",
+  "release": {
+    "date": "2021-03-31",
+    "status": "unverified"
+  },
+  "baselineStatus": "partially-verified",
+  "normalization": {
+    "datedExcludedFields": {
+      "2021-03-31": {
+        "nativeSetId": 1637,
+        "set": "CORE",
+        "chooseOne": false,
+        "installed": true,
+        "portrait": "CLA-040_M.tif:a9ee80f91d9148e7aea407b316b77684",
+        "flavor": "공포와 커다란 눈을 가졌으며, 효율 앞에 가차없고 내 영웅에게 광적인 충성심도 보입니다. 멋있는 갈색 예복도 입었고요.",
+        "nativeTags": [
+          {
+            "id": 32,
+            "name": "발동 효과 표시",
+            "value": 1
+          },
+          {
+            "id": 45,
+            "name": "생명력",
+            "value": 8
+          },
+          {
+            "id": 47,
+            "name": "공격력",
+            "value": 8
+          },
+          {
+            "id": 48,
+            "name": "마나 비용",
+            "value": 8
+          },
+          {
+            "id": 199,
+            "name": "직업",
+            "value": 14
+          },
+          {
+            "id": 200,
+            "name": "종족",
+            "value": 15
+          },
+          {
+            "id": 202,
+            "name": "카드 유형",
+            "value": 4
+          },
+          {
+            "id": 203,
+            "name": "희귀도",
+            "value": 3
+          },
+          {
+            "id": 321,
+            "name": "수집 가능",
+            "value": 1
+          },
+          {
+            "id": 791,
+            "name": "속공",
+            "value": 1
+          }
+        ],
+        "nativeRawText": "[x]<b>속공</b>, 내 영웅이 공격한\n후에, 이 하수인도\n그 대상을 공격합니다.",
+        "nativeTextBuilder": 0,
+        "englishName": "Illidari Inquisitor",
+        "root": true,
+        "relatedIds": [],
+        "art": "art/CS3_020.png"
+      }
+    }
+  }
+}
